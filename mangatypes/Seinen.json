@@ -1,0 +1,1199 @@
+[
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Vinland Saga",
+          "Author": "Makoto Yukimura",
+          "Anime": "Vinland Saga",
+          "Artist": "Makoto Yukimura",
+          "Animeurl": "https://media.kitsu.app/manga/cover_images/1456/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Action",
+            "Drama",
+            "Psychological"
+          ],
+          "Publishers": [
+            "Kodansha USA"
+          ],
+          "Publishinghouses": [
+            "Kodansha"
+          ],
+          "Originalvalue": 700,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Historical epic set in Viking times raw , brutal and emotionally heavy ."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/naruto_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+                {
+                  "Name": "Thorfinn",
+                  "Penname": "None",
+                  "Role": "Protagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/9/97/Naruto_Uzumaki_Part_II.png"
+                },
+                {
+                  "Name": "Askeladd",
+                  "Penname": "None",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/8/87/Sasuke_Part_II.png"
+                },
+                {
+                  "Name": "Canute",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/e/e0/Sakura_Part_II.png"
+                },
+                {
+                  "Name": "Thors",
+                  "Penname": "Copy Ninja",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/64/Kakashi_Hokage.png"
+                },
+                {
+                  "Name": "Thorkell",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/0/0b/Shikamaru_Nara_Part_II.png"
+                },
+                {
+                  "Name": "Einar",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/b/bf/Tsunade.png"
+                },
+                {
+                  "Name": "Leif Erikson",
+                  "Penname": "Sannin",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/7/74/Orochimaru_Part_II.png"
+                }    
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Tokyo Ghoul",
+          "Author": "Sui Ishida",
+          "Anime": "Tokyo Ghoul",
+          "Artist": "Sui Ishida",
+          "Animeurl": "https://media.kitsu.app/manga/7176/poster_image/64ccebb4f65a491c1affcd44ba10c29c.jpg",    
+          "Language": "Japanese",
+          "Genres": [
+            "Action",
+            "Dark Fantasy",
+            "Horror",
+            "Psychological",
+            "Tragedy"
+          ],
+          "Publishers": [
+            "VIZ Media"
+          ],
+          "Publinshinghouses": [
+            "Shueisha"
+          ],
+          "Originalvalue": 600,
+          "previousvalue": 750,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Tokyo Ghoul ia an Japanese dark fantasy and it is set in an alternate reality where humans coexists with ghouls (creatures that look like humans and survive by eating human flesh) ."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "Image": "https://example.com/one_piece_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Ken Kaneki",
+                "Penname": "Straw Hat",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/monkey_d_luffy.jpg"
+              },
+              {
+                "Name": "Yoshimura",
+                "Penname": "Pirate Hunter",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/roronoa_zoro.jpg"
+              },
+              {
+                "Name": "Shuu Tsukiyama",
+                "Penname": "Cat Burglar",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/nami.jpg"
+              },
+              {
+                "Name": "Nishiki Nishio",
+                "Penname": "Sogeking",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/usopp.jpg"
+              },
+              {
+                "Name": "Touka Kirishima",
+                "Penname": "Black Leg",
+                "Role": "Love-Interest",
+                "Imageurl": "https://example.com/sanji.jpg"
+              },
+              {
+                "Name": "Rize Kamishiro",
+                "Penname": "Cotton Candy Lover",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/tony_tony_chopper.jpg"
+              },
+              {
+                "Name": "Koutarou Amon",
+                "Penname": "Koutarou Amon",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/nico_robin.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Ajin:Demi Human",
+          "Author": "Gamon Sakurai(Tsuina Miura)",
+          "Anime": "Ajin:Demi Human",
+          "Artist": "Gamon Sakurai(Tsuina Miura)",
+          "Animeurl": "https://media.kitsu.app/manga/cover_images/7393/original.jpgg",
+          "Language": "Japanese",
+          "Genres": [
+            "Action",
+            "Supernatural",
+            "Horror",
+            "Psychological"
+          ],
+          "Publishers": [
+            "Vertical Comics"
+          ],
+          "Publinshinghouses": [
+            "Kodansha"
+          ],
+          "Originalvalue": 900,
+          "previousvalue": 780,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Ajin: Demi-Human is a Japanese manga series which is showcasing  Kei Nagai, a high school student who is killed in traffic accident,comes back to life which makes him realize he is a Demi-Human from that day his world changes dramatcally."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/my_hero_academia_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Kei Nagai",
+                "Penname": "Kei Nagai",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/izuku_midoriya.jpg"
+              },
+              {
+                "Name": "Kaito",
+                "Penname": "Kaito",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/katsuki_bakugo.jpg"
+              },
+              {
+                "Name": "Tosaki",
+                "Penname": "Tosaki",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/all_might.jpg"
+              },
+              {
+                "Name": "Satou",
+                "Penname": "Satou",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/shota_aizawa.jpg"
+              },
+              {
+                "Name": "Izumi Shimomura",
+                "Penname": "Izumi Shimomura",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/tsuyu_asui.jpg"
+              }             
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Parasyte:The Maxim",
+          "Author": "Hitoshi Iwaaki",
+          "Anime": "Parasyte:The Maxim",
+          "Artist": "Hitoshi Iwaaki",                             
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/56433/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+             "Action",
+            "Sci-fi",
+            "Horror",
+            "Body Horror",
+            "Psychological"
+          ],
+          "Publishers": [
+            "Kodansha USA"
+          ],
+          "Publinshinghouses": [
+            "Kodansha"
+          ],
+          "Originalvalue": 1000,
+          "previousvalue": 650,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Parasyte is an horror sci-fi manga based on a boy Shinichi Izumi who lives in a world where aliens suddenly invade the planet and take over human bodies . One night, a Parasite (Migi) try to take over Shinichi body and fail to end up inhabitating only his right arm .this series focus on human-alien relationship how they cooperate together and help other humans from parasytes."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/jujutsu_kaisen_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Shinichi Izumi",
+              "Penname": "Sukuna's Vessel",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/yuji_itadori.jpg"
+            },
+            {
+              "Name": "Migi",
+              "Penname": "Symbiotic Parasyte",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/megumi_fushiguro.jpg"
+            },
+            {
+              "Name": "Kana Kimishima",
+              "Penname": "Straw Doll",
+              "Role": "Love-Interest",
+              "Imageurl": "https://example.com/nobara_kugisaki.jpg"
+            },
+            {
+              "Name": "Gotou",
+              "Penname": "Gotou",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/ryomen_sukuna.jpg"
+            },
+            {
+              "Name": "Sataomi Murano",
+              "Penname": "7:3",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/kento_nanami.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Hellsing Ultimate",
+          "Author": "Kouta Hirano",
+          "Anime": "Hellsing Ultimate",
+          "Artist": "Kouta Hirano",             
+          "Animeurl": "https://images.thalia.media/00/-/cb40f0c4b16b4e71939d54610157df5d/hellsing-neue-edition-10-taschenbuch-kohta-hirano.jpeg",
+          "Language": "Japanese",
+          "Genres": [
+            "Action",
+            "Supernatural",
+            "Horror",
+            "Gore",
+            "Vampire"
+          ],
+          "Publishers": [
+            "Dark Horse Comics"
+          ],
+          "Publinshinghouses": [
+            "Shōnen Gahōsha"
+          ],
+          "Originalvalue": 850,
+          "previousvalue": 780,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Hellsing is a dark fantasy , action-horror seinen manga which centered around Abraham Van Hellsing .It's renowned for its gothic atmosphere, extreme violence and deep themes involving vampires and the themes of anime revolve around War and ideology( Nazism, Catholicism vs Protestantism) .our main character Alucard is an powerful vampire under Hellsing command who fight against supernatural evils and protect the queen and country."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/attack_on_titan_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+                {
+                    "Name": "Alucad",
+                    "Penname": "Dracula",
+                    "Role": "Protagonist",
+                    "Imageurl": "https://example.com/eren_yeager.jpg"
+                },
+                {
+                    "Name": "Integra Hellsing",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/mikasa_ackerman.jpg"
+                },
+                {
+                    "Name": "Seras Victoria",
+                    "Penname": "Police Girl",
+                    "Role": "Love-Interest",
+                    "Imageurl": "https://example.com/armin_arlert.jpg"
+                },
+                {
+                    "Name": "Alexander Anderson",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/colossal_titan.jpg"
+                },
+                {
+                    "Name": "The Major",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/armored_titan.jpg"
+                },
+                {
+                    "Name": "Walter C.Dornez",
+                    "Penname": "Angel of Death",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/beast_titan.jpg"
+                },
+                {
+                    "Name": "Pip Bernadotte",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/beast_titan.jpg"
+                }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "One Punch Man",
+          "Author": "Yusuke Murata",
+          "Anime": "One Punch Man",
+          "Artist": "Yusuke Murata",
+          "Animeurl": "https://media.kitsu.app/manga/24147/cover_image/c06c4310e3d396bea68b3ace78a412c9.png",
+          "Language": "Japanese",
+          "Genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "Sci-fi",
+            "Seinen"
+          ],
+          "Publishers": [
+            "VIZ Media"
+          ],
+          "Publinshinghouses": [
+            "Shueisha"
+          ],
+          "Originalvalue": 800,
+          "previousvalue": 780,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "This manga revolve around Saitama an independent superhero who can defeat any opponent with a single punch . he later join the Hero Association with Genos(Saitama's student) which employs superheroes to fight evil monsters and supervillians"
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/bleach_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [ 
+            {
+                "Name": "Saitama",
+                "Penname": "One Punch Man",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/ichigo_kurosaki.jpg"
+              },
+              {
+                "Name": "Genos",
+                "Penname": "Demon Cyborg",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/rukia_kuchiki.jpg"
+              },
+              {
+                "Name": "Speed-'o'-Sound Sonic",
+                "Penname": "Sonic",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/sosuke_aizen.jpg"
+              },
+              {
+                "Name": "Mumen Rider",
+                "Penname": "None",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/kisuke_urahara.jpg"
+              },
+              {
+                "Name": "Tatsumaki",
+                "Penname": "Tornado of Terror",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/orihime_inoue.jpg"
+              },
+              {
+                "Name": "Garou",
+                "Penname": "Hero Hunter",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/yasutora_sado.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Monster",
+          "Author": "Naoki Urasawa",
+          "Anime": "Monster",
+          "Artist": "Naoki Urasawa",
+          "Animeurl": "https://media.kitsu.app/manga/4/poster_image/ff09ab66593cfb99d47d27fafec9cf0f.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Psychological",
+            "Drama",
+            "Thriller",
+            "Mystery",
+            "Crime"
+          ],
+          "Publishers": [
+            "VIZ Media"
+          ],
+          "Publinshinghouses": [
+            "Shogakukan"
+          ],
+          "Originalvalue": 1200,
+          "previousvalue": 1080,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "It is a manga which centered around Dr. Kenzo Tenma, a Japanese Surgeon Living in Dusseldorf, Germany whose life enters turmoil after he gets himself involved with Johan Liebert(Psychopathic Serial Killer)."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200,
+          
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/fairy_tail_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Dr.Kenzo Tenma",
+              "Penname": "Dr.Kenzo Tenma",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/natsu_dragneel.jpg"
+            },
+            {
+              "Name": "Johan Liebert",
+              "Penname": "Charismatic Serial killer",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/lucy_heartfilia.jpg"
+            },
+            {
+              "Name": "Nina Fortner",
+              "Penname": "Anna",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/erza_scarlet.jpg"
+            },
+            {
+              "Name": "Inspector Lunge",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/gray_fullbuster.jpg"
+            },
+            {
+              "Name": "Eva Heinemann",
+              "Penname": "Exceed",
+              "Role": "Love-Interest",
+              "Imageurl": "https://example.com/happy.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Black Lagoon",
+          "Author": "Rei Hiroe",
+          "Anime": "Black Lagoon",
+          "Artist": "Rei Hiroe",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/1620/large.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Mafia",
+            "Action",
+            "Crime",
+            "Thriller"
+          ],
+          "Publishers": [
+            "VIZ Media"
+          ],
+          "Publinshinghouses": [
+            "Shogakukan"
+          ],
+          "Originalvalue": 900,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Black Lagoon is a Mafia Crime Gunplay manga series written by Rei Hiroe and published in Shogakukan's Sunday GX since 2002.The story which set during the early 1990s followed by a group of pirates known as Lagoon Company,that smuggles goods around the Seas of Southeast Asia. "
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/black_clover_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Rokuro Okajima",
+                "Penname": "Rock",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/asta.jpg"
+              },
+              {
+                "Name": "Revy",
+                "Penname": "Rebecca Lee",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/yuno.jpg"
+              },
+              {
+                "Name": "Dutch",
+                "Penname": "None",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/noelle_silva.jpg"
+              },
+              {
+                "Name": "Benny",
+                "Penname": "None",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/yami_sukehiro.jpg"
+              },
+              {
+                "Name": "Balalaika",
+                "Penname": "None",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/magna_swing.jpg"
+              },
+              {
+                "Name": "Eda",
+                "Penname": "None",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/luck_voltia.jpg"
+              },
+              {
+                "Name": "Roberta",
+                "Penname": "Witch of Fate",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/vanessa_enoteca.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Dorohedoro",
+          "Author": "Q Hayashida",
+          "Anime": "Dorohedoro",
+          "Artist": "Q Hayashida",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/2435/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Gore",
+            "Comedy",
+            "Dark Fantasy",
+            "Mystery",
+            "Action"
+          ],
+          "Publishers": [
+            "VIZ Media"
+          ],
+          "Publishinghouses": [
+            "Shogakukan"
+          ],
+          "Originalvalue": 1100,
+          "previousvalue": 900,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A manga that tells the story about Caiman, an amnesic man who live in Hole (dismal city) whose body was disfigured by magic ,tries to recover his original body and memory from his past."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/hunter_x_hunter_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Caiman",
+              "Penname": "None",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/gon_freecss.jpg"
+            },
+            {
+              "Name": "Nikaido",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/killua_zoldyck.jpg"
+            },
+            {
+              "Name": "En",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/kurapika.jpg"
+            },
+            {
+              "Name": "Shin",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/leorio_paradinight.jpg"
+            },
+            {
+              "Name": "Noi",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/hisoka_morow.jpg"
+            },
+            {
+              "Name": "Ebisu",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/isaac_netero.jpg"
+            },
+            {
+              "Name": "Chidaruma",
+              "Penname": "None",
+              "Role": "Other",
+              "Imageurl": "https://example.com/meruem.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Psycho-Pass",
+          "Author": "Gen Urobuchi",
+          "Anime": "Psycho-Pass",
+          "Artist": "Gen Urobuchi",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/24482/original.png",
+          "Language": "Japanese",
+          "Genres": [
+            "Cyberpunk",
+            "Thriller",
+            "Sci-fi",
+            "Crime"
+          ],
+          "Publishers": [
+            "Dark Horse/VIZ"
+          ],
+          "Publinshinghouses": [
+            "Mag Garden"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "Psycho-Pass explores a society governed by the Sibyl System, an all-seeing AI that quantifies people's mental states to determine their threat level.The story follows Akane Tsunemori, a rookie Inspector and her partner Shinya Kogami"
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/dr._stone_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Akane Tsunemori",
+              "Penname": "None",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/senku_ishigami.jpg"
+            },
+            {
+              "Name": "Shinya Kogami",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/taiju_oki.jpg"
+            },
+            {
+              "Name": "Shogo Makishima",
+              "Penname": "None",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/yuzuriha_ogawa.jpg"
+            },
+            {
+              "Name": "Nobuchika Ginoza",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/chrome.jpg"
+            },
+            {
+              "Name": "Yayoi Kunizuka",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/kohaku.jpg"
+            },
+            {
+              "Name": "Shion Karanomori",
+              "Penname": "None",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/gen_asagiri.jpg"
+            },
+            {
+              "Name": "Sibyl System",
+              "Penname": "None",
+              "Role": "Other",
+              "Imageurl": "https://example.com/tsukasa_shishio.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+{
+      "ItemType": "Manga",
+      "Genre": "Seinen",
+      "Type": [
+        {
+          "Title": "Devilman Crybaby",
+          "Author": "Go Nagai",
+          "Anime": "Devilman Crybaby",
+          "Artist": "Go Nagai",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/3138/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Supernatural",
+            "Tragedy",
+            "Horror"
+          ],
+          "Publishers": [
+            "Seven Seas Entertainment"
+          ],
+          "Publishinghouses": [
+            "Kodansha"
+          ],
+          "Originalvalue": 1500,
+          "previousvalue": 1480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            " It is a violent, emotional, and philosophical Manga which blend horror with deep psychological .the story focused on Akira Fudo(Devilman) who fuse with demon Amon on the request of Ryo Asuka and later protect humans from demonic forces"
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/naruto_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+                {
+                  "Name": "Akira Fudo",
+                  "Penname": "Devilman",
+                  "Role": "Protagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/9/97/Naruto_Uzumaki_Part_II.png"
+                },
+                {
+                  "Name": "Ryo Asuka",
+                  "Penname": "Satan",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/8/87/Sasuke_Part_II.png"
+                },
+                {
+                  "Name": "Miki Makimura",
+                  "Penname": "None",
+                  "Role": "Love-Interest",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/e/e0/Sakura_Part_II.png"
+                },
+                {
+                  "Name": "Taro Makimura",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/64/Kakashi_Hokage.png"
+                },
+                {
+                  "Name": "Kaim",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/4/4e/Hinata_Part_II.png"
+                },
+                {
+                  "Name": "Silene",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/6c/Itachi_Uchiha.png"
+                }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    }
+  ]

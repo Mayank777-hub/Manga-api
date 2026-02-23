@@ -1,0 +1,593 @@
+[
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Gojo Infinity Laptop Stand",
+        "Brand": "CursedTech",
+        "Model": "CT-INFINITYSTAND",
+        "Compatibility": ["10-17 inch Laptops", "Tablets"],
+        "Image": "https://example.com/images/gojo_laptopstand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/gojo_stand1.jpg",
+          "https://example.com/gallery/gojo_stand2.jpg"
+        ],
+        "Color": ["Infinity Blue", "White Glow"],
+        "Material": "Aluminum Alloy, LED Strips",
+        "Connectivity": "USB Powered",
+        "Features": ["6 Adjustable Angles", "Infinity LED Lighting", "360° Rotation", "Cooling Ventilation", "Foldable Design"],
+        "Size": ["35cm x 25cm x 3-15cm adjustable"],
+        "Weight": 0.85,
+        "Originalvalue": 59.99,
+        "previousvalue": 69.99,
+        "Marketprice": 54.99,
+        "Currentoffer": ["Free Domain Expansion Mousepad"],
+        "previousoffer": "Pre-order Bonus",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "CursedTech Engineering",
+          "Country": "USA",
+          "Address": "Los Angeles, CA",
+          "ContactEmail": "engineering@cursedtech.com",
+          "ContactPhone": "+1-310-555-2468",
+          "Website": "https://cursedtech.com",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 15,
+        "Description": "Premium laptop stand featuring Gojo Satoru's Infinity technique with glowing blue LED effects. The stand provides 6 adjustable angles for optimal viewing and includes built-in cooling vents to prevent overheating.",
+        "Releasedate": "2024-04-15T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SixEyesUser",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user1", "user2"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The infinity lighting is mesmerizing! Stand is sturdy and holds my gaming laptop securely. Perfect ergonomic height!",
+            "ReviewProfileImage": "default.png",
+            "date": "2024-05-01T14:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CT-INFINITYSTAND",
+            "CurrentModelLikes": 876,
+            "CurrentModelDislikes": 15,
+            "PreviousModel": "CT-SUKUNASTAND2023",
+            "PreviousModelLikes": 654,
+            "PreviousModelDislikes": 28,
+            "CurrentModelDate": "2024-04-15T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Demon Slayer Water Breathing Bamboo Stand",
+        "Brand": "HashiraCraft",
+        "Model": "HC-WATERBAMBOO",
+        "Compatibility": ["13-16 inch Laptops"],
+        "Image": "https://example.com/images/demonslayer_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/demonslayer_stand1.jpg",
+          "https://example.com/gallery/demonslayer_stand2.jpg"
+        ],
+        "Color": ["Natural Bamboo", "Water Pattern"],
+        "Material": "Solid Bamboo, Rubber Grips",
+        "Connectivity": "N/A",
+        "Features": ["Handcrafted Bamboo", "Water Droplet Design", "Non-Slip Surface", "Natural Cooling", "Foldable"],
+        "Size": ["30cm x 22cm x 5-12cm"],
+        "Weight": 0.65,
+        "Originalvalue": 44.99,
+        "previousvalue": 49.99,
+        "Marketprice": 39.99,
+        "Currentoffer": ["Free Breathing Style Art Print"],
+        "previousoffer": "Seasonal Sale",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "HashiraCraft Woodworks",
+          "Country": "Japan",
+          "Address": "Kyoto, Japan",
+          "ContactEmail": "woodworks@hashiracraft.jp",
+          "ContactPhone": "+81-75-2468-1357",
+          "Website": "https://hashiracraft.jp",
+          "Warranty": "6 Month Craftsmanship Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 123,
+        "No_of_Likes": 765,
+        "No_of_Dislikes": 9,
+        "Description": "Handcrafted bamboo laptop stand featuring water droplet patterns inspired by Tanjiro's Water Breathing technique. Natural bamboo provides excellent heat dissipation. Each piece has unique grain patterns.",
+        "Releasedate": "2024-03-20T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Portable Foldable Stand",
+        "Brand": "WakuWaku Gear",
+        "Model": "WW-ANYASTAND",
+        "Compatibility": ["Tablets", "Small Laptops up to 14-inch"],
+        "Image": "https://example.com/images/anya_laptopstand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/anya_stand1.jpg"
+        ],
+        "Color": ["Anya Pink", "White"],
+        "Material": "Silicone, Plastic Joints",
+        "Connectivity": "N/A",
+        "Features": ["Ultra Portable", "Anya Face Design", "Multiple Angles", "Non-Slip Base", "Fits in Bag"],
+        "Size": ["Collapsed: 18cm x 5cm"],
+        "Weight": 0.18,
+        "Originalvalue": 24.99,
+        "previousvalue": 29.99,
+        "Marketprice": 22.99,
+        "Currentoffer": ["Free Peanut Keychain"],
+        "previousoffer": "Back-to-School",
+        "Warranty": "3 Months",
+        "Manufacturer": {
+          "Name": "WakuWaku Gear Co.",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "gear@wakuwa.ku.jp",
+          "ContactPhone": "+81-3-1357-2468",
+          "Website": "https://wakuwa.ku-gear.jp",
+          "Warranty": "3 Month Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 345,
+        "No_of_Likes": 543,
+        "No_of_Dislikes": 12,
+        "Description": "Adorable portable stand featuring Anya's face design. Perfect for students and travelers. The silicone construction provides excellent grip and the stand folds flat to fit in any bag.",
+        "Releasedate": "2024-06-10T00:00:00.000Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaFan99",
+            "ReviewerLike": 23,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user3"],
+            "ReviewerDisLikeby": ["user4"],
+            "Rating": 4,
+            "Review": "HEH! So cute and actually useful! Fits in my backpack perfectly. Great for watching anime on my tablet during commute.",
+            "ReviewProfileImage": "anyaface.png",
+            "date": "2024-07-01T11:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "One Piece Thousand Sunny Ship Stand",
+        "Brand": "GrandLine Works",
+        "Model": "GL-SUNNYSTAND",
+        "Compatibility": ["15-17 inch Laptops"],
+        "Image": "https://example.com/images/sunny_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/sunny_stand1.jpg",
+          "https://example.com/gallery/sunny_stand2.jpg"
+        ],
+        "Color": ["Ship Wood Brown", "Yellow Trim"],
+        "Material": "Wood Composite, Metal Supports",
+        "Connectivity": "USB Hub Optional",
+        "Features": ["Ship Hull Design", "Built-in USB 3.0 Hub", "Adjustable Mast", "Storage Compartment", "Non-Slip Deck"],
+        "Size": ["40cm x 28cm x 15cm"],
+        "Weight": 1.25,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 74.99,
+        "Currentoffer": ["Free Jolly Roger Flag"],
+        "previousoffer": "Pirate King Day Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "GrandLine Works Studio",
+          "Country": "Taiwan",
+          "Address": "Taipei, Taiwan",
+          "ContactEmail": "studio@grandlineworks.com",
+          "ContactPhone": "+886-2-2468-1357",
+          "Website": "https://grandlineworks.com",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 56,
+        "No_of_Likes": 987,
+        "No_of_Dislikes": 18,
+        "Description": "Creative laptop stand designed like the Thousand Sunny ship. The adjustable mast holds cables, and the 'deck' has a storage compartment for small items. Optional USB hub available.",
+        "Releasedate": "2024-02-28T00:00:00.000Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "GL-SUNNYSTAND",
+            "CurrentModelLikes": 987,
+            "CurrentModelDislikes": 18,
+            "PreviousModel": "GL-MERRYSTAND2023",
+            "PreviousModelLikes": 765,
+            "PreviousModelDislikes": 32,
+            "CurrentModelDate": "2024-02-28T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might PLUS ULTRA Standing Desk Converter",
+        "Brand": "HeroErgo",
+        "Model": "HE-ALLMIGHTDESK",
+        "Compatibility": ["Sit-Stand Desks", "All Laptop Sizes"],
+        "Image": "https://example.com/images/allmight_deskstand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/allmight_desk1.jpg"
+        ],
+        "Color": ["Plus Ultra Blue", "Silver"],
+        "Material": "Steel Frame, Laminate Top",
+        "Connectivity": "N/A",
+        "Features": ["Height Adjustable", "SMASH! Button Controls", "Large Surface Area", "Cable Management", "Ergonomic Design"],
+        "Size": ["70cm x 50cm adjustable height"],
+        "Weight": 5.8,
+        "Originalvalue": 149.99,
+        "previousvalue": 169.99,
+        "Marketprice": 139.99,
+        "Currentoffer": ["Free Ergonomic Wrist Rest"],
+        "previousoffer": "Hero Workstation Bundle",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "HeroErgo Solutions",
+          "Country": "USA",
+          "Address": "Detroit, MI",
+          "ContactEmail": "solutions@heroergo.com",
+          "ContactPhone": "+1-313-555-7890",
+          "Website": "https://heroergo.com",
+          "Warranty": "2 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 654,
+        "No_of_Dislikes": 23,
+        "Description": "Premium sit-stand desk converter featuring All Might's color scheme and PLUS ULTRA design elements. The SMASH! button controls height adjustment. Perfect for home office or gaming setups.",
+        "Releasedate": "2024-01-10T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ProHeroOffice",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user5", "user6"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "PLUS ULTRA ergonomics! This stand converter has transformed my WFH setup. Sturdy construction and smooth height adjustment.",
+            "ReviewProfileImage": "office.png",
+            "date": "2024-02-01T09:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Attack on Titan Wall Maria Multi-Level Stand",
+        "Brand": "WallMaria Designs",
+        "Model": "WM-WALLMARIASTAND",
+        "Compatibility": ["Multiple Devices", "Laptop + Monitor"],
+        "Image": "https://example.com/images/wallmaria_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/wallmaria_stand1.jpg",
+          "https://example.com/gallery/wallmaria_stand2.jpg"
+        ],
+        "Color": ["Stone Gray", "Survey Corps Green"],
+        "Material": "MDF Wood, Metal Brackets",
+        "Connectivity": "N/A",
+        "Features": ["3-Tier Design", "Wall Stone Texture", "Monitor + Laptop + Tablet", "Cable Routing", "Sturdy Construction"],
+        "Size": ["60cm wide x 40cm deep"],
+        "Weight": 3.2,
+        "Originalvalue": 89.99,
+        "previousvalue": 99.99,
+        "Marketprice": 84.99,
+        "Currentoffer": ["Free ODM Gear Cable Clips"],
+        "previousoffer": "None",
+        "Warranty": "18 Months",
+        "Manufacturer": {
+          "Name": "WallMaria Designs Studio",
+          "Country": "Germany",
+          "Address": "Berlin, Germany",
+          "ContactEmail": "studio@wallmariadesigns.de",
+          "ContactPhone": "+49-30-1357-2468",
+          "Website": "https://wallmariadesigns.de",
+          "Warranty": "18 Month Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 43,
+        "No_of_Likes": 432,
+        "No_of_Dislikes": 28,
+        "Description": "Multi-level stand designed like Wall Maria with three distinct tiers. Holds monitor on top level, laptop on middle level, and tablet/phone on bottom level. Features realistic stone wall texture.",
+        "Releasedate": "2024-05-05T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan Rotating Cooling Stand",
+        "Brand": "ShinobiTech",
+        "Model": "ST-RASENGANCOOL",
+        "Compatibility": ["Gaming Laptops up to 17-inch"],
+        "Image": "https://example.com/images/rasengan_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/rasengan_stand1.jpg"
+        ],
+        "Color": ["Spiral Blue", "Orange Accents"],
+        "Material": "Plastic, Aluminum Mesh",
+        "Connectivity": "USB Powered Fans",
+        "Features": ["5 Cooling Fans", "Rasengan Spiral Design", "360° Rotation", "Adjustable Height", "Blue LED Lighting"],
+        "Size": ["38cm x 30cm x 5-20cm"],
+        "Weight": 1.15,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 64.99,
+        "Currentoffer": ["Free Hidden Leaf Headband"],
+        "previousoffer": "Ninja Training Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "ShinobiTech Solutions",
+          "Country": "Japan",
+          "Address": "Osaka, Japan",
+          "ContactEmail": "solutions@shinobitech.jp",
+          "ContactPhone": "+81-6-7890-1234",
+          "Website": "https://shinobitech.jp",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 765,
+        "No_of_Dislikes": 34,
+        "Description": "Gaming laptop stand with built-in cooling system. Features 5 silent fans arranged in Rasengan spiral pattern. The stand rotates 360° and the blue LEDs pulse like chakra energy.",
+        "Releasedate": "2024-07-20T00:00:00.000Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HokageGamer",
+            "ReviewerLike": 23,
+            "ReviewerDisLike": 8,
+            "ReviewerLikeby": ["user7"],
+            "ReviewerDisLikeby": ["user8", "user9"],
+            "Rating": 4,
+            "Review": "Cool design and actually keeps my gaming laptop from overheating! The rotation feature is useful for sharing screen.",
+            "ReviewProfileImage": "gamer.png",
+            "date": "2024-08-10T16:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Kame House Adjustable Stand",
+        "Brand": "Capsule Corp Ergo",
+        "Model": "CC-KAMEHOUSESTAND",
+        "Compatibility": ["10-15 inch Laptops"],
+        "Image": "https://example.com/images/kamehouse_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/kamehouse_stand1.jpg",
+          "https://example.com/gallery/kamehouse_stand2.jpg"
+        ],
+        "Color": ["Kame House Orange", "Green Roof"],
+        "Material": "Plastic, Metal Hinge",
+        "Connectivity": "N/A",
+        "Features": ["Turtle Shell Design", "8 Adjustable Angles", "Foldable", "Non-Slip Feet", "Lightweight"],
+        "Size": ["28cm x 20cm folded"],
+        "Weight": 0.45,
+        "Originalvalue": 34.99,
+        "previousvalue": 39.99,
+        "Marketprice": 32.99,
+        "Currentoffer": ["Free Dragon Ball Stickers"],
+        "previousoffer": "Anime Convention Special",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "Capsule Corp Ergo",
+          "Country": "USA",
+          "Address": "California, USA",
+          "ContactEmail": "ergo@capsulecorp.com",
+          "ContactPhone": "+1-415-555-2468",
+          "Website": "https://capsulecorp-ergo.com",
+          "Warranty": "6 Month Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 543,
+        "No_of_Dislikes": 23,
+        "Description": "Fun laptop stand designed like Master Roshi's Kame House. The turtle shell pattern provides grip, and the stand offers 8 different angle adjustments. Perfect for casual use and travel.",
+        "Releasedate": "2023-11-15T00:00:00.000Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CC-KAMEHOUSESTAND",
+            "CurrentModelLikes": 543,
+            "CurrentModelDislikes": 23,
+            "PreviousModel": "CC-SCOUTERSTAND2022",
+            "PreviousModelLikes": 321,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2023-11-15T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro & Friends Wooden Stand",
+        "Brand": "GhibliWoodcraft",
+        "Model": "GW-TOTOROSTAND",
+        "Compatibility": ["13-15 inch Laptops"],
+        "Image": "https://example.com/images/totoro_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/totoro_stand1.jpg",
+          "https://example.com/gallery/totoro_stand2.jpg"
+        ],
+        "Color": ["Natural Wood", "Hand-painted Details"],
+        "Material": "Solid Beech Wood",
+        "Connectivity": "N/A",
+        "Features": ["Handcrafted Wood", "Totoro & Soot Sprites", "Natural Wood Finish", "Stable Base", "Eco-Friendly"],
+        "Size": ["32cm x 24cm x 8cm"],
+        "Weight": 0.85,
+        "Originalvalue": 64.99,
+        "previousvalue": 74.99,
+        "Marketprice": 59.99,
+        "Currentoffer": ["Free Catbus Bookmark"],
+        "previousoffer": "Studio Anniversary",
+        "Warranty": "None (Handmade)",
+        "Manufacturer": {
+          "Name": "GhibliWoodcraft Studio",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "studio@ghibliwoodcraft.jp",
+          "ContactPhone": "+81-3-4444-5555",
+          "Website": "https://ghibliwoodcraft.jp",
+          "Warranty": "No Warranty (Artisanal Item)",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 32,
+        "No_of_Likes": 876,
+        "No_of_Dislikes": 9,
+        "Description": "Handcrafted wooden laptop stand featuring Totoro, Chibi Totoro, and Soot Sprites carved into the design. Each piece is individually made by artisans. Provides a stable, ergonomic platform with natural beauty.",
+        "Releasedate": "2024-05-30T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GhibliArtisanFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user10", "user11"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Absolutely beautiful craftsmanship! You can see the care in every detail. Totoro looks adorable holding up my laptop!",
+            "ReviewProfileImage": "artisan.png",
+            "date": "2024-06-20T13:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Movable tables",
+    "comItemType": "Laptop-Stands",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita Portable Laptop Riser",
+        "Brand": "DevilGear Works",
+        "Model": "DG-POCHITARISER",
+        "Compatibility": ["Tablets", "Small Laptops"],
+        "Image": "https://example.com/images/pochita_stand.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/pochita_stand1.jpg"
+        ],
+        "Color": ["Pochita Orange", "Chainsaw Gray"],
+        "Material": "Silicone, Metal Core",
+        "Connectivity": "N/A",
+        "Features": ["Portable Design", "Pochita Shape", "Non-Slip Base", "Multiple Angles", "Durable Construction"],
+        "Size": ["20cm x 15cm x 4-8cm"],
+        "Weight": 0.28,
+        "Originalvalue": 29.99,
+        "previousvalue": 34.99,
+        "Marketprice": 27.99,
+        "Currentoffer": ["Free Chainsaw Man Sticker"],
+        "previousoffer": "Halloween Launch",
+        "Warranty": "3 Months",
+        "Manufacturer": {
+          "Name": "DevilGear Works",
+          "Country": "China",
+          "Address": "Shenzhen, China",
+          "ContactEmail": "works@devilgear.cn",
+          "ContactPhone": "+86-755-1357-2468",
+          "Website": "https://devilgear-works.cn",
+          "Warranty": "3 Month Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 187,
+        "No_of_Likes": 432,
+        "No_of_Dislikes": 45,
+        "Description": "Portable laptop riser shaped like Pochita from Chainsaw Man. The silicone body provides excellent grip and the metal core ensures stability. Compact design perfect for coffee shop use or travel.",
+        "Releasedate": "2024-09-05T00:00:00.000Z",
+        "Ratings": 4.1,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1148 @@
+[
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Doraemon",
+        "Author": "Fujiko F. Fujio",
+        "Anime": "Doraemon",
+        "Artist": "Fujiko F. Fujio",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/2247/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Comedy", "Sci-Fi"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["CoroCoro Comic"],
+        "Originalvalue": 7.99,
+        "previousvalue": 5.99,
+        "Size": [16.8, 11.0, 1.8],
+        "Marketprice": [7.99, 5.99],
+        "Aboutmanga": [
+          "A robotic cat from the 22nd century helps a clumsy boy navigate life using futuristic gadgets",
+          "One of the most iconic and beloved Kodomo series worldwide"
+        ],
+        "Currentoffer": ["30% off for school season"],
+        "No_of_Likes": 18500,
+        "No_of_Disikes": 120,
+        "previousoffer": "20% off",
+        "Status": "Completed",
+        "Agegroup": 8,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [45],
+        "Image": "https://example.com/doraemon_cover.jpg",
+        "Releasedate": "1969-12-01",
+        "Instock": true,
+        "Instockno": 215,
+        "Characters": [
+           {
+    "Name": "Doraemon",
+    "Penname": "Gadget Cat",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/doraemon.jpg"
+  },
+  {
+    "Name": "Nobita Nobi",
+    "Penname": "Crybaby",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/nobita_nobi.jpg"
+  },
+  {
+    "Name": "Shizuka Minamoto",
+    "Penname": "Sue",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/shizuka_minamoto.jpg"
+  },
+  {
+    "Name": "Takeshi Goda",
+    "Penname": "Giant",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/takeshi_goda.jpg"
+  },
+  {
+    "Name": "Suneo Honekawa",
+    "Penname": "Sneech",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/suneo_honekawa.jpg"
+  },
+  {
+    "Name": "Dorami",
+    "Penname": "Little Sister",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/dorami.jpg"
+  },
+  {
+    "Name": "Tamako Nobi",
+    "Penname": "Mama",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/tamako_nobi.jpg"
+  },
+  {
+    "Name": "Nobisuke Nobi",
+    "Penname": "Papa",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/nobisuke_nobi.jpg"
+  }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MangaParent2023",
+            "Rating": 5,
+             "ReviewerLike" : 0,
+            "ReviewerDisLike" : 0,
+            "Review": "My children love these stories that teach good values through fun adventures",
+            "date": "2023-11-15",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Birth of Doraemon",
+            "No_ofuser_buy": "1250",
+            "No_ofuser_refunded": "8",
+            "Info_about_volume": "Introduction of Doraemon and his gadgets",
+            "No_ofchapters": 12,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "Doraemon Begins"
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/doraemon-vol2"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-01-10",
+            "Current_volumeLikes": 950,
+            "Current_volumeDislikes": 15,
+            "Total_Current_volumerating_no": 4.9,
+            "Previousvolume": "Special Edition",
+            "PreviousvolumeLikes": 820,
+            "PreviousvolumeDislikes": 20,
+            "Total_Previous_volumerating_no": 4.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Pokémon Adventures",
+        "Author": "Hidenori Kusaka",
+        "Anime": "Pokémon",
+        "Artist": "Mato/Satoshi Yamamoto",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/2023/large.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Adventure", "Fantasy"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["CoroCoro Comic"],
+        "Originalvalue": 8.99,
+        "previousvalue": 6.99,
+        "Size": [17.2, 11.5, 2.0],
+        "Marketprice": [8.99, 6.99],
+        "Aboutmanga": [
+          "A manga adaptation of the Pokémon games",
+          "Action-packed and faithful to the game stories"
+        ],
+        "Currentoffer": ["Pokémon Day Special 25% off"],
+        "No_of_Likes": 14200,
+        "No_of_Disikes": 95,
+        "previousoffer": "15% off",
+        "Status": "Ongoing",
+        "Agegroup": 9,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [60],
+        "Image": "https://example.com/pokemonadv_cover.jpg",
+        "Releasedate": "1997-03-28",
+        "Instock": true,
+        "Instockno": 178,
+        "Characters": [
+          {
+    "Name": "Red",
+    "Penname": "Fighter",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/red_pokemon.jpg"
+  },
+  {
+    "Name": "Green (Blue in Japan)",
+    "Penname": "Trainer",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/green_pokemon.jpg"
+  },
+  {
+    "Name": "Blue (Green in Japan)",
+    "Penname": "Evolver",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/blue_pokemon.jpg"
+  },
+  {
+    "Name": "Yellow",
+    "Penname": "Healer",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/yellow_pokemon.jpg"
+  },
+  {
+    "Name": "Gold",
+    "Penname": "Breeder",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/gold_pokemon.jpg"
+  },
+  {
+    "Name": "Silver",
+    "Penname": "Exchanger",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/silver_pokemon.jpg"
+  },
+  {
+    "Name": "Crystal",
+    "Penname": "Catcher",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/crystal_pokemon.jpg"
+  },
+  {
+    "Name": "Ruby",
+    "Penname": "Charmer",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/ruby_pokemon.jpg"
+  },
+  {
+    "Name": "Sapphire",
+    "Penname": "Conqueror",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/sapphire_pokemon.jpg"
+  },
+  {
+    "Name": "Professor Oak",
+    "Penname": "Pokemon Professor",
+    "Role": "Mentor",
+    "Imageurl": "https://example.com/professor_oak.jpg"
+  }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PokéFanatic",
+            "Rating": 5,
+            "Review": "The best adaptation of the Pokémon universe - more mature than the anime",
+            "date": "2023-02-27",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Red Chapter",
+            "No_ofuser_buy": "980",
+            "No_ofuser_refunded": "12",
+            "Info_about_volume": "Red begins his Pokémon journey",
+            "No_ofchapters": 10,
+            "No_ofpages": 192,
+            "Modifiedvolume_name": "Pokémon Adventures Red"
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/pokemon-vol2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Yo-Kai Watch",
+        "Author": "Noriyuki Konishi",
+        "Anime": "Yo-Kai Watch",
+        "Artist": "Noriyuki Konishi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/30470/large.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Supernatural", "Comedy"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["CoroCoro Comic"],
+        "Originalvalue": 7.99,
+        "previousvalue": 5.99,
+        "Size": [16.5, 11.2, 1.9],
+        "Marketprice": [7.99, 5.99],
+        "Aboutmanga": [
+          "A boy who can see and befriend mysterious Yo-kai creatures causing everyday troubles"
+        ],
+        "Currentoffer": ["Yo-kai Medal included"],
+        "No_of_Likes": 6800,
+        "No_of_Disikes": 45,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 8,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [15],
+        "Image": "https://example.com/yokaiwatch_cover.jpg",
+        "Releasedate": "2012-12-15",
+        "Instock": true,
+        "Instockno": 92,
+        "Characters": [
+          {
+    "Name": "Nathan Adams",
+    "Penname": "Nate",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/nathan_adams.jpg"
+  },
+  {
+    "Name": "Whisper",
+    "Penname": "Butler Yo-kai",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/whisper.jpg"
+  },
+  {
+    "Name": "Jibanyan",
+    "Penname": "Cat Yo-kai",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/jibanyan.jpg"
+  },
+  {
+    "Name": "Katie Forester",
+    "Penname": "Schoolgirl",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/katie_forester.jpg"
+  },
+  {
+    "Name": "Bear",
+    "Penname": "Eddie",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/bear.jpg"
+  },
+  {
+    "Name": "Eddie",
+    "Penname": "Techno",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/eddie.jpg"
+  },
+  {
+    "Name": "Komasan",
+    "Penname": "Country Bumpkin",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/komasan.jpg"
+  },
+  {
+    "Name": "Komajiro",
+    "Penname": "City Brother",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/komajiro.jpg"
+  },
+  {
+    "Name": "Kyubi",
+    "Penname": "Nine-Tailed Fox",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/kyubi.jpg"
+  },
+  {
+    "Name": "USApyon",
+    "Penname": "Spacey",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/usapyon.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Yo-kai Awakening",
+            "No_ofuser_buy": "420",
+            "No_ofuser_refunded": "5",
+            "Info_about_volume": "Keita gets the Yo-kai Watch",
+            "No_ofchapters": 8,
+            "No_ofpages": 176
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Hamtaro",
+        "Author": "Ritsuko Kawai",
+        "Anime": "Hamtaro",
+        "Artist": "Ritsuko Kawai",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/21780/small.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Slice of Life"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Ciao"],
+        "Originalvalue": 6.99,
+        "previousvalue": 4.99,
+        "Size": [16.0, 11.0, 1.5],
+        "Marketprice": [6.99, 4.99],
+        "Aboutmanga": [
+          "A heartwarming story of a hamster named Hamtaro and his cute adventures"
+        ],
+        "Currentoffer": ["Free hamster sticker with purchase"],
+        "No_of_Likes": 5200,
+        "No_of_Disikes": 30,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 6,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [21],
+        "Image": "https://example.com/hamtaro_cover.jpg",
+        "Releasedate": "1997-09-03",
+        "Instock": true,
+        "Instockno": 64,
+        "Characters": [
+          {
+    "Name": "Hamtaro",
+    "Penname": "Little Hamster",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/hamtaro.jpg"
+  },
+  {
+    "Name": "Bijou",
+    "Penname": "White Beauty",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/bijou.jpg"
+  },
+  {
+    "Name": "Boss",
+    "Penname": "Field Hamster",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/boss_hamtaro.jpg"
+  },
+  {
+    "Name": "Oxnard",
+    "Penname": "Seed Lover",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/oxnard.jpg"
+  },
+  {
+    "Name": "Pashmina",
+    "Penname": "Pink Scarf",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/pashmina.jpg"
+  },
+  {
+    "Name": "Penelope",
+    "Penname": "Blanket",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/penelope.jpg"
+  },
+  {
+    "Name": "Howdy",
+    "Penname": "Shop Owner",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/howdy.jpg"
+  },
+  {
+    "Name": "Dexter",
+    "Penname": "Smart Ham",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/dexter.jpg"
+  },
+  {
+    "Name": "Laura Haruna",
+    "Penname": "Ham-Human",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/laura_haruna.jpg"
+  },
+  {
+    "Name": "Jingle",
+    "Penname": "Wanderer",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/jingle.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Hamtaro's Big Adventure",
+            "No_ofuser_buy": "380",
+            "No_ofuser_refunded": "3",
+            "Info_about_volume": "Hamtaro meets his hamster friends",
+            "No_ofchapters": 9,
+            "No_ofpages": 160
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Shugo Chara!",
+        "Author": "Peach-Pit",
+        "Anime": "Shugo Chara!",
+        "Artist": "Peach-Pit",
+        "Animeurl": "https://media.kitsu.app/manga/266/poster_image/medium-1c4c2499835e20136f480fd13ec28d38.jpeg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Magical Girl", "Fantasy"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Nakayoshi"],
+        "Originalvalue": 7.99,
+        "previousvalue": 5.99,
+        "Size": [16.8, 11.2, 1.8],
+        "Marketprice": [7.99, 5.99],
+        "Aboutmanga": [
+          "While technically a magical girl series, it appeals to younger readers with themes of identity and confidence"
+        ],
+        "Currentoffer": ["Free character bookmark"],
+        "No_of_Likes": 7200,
+        "No_of_Disikes": 55,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 8,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [12],
+        "Image": "https://example.com/shugochara_cover.jpg",
+        "Releasedate": "2005-12-28",
+        "Instock": true,
+        "Instockno": 78,
+        "Characters": [
+           {
+    "Name": "Amu Hinamori",
+    "Penname": "Cool & Spicy",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/amu_hinamori.jpg"
+  },
+  {
+    "Name": "Ran",
+    "Penname": "Heart's Egg",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/ran.jpg"
+  },
+  {
+    "Name": "Miki",
+    "Penname": "Spade's Egg",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/miki.jpg"
+  },
+  {
+    "Name": "Su",
+    "Penname": "Clover's Egg",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/su.jpg"
+  },
+  {
+    "Name": "Dia",
+    "Penname": "Diamond's Egg",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/dia.jpg"
+  },
+  {
+    "Name": "Ikuto Tsukiyomi",
+    "Penname": "Black Cat",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/ikuto_tsukiyomi.jpg"
+  },
+  {
+    "Name": "Tadase Hotori",
+    "Penname": "Prince",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/tadase_hotori.jpg"
+  },
+  {
+    "Name": "Nadeshiko/Nagihiko Fujisaki",
+    "Penname": "Dancer",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/nadeshiko_fujisaki.jpg"
+  },
+  {
+    "Name": "Kukai Souma",
+    "Penname": "Sporty",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/kukai_souma.jpg"
+  },
+  {
+    "Name": "Utau Hoshina",
+    "Penname": "Songstress",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/utau_hoshina.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Guardian Character",
+            "No_ofuser_buy": "450",
+            "No_ofuser_refunded": "6",
+            "Info_about_volume": "Amu discovers her guardian characters",
+            "No_ofchapters": 7,
+            "No_ofpages": 184
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Digimon Adventure V-Tamer 01",
+        "Author": "Hiroshi Izawa",
+        "Anime": "Digimon",
+        "Artist": "Tenya Yabuno",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/14165/original.jpeg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Adventure", "Sci-Fi"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["V Jump"],
+        "Originalvalue": 8.99,
+        "previousvalue": 6.99,
+        "Size": [17.0, 11.5, 2.0],
+        "Marketprice": [8.99, 6.99],
+        "Aboutmanga": [
+          "A spin-off of the Digimon universe featuring original Digimon adventures"
+        ],
+        "Currentoffer": ["Limited edition Digimon card included"],
+        "No_of_Likes": 5800,
+        "No_of_Disikes": 65,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 9,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [9],
+        "Image": "https://example.com/digimonvtamer_cover.jpg",
+        "Releasedate": "1998-11-21",
+        "Instock": true,
+        "Instockno": 53,
+        "Characters": [
+         {
+    "Name": "Taichi Yagami",
+    "Penname": "V-Tamer",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/taichi_yagami.jpg"
+  },
+  {
+    "Name": "Zeromaru",
+    "Penname": "Zero",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/zeromaru.jpg"
+  },
+  {
+    "Name": "Neo Saiba",
+    "Penname": "Tamer King",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/neo_saiba.jpg"
+  },
+  {
+    "Name": "Rei Saiba",
+    "Penname": "Little Sister",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/rei_saiba.jpg"
+  },
+  {
+    "Name": "Sigma",
+    "Penname": "Mask",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/sigma.jpg"
+  },
+  {
+    "Name": "Hideto Fujimoto",
+    "Penname": "Alias",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hideto_fujimoto.jpg"
+  },
+  {
+    "Name": "Mari Goutokuji",
+    "Penname": "Troublemaker",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/mari_goutokuji.jpg"
+  },
+  {
+    "Name": "Daemon",
+    "Penname": "Dark Lord",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/daemon.jpg"
+  },
+  {
+    "Name": "Lord HolyAngemon",
+    "Penname": "Holy Protector",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/lord_holyangemon.jpg"
+  },
+  {
+    "Name": "Gabo",
+    "Penname": "Rookie Guide",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/gabo.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Digital World",
+            "No_ofuser_buy": "390",
+            "No_ofuser_refunded": "7",
+            "Info_about_volume": "Taichi meets his Digimon partner",
+            "No_ofchapters": 6,
+            "No_ofpages": 180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Kobo-chan",
+        "Author": "Masashi Ueda",
+        "Anime": "",
+        "Artist": "Masashi Ueda",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/14150/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Slice of Life", "Comedy"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Shogaku Ichinensei"],
+        "Originalvalue": 5.99,
+        "previousvalue": 3.99,
+        "Size": [15.5, 10.8, 1.2],
+        "Marketprice": [5.99, 3.99],
+        "Aboutmanga": [
+          "A slice-of-life comic strip about a young boy and his daily life with his family"
+        ],
+        "Currentoffer": ["3 for 2 deal"],
+        "No_of_Likes": 3200,
+        "No_of_Disikes": 15,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 6,
+        "Status_age_wise": "childrens",
+        "versions": "black&white",
+        "Volumes": [100],
+        "Image": "https://example.com/kobochan_cover.jpg",
+        "Releasedate": "1982-04-10",
+        "Instock": true,
+        "Instockno": 87,
+        "Characters": [
+         {
+    "Name": "Kobo Tabata",
+    "Penname": "Little Rascal",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/kobo_tabata.jpg"
+  },
+  {
+    "Name": "Ichirou Tabata",
+    "Penname": "Dad",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/ichirou_tabata.jpg"
+  },
+  {
+    "Name": "Sazae Tabata",
+    "Penname": "Mom",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/sazae_tabata.jpg"
+  },
+  {
+    "Name": "Osamu",
+    "Penname": "Older Brother",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/osamu.jpg"
+  },
+  {
+    "Name": "Mako",
+    "Penname": "Best Friend",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/mako.jpg"
+  },
+  {
+    "Name": "Ken-chan",
+    "Penname": "Neighbor",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/ken_chan.jpg"
+  },
+  {
+    "Name": "Hatsu",
+    "Penname": "Grandmother",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hatsu.jpg"
+  },
+  {
+    "Name": "Ms. Fujimoto",
+    "Penname": "Teacher",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/fujimoto_sensei.jpg"
+  },
+  {
+    "Name": "Hamaji",
+    "Penname": "Dog",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hamaji.jpg"
+  },
+  {
+    "Name": "Ayumi",
+    "Penname": "Classmate",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/ayumi.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Kobo's Daily Life",
+            "No_ofuser_buy": "280",
+            "No_ofuser_refunded": "2",
+            "Info_about_volume": "First collection of Kobo-chan comic strips",
+            "No_ofchapters": 50,
+            "No_ofpages": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Anpanman",
+        "Author": "Takashi Yanase",
+        "Anime": "Anpanman",
+        "Artist": "Takashi Yanase",
+        "Animeurl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82cz.webp",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Fantasy", "Educational"],
+        "Publishers": ["Froebel-kan"],
+        "Publishinghouses": ["Picture Books"],
+        "Originalvalue": 6.99,
+        "previousvalue": 4.99,
+        "Size": [16.0, 11.0, 1.5],
+        "Marketprice": [6.99, 4.99],
+        "Aboutmanga": [
+          "Superhero made of red bean bread who saves the day and teaches good values",
+          "Extremely popular with toddlers"
+        ],
+        "Currentoffer": ["Free Anpanman sticker set"],
+        "No_of_Likes": 9800,
+        "No_of_Disikes": 20,
+        "previousoffer": "20% off",
+        "Status": "Ongoing",
+        "Agegroup": 3,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [150],
+        "Image": "https://example.com/anpanman_cover.jpg",
+        "Releasedate": "1973-10-04",
+        "Instock": true,
+        "Instockno": 145,
+        "Characters": [
+         {
+    "Name": "Anpanman",
+    "Penname": "Bean Bread Hero",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/anpanman.jpg"
+  },
+  {
+    "Name": "Baikinman",
+    "Penname": "Germ Man",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/baikinman.jpg"
+  },
+  {
+    "Name": "Shokupanman",
+    "Penname": "White Bread Man",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/shokupanman.jpg"
+  },
+  {
+    "Name": "Currypanman",
+    "Penname": "Curry Bread Man",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/currypanman.jpg"
+  },
+  {
+    "Name": "Melonpanna",
+    "Penname": "Melon Bread Girl",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/melonpanna.jpg"
+  },
+  {
+    "Name": "Rollpanna",
+    "Penname": "Roll Bread Girl",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/rollpanna.jpg"
+  },
+  {
+    "Name": "Dokin-chan",
+    "Penname": "Heart Girl",
+    "Role": "Antagonist",
+    "Imageurl": "https://example.com/dokin_chan.jpg"
+  },
+  {
+    "Name": "Jam Ojisan",
+    "Penname": "Uncle Jam",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/jam_ojisan.jpg"
+  },
+  {
+    "Name": "Batako-san",
+    "Penname": "Baker",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/batako_san.jpg"
+  },
+  {
+    "Name": "Cheese",
+    "Penname": "Puppy",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/cheese.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Anpanman to the Rescue!",
+            "No_ofuser_buy": "520",
+            "No_ofuser_refunded": "1",
+            "Info_about_volume": "First adventures of Anpanman",
+            "No_ofchapters": 12,
+            "No_ofpages": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Chibi Maruko-chan",
+        "Author": "Momoko Sakura",
+        "Anime": "Chibi Maruko-chan",
+        "Artist": "Momoko Sakura",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/1164/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Slice of Life", "Comedy"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Ribon"],
+        "Originalvalue": 6.99,
+        "previousvalue": 4.99,
+        "Size": [16.5, 11.2, 1.6],
+        "Marketprice": [6.99, 4.99],
+        "Aboutmanga": [
+          "Chronicles the everyday life of a sweet but mischievous little girl"
+        ],
+        "Currentoffer": ["Maruko-chan notebook free"],
+        "No_of_Likes": 6200,
+        "No_of_Disikes": 35,
+        "previousoffer": "15% off",
+        "Status": "Ongoing",
+        "Agegroup": 7,
+        "Status_age_wise": "childrens",
+        "versions": "black&white",
+        "Volumes": [20],
+        "Image": "https://example.com/maruko_cover.jpg",
+        "Releasedate": "1986-08-22",
+        "Instock": true,
+        "Instockno": 72,
+        "Characters": [
+          {
+    "Name": "Momoko Sakura",
+    "Penname": "Maruko",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/momoko_sakura.jpg"
+  },
+  {
+    "Name": "Hiroshi Sakura",
+    "Penname": "Dad",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hiroshi_sakura.jpg"
+  },
+  {
+    "Name": "Sumire Sakura",
+    "Penname": "Mom",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/sumire_sakura.jpg"
+  },
+  {
+    "Name": "Sakiko Sakura",
+    "Penname": "Sister",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/sakiko_sakura.jpg"
+  },
+  {
+    "Name": "Tama-chan",
+    "Penname": "Best Friend",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/tama_chan.jpg"
+  },
+  {
+    "Name": "Hanawa-kun",
+    "Penname": "Rich Boy",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hanawa_kun.jpg"
+  },
+  {
+    "Name": "Hamaji",
+    "Penname": "Grandpa",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hamaji_grandpa.jpg"
+  },
+  {
+    "Name": "Kotake",
+    "Penname": "Grandma",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/kotake.jpg"
+  },
+  {
+    "Name": "Migiwa Yamada",
+    "Penname": "Teacher",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/migiwa_yamada.jpg"
+  },
+  {
+    "Name": "Fujiki",
+    "Penname": "Copycat",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/fujiki.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Maruko's World",
+            "No_ofuser_buy": "380",
+            "No_ofuser_refunded": "4",
+            "Info_about_volume": "First collection of Maruko stories",
+            "No_ofchapters": 15,
+            "No_ofpages": 160
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Kodomo",
+    "Type": [
+      {
+        "Title": "Crayon Shin-chan",
+        "Author": "Yoshito Usui",
+        "Anime": "Crayon Shin-chan",
+        "Artist": "Yoshito Usui",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/4991/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Kodomo", "Comedy", "Slice of Life"],
+        "Publishers": ["Futabasha"],
+        "Publishinghouses": ["Weekly Manga Action"],
+        "Originalvalue": 7.99,
+        "previousvalue": 5.99,
+        "Size": [17.0, 11.5, 1.8],
+        "Marketprice": [7.99, 5.99],
+        "Aboutmanga": [
+          "Follows a cheeky 5-year-old boy's hilarious and often inappropriate adventures",
+          "While some humor is adult-like, it still enjoys massive popularity among kids in Japan"
+        ],
+        "Currentoffer": ["Free Shin-chan face mask"],
+        "No_of_Likes": 11200,
+        "No_of_Disikes": 180,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 8,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [50],
+        "Image": "https://example.com/shinchan_cover.jpg",
+        "Releasedate": "1990-08-05",
+        "Instock": true,
+        "Instockno": 98,
+        "Characters": [
+          {
+    "Name": "Shinnosuke Nohara",
+    "Penname": "Shin-chan",
+    "Role": "Protagonist",
+    "Imageurl": "https://example.com/shinnosuke_nohara.jpg"
+  },
+  {
+    "Name": "Misae Nohara",
+    "Penname": "Mitzi",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/misae_nohara.jpg"
+  },
+  {
+    "Name": "Hiroshi Nohara",
+    "Penname": "Harry",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/hiroshi_nohara.jpg"
+  },
+  {
+    "Name": "Himawari Nohara",
+    "Penname": "Daisy",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/himawari_nohara.jpg"
+  },
+  {
+    "Name": "Toru Kazama",
+    "Penname": "Georgie",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/toru_kazama.jpg"
+  },
+  {
+    "Name": "Masao Sato",
+    "Penname": "Max",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/masao_sato.jpg"
+  },
+  {
+    "Name": "Bo-chan",
+    "Penname": "Bo",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/bo_chan.jpg"
+  },
+  {
+    "Name": "Nene Sakurada",
+    "Penname": "Nene",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/nene_sakurada.jpg"
+  },
+  {
+    "Name": "Midori Yoshinaga",
+    "Penname": "Miss Dori",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/midori_yoshinaga.jpg"
+  },
+  {
+    "Name": "Shiro",
+    "Penname": "Whitey",
+    "Role": "Supporting",
+    "Imageurl": "https://example.com/shiro_dog.jpg"
+  }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Shin-chan's Debut",
+            "No_ofuser_buy": "580",
+            "No_ofuser_refunded": "8",
+            "Info_about_volume": "First collection of Shin-chan's antics",
+            "No_ofchapters": 12,
+            "No_ofpages": 192
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "JapanLover",
+            "Rating": 4,
+            "Review": "Hilarious but parents should preview as some jokes are adult-oriented",
+            "date": "2023-09-10",
+            "Overallexperience": "Good"
+          }
+        ]
+      }
+    ]
+  }
+]

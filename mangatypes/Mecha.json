@@ -1,0 +1,1037 @@
+[
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Mobile Suit Gundam: The Origin",
+        "Author": "Yoshikazu Yasuhiko",
+        "Anime": "Mobile Suit Gundam",
+        "Artist": "Yoshikazu Yasuhiko",
+        "Animeurl": "https://media.kitsu.app/manga/503/poster_image/1f792ec1516a29a0831286281034aecd.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Military", "Sci-Fi"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Gundam Ace"],
+        "Originalvalue": 24.99,
+        "previousvalue": 19.99,
+        "Size": [21.6, 14.6, 3.8],
+        "Marketprice": [22.99, 19.99, 17.99],
+        "Aboutmanga": [
+          "The definitive retelling of the original Gundam story with enhanced artwork",
+          "Explores Char Aznable's backstory and the One Year War in detail"
+        ],
+        "Currentoffer": ["Limited edition hardcover", "Free poster with vol.1-5"],
+        "No_of_Likes": 9800,
+        "No_of_Disikes": 120,
+        "previousoffer": "10% off box set",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Full Color",
+        "Volumes": [12],
+        "Image": "https://m.media-amazon.com/images/I/91X9O+qYfYL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2001-12-20",
+        "Instock": true,
+        "Instockno": 145,
+        "Characters": [
+          {
+            "Name": "Amuro Ray",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.gundam.jp/content/images/character/amuro.png"
+          },
+          {
+            "Name": "Char Aznable",
+            "Penname": "Red Comet",
+            "Role": "Antagonist",
+            "Imageurl": "https://www.gundam.jp/content/images/character/char.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GundamOtaku",
+            "Rating": 5,
+            "Review": "The ultimate Gundam experience with stunning artwork",
+            "date": "2023-05-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "MechaFan42",
+            "Rating": 4,
+            "Review": "Perfect for both new fans and veterans of the franchise",
+            "date": "2023-04-22T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Activation",
+            "No_ofuser_buy": "3200",
+            "No_ofuser_refunded": "28",
+            "Info_about_volume": "Origins of the Gundam and Char's backstory",
+            "No_ofchapters": 6,
+            "No_ofpages": 280,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/gundam-origin/2"
+          }
+        ],
+        "PreviousMangaVolume": [
+          {
+            "Previous_urls": "/manga/gundam-origin/0"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-01-10T00:00:00Z",
+            "Current_volumeLikes": 1200,
+            "Current_volumeDislikes": 35,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 850,
+            "PreviousvolumeDislikes": 42,
+            "Total_Previous_volumerating_no": 4.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Tengen Toppa Gurren Lagann",
+        "Author": "Kotaro Mori",
+        "Anime": "Gurren Lagann",
+        "Artist": "Kotaro Mori",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/3514/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Action", "Sci-Fi"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Shonen Ace"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.2, 11.5, 1.8],
+        "Marketprice": [8.99, 7.99, 6.99],
+        "Aboutmanga": [
+          "A ragtag group fights oppressive forces with ever-evolving mechs that defy physics",
+          "Known for over-the-top action and inspirational themes"
+        ],
+        "Currentoffer": ["Drill keychain included"],
+        "No_of_Likes": 13200,
+        "No_of_Disikes": 95,
+        "previousoffer": "15% off during mecha week",
+        "Status": "Completed",
+        "Agegroup": 15,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [10],
+        "Image": "https://m.media-amazon.com/images/I/91XKZ5+1VBL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2007-05-26",
+        "Instock": true,
+        "Instockno": 78,
+        "Characters": [
+          {
+            "Name": "Simon",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.gurren-lagann.net/img/character/simon.png"
+          },
+          {
+            "Name": "Kamina",
+            "Penname": "",
+            "Role": "Mentor",
+            "Imageurl": "https://www.gurren-lagann.net/img/character/kamina.png"
+          },
+          {
+            "Name": "Yoko Littner",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://www.gurren-lagann.net/img/character/yoko.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SpiralWarrior",
+            "Rating": 5,
+            "Review": "The most hype mecha series ever created!",
+            "date": "2023-08-15T00:00:00Z",
+            "Overallexperience": "Awesome"
+          },
+          {
+            "ReviewerName": "GigaDrill",
+            "Rating": 5,
+            "Review": "Pierces through all other mecha with sheer awesomeness",
+            "date": "2023-07-30T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Break Through the Heavens",
+            "No_ofuser_buy": "3800",
+            "No_ofuser_refunded": "42",
+            "Info_about_volume": "Simon and Kamina's first adventures underground",
+            "No_ofchapters": 5,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/gurrenlagann/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/gurrenlagann/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-04-10T00:00:00Z",
+            "Current_volumeLikes": 2500,
+            "Current_volumeDislikes": 55,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1800,
+            "PreviousvolumeDislikes": 70,
+            "Total_Previous_volumerating_no": 4.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Knights of Sidonia",
+        "Author": "Tsutomu Nihei",
+        "Anime": "Knights of Sidonia",
+        "Artist": "Tsutomu Nihei",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/24437/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Space Horror", "Sci-Fi"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Afternoon"],
+        "Originalvalue": 12.99,
+        "previousvalue": 9.99,
+        "Size": [18.1, 12.8, 2.3],
+        "Marketprice": [11.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "Humanity's last survivors aboard a generation ship battle alien creatures called Gauna",
+          "Features realistic zero-G combat and biomechanical mechs"
+        ],
+        "Currentoffer": ["3D holographic cover"],
+        "No_of_Likes": 7600,
+        "No_of_Disikes": 120,
+        "previousoffer": "20% off complete series",
+        "Status": "Completed",
+        "Agegroup": 17,
+        "Status_age_wise": "Adult",
+        "versions": "Black & White",
+        "Volumes": [15],
+        "Image": "https://m.media-amazon.com/images/I/91JY5R7Vz0L._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2009-04-23",
+        "Instock": true,
+        "Instockno": 54,
+        "Characters": [
+          {
+            "Name": "Nagate Tanikaze",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.sidonia.jp/img/character/nagate.png"
+          },
+          {
+            "Name": "Tsumugi Shiraui",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://www.sidonia.jp/img/character/tsumugi.png"
+          },
+          {
+            "Name": "Izana Shinatose",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://www.sidonia.jp/img/character/izana.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SpaceOperaLover",
+            "Rating": 5,
+            "Review": "Blame!'s author does mecha - what more could you want?",
+            "date": "2023-09-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "HardSciFiFan",
+            "Rating": 4,
+            "Review": "Most realistic space mecha battles in manga history",
+            "date": "2023-08-18T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Seed Ship",
+            "No_ofuser_buy": "2900",
+            "No_ofuser_refunded": "35",
+            "Info_about_volume": "Nagate's emergence from the lower decks",
+            "No_ofchapters": 6,
+            "No_ofpages": 190,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/sidonia/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/sidonia/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-05-15T00:00:00Z",
+            "Current_volumeLikes": 1900,
+            "Current_volumeDislikes": 65,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1200,
+            "PreviousvolumeDislikes": 80,
+            "Total_Previous_volumerating_no": 4.2
+          }
+        ]
+      }
+    ]
+  },{
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Full Metal Panic!",
+        "Author": "Shoji Gatoh",
+        "Anime": "Full Metal Panic!",
+        "Artist": "Retsu Tateo",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/1735/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Military", "Comedy"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Dragon Age"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.5, 11.4, 1.9],
+        "Marketprice": [9.99, 8.99, 7.99],
+        "Aboutmanga": [
+          "A teenage mercenary protects a high school girl while piloting an advanced mech",
+          "Balances military action with school comedy"
+        ],
+        "Currentoffer": ["Tactical notebook included"],
+        "No_of_Likes": 8900,
+        "No_of_Disikes": 110,
+        "previousoffer": "15% off during military sale",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [12],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2001-09-26",
+        "Instock": true,
+        "Instockno": 62,
+        "Characters": [
+          {
+            "Name": "Sousuke Sagara",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.fmpalarm.com/img/character/sousuke.png"
+          },
+          {
+            "Name": "Kaname Chidori",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://www.fmpalarm.com/img/character/kaname.png"
+          },
+          {
+            "Name": "Kurz Weber",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://www.fmpalarm.com/img/character/kurz.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MechaComedyFan",
+            "Rating": 5,
+            "Review": "Perfect blend of serious mecha action and hilarious school life",
+            "date": "2023-10-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "ArmSlavePilot",
+            "Rating": 4,
+            "Review": "The Arbalest remains one of the coolest real robots",
+            "date": "2023-09-28T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Guy Who Came From the Sea",
+            "No_ofuser_buy": "3200",
+            "No_ofuser_refunded": "28",
+            "Info_about_volume": "Sousuke begins protecting Kaname at school",
+            "No_ofchapters": 5,
+            "No_ofpages": 176,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/fmp/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/fmp/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-06-20T00:00:00Z",
+            "Current_volumeLikes": 2100,
+            "Current_volumeDislikes": 60,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1500,
+            "PreviousvolumeDislikes": 75,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "The Five Star Stories",
+        "Author": "Mamoru Nagano",
+        "Anime": "The Five Star Stories",
+        "Artist": "Mamoru Nagano",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/39824/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Space Opera", "Fantasy"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Newtype"],
+        "Originalvalue": 14.99,
+        "previousvalue": 11.99,
+        "Size": [21.0, 14.8, 3.5],
+        "Marketprice": [13.99, 11.99, 10.99],
+        "Aboutmanga": [
+          "An epic space opera spanning centuries with elegant, knightly mechs called Mortar Headds",
+          "Known for intricate mechanical designs and aristocratic themes"
+        ],
+        "Currentoffer": ["Hardcover artbook edition"],
+        "No_of_Likes": 6800,
+        "No_of_Disikes": 150,
+        "previousoffer": "20% off during noble week",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "Full Color",
+        "Volumes": [17],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "1986-03-10",
+        "Instock": true,
+        "Instockno": 38,
+        "Characters": [
+          {
+            "Name": "Ladios Sopp",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.fivestarstory.jp/img/character/ladios.png"
+          },
+          {
+            "Name": "Amaterasu",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://www.fivestarstory.jp/img/character/amaterasu.png"
+          },
+          {
+            "Name": "Dr. Ballanche",
+            "Penname": "",
+            "Role": "Mentor",
+            "Imageurl": "https://www.fivestarstory.jp/img/character/ballanche.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ArtDesignFanatic",
+            "Rating": 5,
+            "Review": "Nagano's mechanical designs are worth the price alone",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "SpaceKnight",
+            "Rating": 4,
+            "Review": "The most aristocratic mecha series ever created",
+            "date": "2023-10-18T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Knight of Gold",
+            "No_ofuser_buy": "2500",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Introduction to the Joker Cluster and Fatima system",
+            "No_ofchapters": 4,
+            "No_ofpages": 220,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/fss/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/fss/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-07-15T00:00:00Z",
+            "Current_volumeLikes": 1800,
+            "Current_volumeDislikes": 80,
+            "Total_Current_volumerating_no": 4.5,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1200,
+            "PreviousvolumeDislikes": 90,
+            "Total_Previous_volumerating_no": 4.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Break Blade",
+        "Author": "Yunosuke Yoshinaga",
+        "Anime": "Broken Blade",
+        "Artist": "Yunosuke Yoshinaga",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/9922/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Fantasy", "War"],
+        "Publishers": ["Mag Garden"],
+        "Publishinghouses": ["Comic Blade"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [18.0, 12.5, 2.2],
+        "Marketprice": [10.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A powerless man in a world of magic users pilots an ancient mech in a continental war",
+          "Features realistic medieval-style mech combat"
+        ],
+        "Currentoffer": ["Tactical map poster included"],
+        "No_of_Likes": 7200,
+        "No_of_Disikes": 95,
+        "previousoffer": "15% off during war games sale",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [12],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2006-12-10",
+        "Instock": true,
+        "Instockno": 47,
+        "Characters": [
+          {
+            "Name": "Rygart Arrow",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.breakblade.jp/img/character/rygart.png"
+          },
+          {
+            "Name": "Sigyn",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://www.breakblade.jp/img/character/sigyn.png"
+          },
+          {
+            "Name": "Zess",
+            "Penname": "",
+            "Role": "Antagonist",
+            "Imageurl": "https://www.breakblade.jp/img/character/zess.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MedievalMechaFan",
+            "Rating": 5,
+            "Review": "Unique blend of fantasy and realistic mecha warfare",
+            "date": "2023-12-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "GolemSpecialist",
+            "Rating": 4,
+            "Review": "Delphine's design is one of the most original in mecha history",
+            "date": "2023-11-20T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Powerless Soldier",
+            "No_ofuser_buy": "2700",
+            "No_ofuser_refunded": "32",
+            "Info_about_volume": "Rygart discovers his ability to pilot the ancient Delphine",
+            "No_ofchapters": 6,
+            "No_ofpages": 184,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/breakblade/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/breakblade/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-08-10T00:00:00Z",
+            "Current_volumeLikes": 1900,
+            "Current_volumeDislikes": 60,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1300,
+            "PreviousvolumeDislikes": 85,
+            "Total_Previous_volumerating_no": 4.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Getter Robo Saga",
+        "Author": "Ken Ishikawa",
+        "Anime": "Getter Robo",
+        "Artist": "Ken Ishikawa",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/5784/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Super Robot", "Action"],
+        "Publishers": ["Akita Shoten"],
+        "Publishinghouses": ["Champion Red"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.2, 11.3, 1.8],
+        "Marketprice": [8.99, 7.99, 6.99],
+        "Aboutmanga": [
+          "The original combining mecha series where three pilots control a transforming robot",
+          "Known for its brutal fights and evolutionary themes"
+        ],
+        "Currentoffer": ["Vintage 70s poster reprint"],
+        "No_of_Likes": 5800,
+        "No_of_Disikes": 80,
+        "previousoffer": "10% off retro mecha sale",
+        "Status": "Completed",
+        "Agegroup": 15,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [10],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "1974-04-05",
+        "Instock": true,
+        "Instockno": 53,
+        "Characters": [
+          {
+            "Name": "Ryoma Nagare",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.getterrobo.com/img/character/ryoma.png"
+          },
+          {
+            "Name": "Hayato Jin",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://www.getterrobo.com/img/character/hayato.png"
+          },
+          {
+            "Name": "Musashi Tomoe",
+            "Penname": "",
+            "Role": "Tritagonist",
+            "Imageurl": "https://www.getterrobo.com/img/character/musashi.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ClassicMechaKing",
+            "Rating": 5,
+            "Review": "The grandfather of all combining robots - still unmatched!",
+            "date": "2023-01-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "SuperRobotFan",
+            "Rating": 4,
+            "Review": "Getter Robo's transformation sequences inspired generations",
+            "date": "2022-12-22T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Birth of Getter",
+            "No_ofuser_buy": "2100",
+            "No_ofuser_refunded": "25",
+            "Info_about_volume": "First appearance of Getter Robo and the Dinosaur Empire",
+            "No_ofchapters": 5,
+            "No_ofpages": 160,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/getterrobo/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/getterrobo/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-09-05T00:00:00Z",
+            "Current_volumeLikes": 1500,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1000,
+            "PreviousvolumeDislikes": 70,
+            "Total_Previous_volumerating_no": 4.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Patlabor",
+        "Author": "Masami Yuki",
+        "Anime": "Mobile Police Patlabor",
+        "Artist": "Masami Yuki",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/472/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Police", "Sci-Fi"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Shonen Sunday"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [17.3, 11.2, 2.0],
+        "Marketprice": [10.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A police unit uses mechs called Labors for construction and crime prevention",
+          "Blends mecha action with workplace comedy and detective stories"
+        ],
+        "Currentoffer": ["Police badge sticker set"],
+        "No_of_Likes": 5200,
+        "No_of_Disikes": 60,
+        "previousoffer": "10% off during cop week",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [22],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "1988-04-15",
+        "Instock": true,
+        "Instockno": 58,
+        "Characters": [
+          {
+            "Name": "Noa Izumi",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.patlabor.jp/img/character/noa.png"
+          },
+          {
+            "Name": "Asuma Shinohara",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://www.patlabor.jp/img/character/asuma.png"
+          },
+          {
+            "Name": "Captain Goto",
+            "Penname": "",
+            "Role": "Mentor/Guild Leader",
+            "Imageurl": "https://www.patlabor.jp/img/character/goto.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "RealRobotLover",
+            "Rating": 5,
+            "Review": "The most realistic take on mecha in daily police work",
+            "date": "2023-02-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "UrbanMechaFan",
+            "Rating": 4,
+            "Review": "Ingram remains the coolest police mech design",
+            "date": "2023-01-10T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Early Days",
+            "No_ofuser_buy": "2300",
+            "No_ofuser_refunded": "18",
+            "Info_about_volume": "Introduction to SV2 and their first Labor cases",
+            "No_ofchapters": 7,
+            "No_ofpages": 172,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/patlabor/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/patlabor/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-12T00:00:00Z",
+            "Current_volumeLikes": 1700,
+            "Current_volumeDislikes": 45,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1100,
+            "PreviousvolumeDislikes": 65,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Neon Genesis Evangelion",
+        "Author": "Yoshiyuki Sadamoto",
+        "Anime": "Neon Genesis Evangelion",
+        "Artist": "Yoshiyuki Sadamoto",
+        "Animeurl": "https://media.kitsu.app/manga/1563/poster_image/a3b82d4ff6c4eaccc349dd7845b9a308.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Psychological", "Apocalyptic"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Young Ace"],
+        "Originalvalue": 12.99,
+        "previousvalue": 9.99,
+        "Size": [18.2, 12.9, 2.1],
+        "Marketprice": [11.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A deconstruction of mecha tropes focusing on teenage pilots' psychological struggles",
+          "Features religious symbolism and deep character studies"
+        ],
+        "Currentoffer": ["Collector's edition with alternate ending"],
+        "No_of_Likes": 14500,
+        "No_of_Disikes": 300,
+        "previousoffer": "15% off box set",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "Black & White",
+        "Volumes": [14],
+        "Image": "https://m.media-amazon.com/images/I/81XQ7+gafLL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "1994-12-26",
+        "Instock": true,
+        "Instockno": 89,
+        "Characters": [
+          {
+            "Name": "Shinji Ikari",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.evangelion.co.jp/img/character/shinji.png"
+          },
+          {
+            "Name": "Rei Ayanami",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://www.evangelion.co.jp/img/character/rei.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MindBlown42",
+            "Rating": 5,
+            "Review": "Changed how I view anime forever - masterpiece!",
+            "date": "2023-06-18T00:00:00Z",
+            "Overallexperience": "Awesome"
+          },
+          {
+            "ReviewerName": "ClassicFan",
+            "Rating": 4,
+            "Review": "The manga improves upon some anime characterizations",
+            "date": "2023-05-30T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Angel Attack",
+            "No_ofuser_buy": "5800",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Shinji's first contact with Evangelion",
+            "No_ofchapters": 5,
+            "No_ofpages": 192,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/evangelion/2"
+          }
+        ],
+        "PreviousMangaVolume": [
+          {
+            "Previous_urls": "/manga/evangelion/0"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-02-15T00:00:00Z",
+            "Current_volumeLikes": 3200,
+            "Current_volumeDislikes": 95,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 2100,
+            "PreviousvolumeDislikes": 120,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Mecha",
+    "Type": [
+      {
+        "Title": "Code Geass: Lelouch of the Rebellion",
+        "Author": "Majiko!",
+        "Anime": "Code Geass",
+        "Artist": "Majiko!",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/3250/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Mecha", "Military", "Political"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Monthly Asuka"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.5, 11.3, 1.9],
+        "Marketprice": [9.99, 8.99, 7.99],
+        "Aboutmanga": [
+          "A strategic genius leads a rebellion against the Britannian Empire using mechs called Knightmares",
+          "Features complex political maneuvering and the power of Geass"
+        ],
+        "Currentoffer": ["Special edition with chess piece"],
+        "No_of_Likes": 11200,
+        "No_of_Disikes": 180,
+        "previousoffer": "10% off season 1 collection",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [8],
+        "Image": "https://m.media-amazon.com/images/I/91tXY9hXKVL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2006-04-26",
+        "Instock": true,
+        "Instockno": 67,
+        "Characters": [
+          {
+            "Name": "Lelouch Lamperouge",
+            "Penname": "Zero",
+            "Role": "Protagonist",
+            "Imageurl": "https://www.geass.jp/img/character/lelouch.png"
+          },
+          {
+            "Name": "Suzaku Kururugi",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://www.geass.jp/img/character/suzaku.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "StrategyMaster",
+            "Rating": 5,
+            "Review": "Lelouch's tactics make this the smartest mecha series ever",
+            "date": "2023-07-22T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "KnightmareFan",
+            "Rating": 4,
+            "Review": "The Knightmare designs are revolutionary",
+            "date": "2023-06-10T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Awakening",
+            "No_ofuser_buy": "4200",
+            "No_ofuser_refunded": "38",
+            "Info_about_volume": "Lelouch gains Geass and forms the Black Knights",
+            "No_ofchapters": 6,
+            "No_ofpages": 184,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/codegeass/2"
+          }
+        ],
+        "PreviousMangaVolume": [
+          {
+            "Previous_urls": "/manga/codegeass/0"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-03-05T00:00:00Z",
+            "Current_volumeLikes": 2800,
+            "Current_volumeDislikes": 65,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1500,
+            "PreviousvolumeDislikes": 80,
+            "Total_Previous_volumerating_no": 4.2
+          }
+        ]
+      }
+    ]
+  }
+]

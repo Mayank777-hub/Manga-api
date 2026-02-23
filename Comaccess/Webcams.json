@@ -1,0 +1,591 @@
+[
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Forger 4K Webcam with Face Tracking",
+        "Brand": "WakuWaku Tech",
+        "Model": "WW-ANYA4K",
+        "Compatibility": ["Windows 10/11", "macOS", "USB 3.0"],
+        "Image": "https://example.com/images/anya_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/anya_cam1.jpg",
+          "https://example.com/gallery/anya_cam2.jpg"
+        ],
+        "Color": ["Pink", "White Hair Accents"],
+        "Material": "ABS Plastic, Glass Lens",
+        "Connectivity": "USB-C",
+        "Features": ["4K Resolution", "Auto Face Tracking", "Built-in Microphone", "Anya Expression Filters", "Privacy Shutter"],
+        "Size": ["8cm x 8cm x 5cm"],
+        "Weight": 0.25,
+        "Originalvalue": 129.99,
+        "previousvalue": 149.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["Free Anya Virtual Backgrounds"],
+        "previousoffer": "Pre-order Bonus",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "WakuWaku Tech",
+          "Country": "Japan",
+          "Address": "Osaka, Japan",
+          "ContactEmail": "support@wakuwa.ku.jp",
+          "ContactPhone": "+81-6-1234-5678",
+          "Website": "https://wakuwa.ku.jp",
+          "Warranty": "1 Year Limited",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 15,
+        "Description": "Adorable Anya-themed webcam with mind-reading animation effects. Features special filters that add Anya's facial expressions to your video calls. Includes 'Waku waku!' voice alerts.",
+        "Releasedate": "2024-06-15T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TelepathFan",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user1", "user2"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "HEH! This webcam is amazing! The face tracking keeps me centered perfectly during Zoom meetings. The Anya filters are hilarious!",
+            "ReviewProfileImage": "default.png",
+            "date": "2024-07-01T14:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "WW-ANYA4K",
+            "CurrentModelLikes": 987,
+            "CurrentModelDislikes": 15,
+            "PreviousModel": "WW-BONDCAM2023",
+            "PreviousModelLikes": 654,
+            "PreviousModelDislikes": 28,
+            "CurrentModelDate": "2024-06-15T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Gojo Satoru 1080p Streaming Webcam",
+        "Brand": "CursedTech",
+        "Model": "CT-GOJOCAM",
+        "Compatibility": ["PC", "Mac", "PlayStation 5"],
+        "Image": "https://example.com/images/gojo_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/gojo_cam1.jpg"
+        ],
+        "Color": ["White", "Blue Infinity Pattern"],
+        "Material": "Metal, Polycarbonate",
+        "Connectivity": "USB 2.0/3.0",
+        "Features": ["1080p 60fps", "Infinity Blue LED Ring", "Auto Low-Light Correction", "Domain Expansion Backgrounds", "Studio Quality Mic"],
+        "Size": ["10cm diameter"],
+        "Weight": 0.35,
+        "Originalvalue": 89.99,
+        "previousvalue": 99.99,
+        "Marketprice": 84.99,
+        "Currentoffer": ["Free JJK Virtual Effects Pack"],
+        "previousoffer": "None",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "CursedTech Studios",
+          "Country": "USA",
+          "Address": "Los Angeles, CA",
+          "ContactEmail": "support@cursedtech.com",
+          "ContactPhone": "+1-310-555-0123",
+          "Website": "https://cursedtech.com",
+          "Warranty": "2 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 1245,
+        "No_of_Disikes": 23,
+        "Description": "Professional streaming webcam with Gojo Satoru's Six Eyes design. The infinity blue LED ring light automatically adjusts brightness. Includes special cursed technique visual effects.",
+        "Releasedate": "2024-03-10T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Demon Slayer Tanjiro Water Breathing Webcam",
+        "Brand": "HashiraVision",
+        "Model": "HV-TANJIROCAM",
+        "Compatibility": ["Windows", "Linux", "USB"],
+        "Image": "https://example.com/images/tanjiro_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/tanjiro_cam1.jpg",
+          "https://example.com/gallery/tanjiro_cam2.jpg"
+        ],
+        "Color": ["Checkered Green/Black", "Earring Red"],
+        "Material": "Matte Plastic, Glass Lens",
+        "Connectivity": "USB-C with 2m Cable",
+        "Features": ["2K Resolution", "Water Breathing LED Effects", "Noise-Canceling Mic", "Kamatoto Nezuko Companion App", "Mountable Design"],
+        "Size": ["9cm x 7cm x 4cm"],
+        "Weight": 0.28,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 74.99,
+        "Currentoffer": ["Free Demon Slayer Voice Changer"],
+        "previousoffer": "Launch Discount",
+        "Warranty": "18 Months",
+        "Manufacturer": {
+          "Name": "HashiraVision Technology",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "tech@hashiravision.jp",
+          "ContactPhone": "+81-3-9876-5432",
+          "Website": "https://hashiravision.jp",
+          "Warranty": "18 Month Coverage",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 12,
+        "Description": "Tanjiro Kamado themed webcam with water droplet LED effects that pulse with audio. The companion app adds Hinokami Kagura visual filters and character overlays.",
+        "Releasedate": "2024-04-22T00:00:00.000Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "WaterHashira",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user3"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Great for streaming! The water effects look amazing on night streams. Camera quality is solid for the price.",
+            "ReviewProfileImage": "water.png",
+            "date": "2024-05-05T20:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Posters",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might 4K Pro Webcam",
+        "Brand": "PlusUltra Gear",
+        "Model": "PU-ALLMIGHTCAM",
+        "Compatibility": ["PC", "Mac", "USB 3.0"],
+        "Image": "https://example.com/images/allmight_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/allmight_cam1.jpg"
+        ],
+        "Color": ["Blue", "Yellow Accents", "Silver"],
+        "Material": "Aluminum Alloy, Gorilla Glass",
+        "Connectivity": "USB-C with Detachable Cable",
+        "Features": ["4K HDR", "SMASH! Button for Screenshots", "Hero Pose Recognition", "Deku-style Analysis Mode", "Detroit Smash Audio Boost"],
+        "Size": ["11cm x 8cm x 5cm"],
+        "Weight": 0.42,
+        "Originalvalue": 159.99,
+        "previousvalue": 179.99,
+        "Marketprice": 149.99,
+        "Currentoffer": ["Free Hero Academy Zoom Backgrounds"],
+        "previousoffer": "Early Access",
+        "Warranty": "3 Years",
+        "Manufacturer": {
+          "Name": "PlusUltra Gear Corporation",
+          "Country": "USA",
+          "Address": "Detroit, Michigan",
+          "ContactEmail": "support@plusultragear.com",
+          "ContactPhone": "+1-313-555-7890",
+          "Website": "https://plusultragear.com",
+          "Warranty": "3 Year Pro Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 1543,
+        "No_of_Disikes": 32,
+        "Description": "Premium webcam designed for pro streamers and content creators. Features All Might's iconic costume colors and includes special PLUS ULTRA mode that enhances video quality during intense moments.",
+        "Releasedate": "2024-02-14T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "PU-ALLMIGHTCAM",
+            "CurrentModelLikes": 1543,
+            "CurrentModelDislikes": 32,
+            "PreviousModel": "PU-DEKUCAM2023",
+            "PreviousModelLikes": 987,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2024-02-14T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "One Piece Straw Hat Crew Portable Travel Webcam",
+        "Brand": "GrandLine Tech",
+        "Model": "GL-STRAWHATCAM",
+        "Compatibility": ["Laptop", "Tablet", "Smartphone"],
+        "Image": "https://example.com/images/onepiece_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/onepiece_cam1.jpg",
+          "https://example.com/gallery/onepiece_cam2.jpg"
+        ],
+        "Color": ["Straw Hat Yellow", "Red Ribbon"],
+        "Material": "Flexible Rubber, Plastic",
+        "Connectivity": "USB-A and USB-C Adapters Included",
+        "Features": ["1080p Portable", "Clip-On Design", "Jolly Roger Privacy Cover", "Crew Member Face Filters", "Travel Pouch"],
+        "Size": ["6cm diameter"],
+        "Weight": 0.15,
+        "Originalvalue": 59.99,
+        "previousvalue": 69.99,
+        "Marketprice": 54.99,
+        "Currentoffer": ["Free Going Merry Webcam Stand"],
+        "previousoffer": "Holiday Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "GrandLine Tech",
+          "Country": "Taiwan",
+          "Address": "Taipei, Taiwan",
+          "ContactEmail": "support@grandlinetech.com",
+          "ContactPhone": "+886-2-3456-7890",
+          "Website": "https://grandlinetech.com",
+          "Warranty": "1 Year International",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 321,
+        "No_of_Likes": 765,
+        "No_of_Disikes": 9,
+        "Description": "Compact travel webcam with the Straw Hat Pirates logo. The flexible rubber body wraps around laptop lids. Includes face filters for each crew member - become Luffy, Zoro, or Nami!",
+        "Releasedate": "2024-01-30T00:00:00.000Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKingWannabe",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user4"],
+            "ReviewerDisLikeby": ["user5"],
+            "Rating": 4,
+            "Review": "Perfect for digital nomads! Fits in my bag easily. The Luffy filter stretches my face when I yawn - hilarious!",
+            "ReviewProfileImage": "pirate.png",
+            "date": "2024-02-20T11:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Lamps",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Attack on Titan Survey Corps Clip-On Webcam Light",
+        "Brand": "WallMaria Tech",
+        "Model": "WM-SURVEYCAM",
+        "Compatibility": ["All Webcams", "Monitors"],
+        "Image": "https://example.com/images/aot_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/aot_cam1.jpg"
+        ],
+        "Color": ["Survey Corps Green", "White Wings"],
+        "Material": "Aluminum, LED Panels",
+        "Connectivity": "USB Powered",
+        "Features": ["Dual RGB Light Panels", "Clips on Any Webcam", "Wings of Freedom Projection", "Maneuver Gear Design", "Color Temperature Control"],
+        "Size": ["15cm Wingspan"],
+        "Weight": 0.18,
+        "Originalvalue": 49.99,
+        "previousvalue": 59.99,
+        "Marketprice": 44.99,
+        "Currentoffer": ["Free ODM Gear Cable Ties"],
+        "previousoffer": "None",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "WallMaria Tech",
+          "Country": "Germany",
+          "Address": "Berlin, Germany",
+          "ContactEmail": "tech@wallmaria.de",
+          "ContactPhone": "+49-30-12345678",
+          "Website": "https://wallmaria-tech.de",
+          "Warranty": "6 Month Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 187,
+        "No_of_Likes": 543,
+        "No_of_Disikes": 18,
+        "Description": "Not a webcam itself, but a premium lighting attachment for any webcam. Features the Survey Corps emblem and projects wing patterns on your background. Essential for professional streaming setup.",
+        "Releasedate": "2024-05-05T00:00:00.000Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan 360° Rotating Webcam",
+        "Brand": "HokageVision",
+        "Model": "HV-RASENGANCAM",
+        "Compatibility": ["PC", "Conference Rooms"],
+        "Image": "https://example.com/images/naruto_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/naruto_cam1.jpg"
+        ],
+        "Color": ["Spiral Blue", "Orange Accents"],
+        "Material": "Plastic, Motorized Base",
+        "Connectivity": "USB 3.0",
+        "Features": ["360° Auto-Rotation", "Face Tracking", "Rasengan Spiral Lighting", "Shadow Clone Multi-View", "Kunai-Shaped Remote"],
+        "Size": ["12cm diameter"],
+        "Weight": 0.38,
+        "Originalvalue": 119.99,
+        "previousvalue": 139.99,
+        "Marketprice": 109.99,
+        "Currentoffer": ["Free Hidden Leaf Headband"],
+        "previousoffer": "Pre-order Special",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "HokageVision Systems",
+          "Country": "Japan",
+          "Address": "Konoha, Tokyo (Studio)",
+          "ContactEmail": "support@hokagevision.jp",
+          "ContactPhone": "+81-3-5555-1234",
+          "Website": "https://hokagevision.jp",
+          "Warranty": "2 Year Comprehensive",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 45,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 24,
+        "Description": "Motorized webcam that automatically rotates to follow speakers in room. The base features glowing Rasengan design. Perfect for group meetings or streaming setups with multiple people.",
+        "Releasedate": "2024-07-20T00:00:00.000Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "FutureHokage",
+            "ReviewerLike": 23,
+            "ReviewerDisLike": 8,
+            "ReviewerLikeby": ["user6"],
+            "ReviewerDisLikeby": ["user7", "user8"],
+            "Rating": 3,
+            "Review": "Cool concept but rotation can be jittery. The Rasengan lights are awesome though! Believes it!",
+            "ReviewProfileImage": "hokage2.png",
+            "date": "2024-08-05T16:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Mixed",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Scouter 720p Webcam",
+        "Brand": "Capsule Corp Tech",
+        "Model": "CC-SCOUTERCAM",
+        "Compatibility": ["PC", "Gaming Setups"],
+        "Image": "https://example.com/images/scouter_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/scouter_cam1.jpg"
+        ],
+        "Color": ["Frieza Force Purple", "Green Lens"],
+        "Material": "Plastic, LED Display",
+        "Connectivity": "USB 2.0",
+        "Features": ["Scouter Design", "Power Level Display", "720p Resolution", "Voice Modulation", "Saiyan Hair Filters"],
+        "Size": ["Fits on Head or Monitor"],
+        "Weight": 0.22,
+        "Originalvalue": 39.99,
+        "previousvalue": 49.99,
+        "Marketprice": 34.99,
+        "Currentoffer": ["Free Dragon Ball Zoom Effects"],
+        "previousoffer": "Black Friday",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "Capsule Corporation Tech",
+          "Country": "USA",
+          "Address": "West City (Studio Address)",
+          "ContactEmail": "support@capsulecorp.tech",
+          "ContactPhone": "+1-800-555-9000",
+          "Website": "https://capsulecorp.tech",
+          "Warranty": "1 Year Limited",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 432,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 45,
+        "Description": "Unique scouter-style webcam that can be worn on head or mounted on monitor. Displays 'power level' numbers on its LED screen. Changes your voice to sound like Vegeta or Frieza!",
+        "Releasedate": "2023-11-01T00:00:00.000Z",
+        "Ratings": 4.0,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CC-SCOUTERCAM",
+            "CurrentModelLikes": 987,
+            "CurrentModelDislikes": 45,
+            "PreviousModel": "CC-DRAGONRADAR2022",
+            "PreviousModelLikes": 654,
+            "PreviousModelDislikes": 67,
+            "CurrentModelDate": "2023-11-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Posters",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro Ultra-Wide Webcam",
+        "Brand": "GhibliStudio Gear",
+        "Model": "GS-TOTOROWIDE",
+        "Compatibility": ["Mac", "PC", "Video Conferencing"],
+        "Image": "https://example.com/images/totoro_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/totoro_cam1.jpg",
+          "https://example.com/gallery/totoro_cam2.jpg"
+        ],
+        "Color": ["Totoro Gray", "Leaf Green"],
+        "Material": "Soft Touch Plastic, Glass",
+        "Connectivity": "USB-C with Extension",
+        "Features": ["Ultra-Wide 120° Lens", "Catbus Face Tracking", "Ghibli Sound Effects", "Forest Background AI", "So-Totoro Mini Stand"],
+        "Size": ["10cm x 6cm x 4cm"],
+        "Weight": 0.31,
+        "Originalvalue": 99.99,
+        "previousvalue": 119.99,
+        "Marketprice": 94.99,
+        "Currentoffer": ["Free My Neighbor Totoro Virtual Set"],
+        "previousoffer": "Studio Ghibli Anniversary",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "GhibliStudio Gear",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "gear@ghiblistudio.jp",
+          "ContactPhone": "+81-3-2222-3333",
+          "Website": "https://ghiblistudio-gear.jp",
+          "Warranty": "2 Year Studio Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 1654,
+        "No_of_Disikes": 18,
+        "Description": "Wide-angle webcam perfect for showing your whole creative workspace. Features Totoro and friends as interactive elements in the companion app. Includes magical forest background removal.",
+        "Releasedate": "2024-03-01T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GhibliArtist",
+            "ReviewerLike": 89,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user9", "user10"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Perfect for art streams! The wide angle shows my whole drawing table. The Totoro animations are charming and not distracting.",
+            "ReviewProfileImage": "artist.png",
+            "date": "2024-03-20T09:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Webcams",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita Clip-On Webcam",
+        "Brand": "DevilHunter Tech",
+        "Model": "DH-POCHITACAM",
+        "Compatibility": ["Laptops", "Gaming Monitors"],
+        "Image": "https://example.com/images/pochita_webcam.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/pochita_cam1.jpg"
+        ],
+        "Color": ["Orange", "Chainsaw Blade Gray"],
+        "Material": "Rubberized Plastic, Metal Clip",
+        "Connectivity": "USB-A",
+        "Features": ["1080p 30fps", "Chainsaw Rev LED", "Strong Grip Clip", "Blood Splatter Filters", "Denji Face Swap"],
+        "Size": ["7cm tall"],
+        "Weight": 0.19,
+        "Originalvalue": 44.99,
+        "previousvalue": 54.99,
+        "Marketprice": 39.99,
+        "Currentoffer": ["Free Chainsaw Man Sticker Pack"],
+        "previousoffer": "Launch Special",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "DevilHunter Tech",
+          "Country": "China",
+          "Address": "Guangzhou, China",
+          "ContactEmail": "tech@devilhunter.cn",
+          "ContactPhone": "+86-20-8765-4321",
+          "Website": "https://devilhunter-tech.cn",
+          "Warranty": "1 Year Standard",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 278,
+        "No_of_Likes": 765,
+        "No_of_Disikes": 32,
+        "Description": "Cute but edgy Pochita webcam that clips securely to any monitor. The chainsaw on his head lights up red when active. Includes wild filters that add blood splatter and devil horns.",
+        "Releasedate": "2024-09-10T00:00:00.000Z",
+        "Ratings": 4.1,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  }
+]

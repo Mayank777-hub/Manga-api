@@ -1,0 +1,592 @@
+[
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Gojo Satoru USB Streaming Microphone",
+        "Brand": "CursedAudio",
+        "Model": "CA-GOJOMIC",
+        "Compatibility": ["PC", "Mac", "PS5", "Streaming Software"],
+        "Image": "https://example.com/images/gojo_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/gojo_mic1.jpg",
+          "https://example.com/gallery/gojo_mic2.jpg"
+        ],
+        "Color": ["Infinity White", "Blue Glow"],
+        "Material": "Metal, Polycarbonate, LED",
+        "Connectivity": "USB-C, 3.5mm headphone jack",
+        "Features": ["Cardioid Pattern", "Infinity Blue RGB", "Touch Mute", "Zero Latency Monitoring", "Gojo Voice Effects"],
+        "Size": ["15cm height", "7cm diameter"],
+        "Weight": 0.65,
+        "Originalvalue": 129.99,
+        "previousvalue": 149.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["Free Domain Expansion Pop Filter"],
+        "previousoffer": "Pre-order Bonus",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "CursedAudio Technologies",
+          "Country": "USA",
+          "Address": "Los Angeles, CA",
+          "ContactEmail": "tech@cursedaudio.com",
+          "ContactPhone": "+1-310-555-1357",
+          "Website": "https://cursedaudio.com",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 987,
+        "No_of_Dislikes": 23,
+        "Description": "Premium USB streaming microphone featuring Gojo Satoru's Infinity technique with pulsating blue RGB lighting. Includes special voice modulation effects that mimic Gojo's voice tones.",
+        "Releasedate": "2024-04-20T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DomainStreamer",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user1", "user2"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The Infinity lighting is incredible on stream! Voice quality is crystal clear and the Gojo voice effects are hilarious for alerts.",
+            "ReviewProfileImage": "streamer.png",
+            "date": "2024-05-05T14:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CA-GOJOMIC",
+            "CurrentModelLikes": 987,
+            "CurrentModelDislikes": 23,
+            "PreviousModel": "CA-SUKUNAMIC2023",
+            "PreviousModelLikes": 765,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2024-04-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Demon Slayer Water Breathing XLR Studio Microphone",
+        "Brand": "HashiraSound",
+        "Model": "HS-WATERMICPRO",
+        "Compatibility": ["Audio Interfaces", "Studio Equipment"],
+        "Image": "https://example.com/images/demonslayer_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/demonslayer_mic1.jpg",
+          "https://example.com/gallery/demonslayer_mic2.jpg"
+        ],
+        "Color": ["Water Blue", "Black Mesh"],
+        "Material": "Metal Body, Gold Sputtered Diaphragm",
+        "Connectivity": "XLR-3 Connector",
+        "Features": ["Large Diaphragm Condenser", "Water Droplet LED", "Shock Mount Included", "Low Self-Noise", "Breathing Style Voice Presets"],
+        "Size": ["22cm x 6cm diameter"],
+        "Weight": 0.48,
+        "Originalvalue": 199.99,
+        "previousvalue": 229.99,
+        "Marketprice": 189.99,
+        "Currentoffer": ["Free Pop Filter & Windscreen"],
+        "previousoffer": "Studio Bundle",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "HashiraSound Professional",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "pro@hashirasound.jp",
+          "ContactPhone": "+81-3-2468-1357",
+          "Website": "https://hashirasound.jp",
+          "Warranty": "2 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 45,
+        "No_of_Likes": 654,
+        "No_of_Dislikes": 12,
+        "Description": "Professional XLR condenser microphone with water droplet visual effects that respond to vocal intensity. Includes voice presets modeled after Tanjiro's Water Breathing techniques.",
+        "Releasedate": "2024-03-10T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Forger USB-C Mini Microphone",
+        "Brand": "WakuWaku Audio",
+        "Model": "WW-ANYAMICMINI",
+        "Compatibility": ["Laptop", "Smartphone", "Tablet"],
+        "Image": "https://example.com/images/anya_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/anya_mic1.jpg"
+        ],
+        "Color": ["Anya Pink", "White Hair"],
+        "Material": "Silicone, Plastic",
+        "Connectivity": "USB-C, 3.5mm TRRS",
+        "Features": ["Plug & Play", "Anya Giggle Sound Effects", "Noise Reduction", "Flexible Gooseneck", "Travel Pouch"],
+        "Size": ["12cm extended"],
+        "Weight": 0.12,
+        "Originalvalue": 34.99,
+        "previousvalue": 39.99,
+        "Marketprice": 32.99,
+        "Currentoffer": ["Free Peanut Sticker Pack"],
+        "previousoffer": "Back-to-School Special",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "WakuWaku Audio Gear",
+          "Country": "Japan",
+          "Address": "Osaka, Japan",
+          "ContactEmail": "gear@wakuwa.ku.jp",
+          "ContactPhone": "+81-6-1357-2468",
+          "Website": "https://wakuwa.ku-audio.jp",
+          "Warranty": "6 Month Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 543,
+        "No_of_Dislikes": 18,
+        "Description": "Adorable portable microphone featuring Anya's design. Includes her iconic 'HEH!' and giggle sound effects that can be triggered. Perfect for online classes, meetings, or casual streaming.",
+        "Releasedate": "2024-06-15T00:00:00.000Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TelepathStudent",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user3"],
+            "ReviewerDisLikeby": ["user4"],
+            "Rating": 4,
+            "Review": "HEH! So cute for my online classes! My professors can hear me clearly now. The Anya sound effects make presentations fun!",
+            "ReviewProfileImage": "student.png",
+            "date": "2024-07-01T11:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "One Piece Straw Hat Crew Dynamic Microphone",
+        "Brand": "GrandLine Sound",
+        "Model": "GL-STRAWHATDYNAMIC",
+        "Compatibility": ["Karaoke", "Live Streaming", "Podcasting"],
+        "Image": "https://example.com/images/onepiece_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/onepiece_mic1.jpg",
+          "https://example.com/gallery/onepiece_mic2.jpg"
+        ],
+        "Color": ["Straw Hat Yellow", "Red Grip"],
+        "Material": "Metal Grille, Rubberized Handle",
+        "Connectivity": "XLR, USB Adapter Included",
+        "Features": ["Dynamic Cardioid", "Jolly Roger LED Base", "On/Off Switch", "Shock Mount", "Crew Voice Filters"],
+        "Size": ["19cm length", "5cm diameter"],
+        "Weight": 0.58,
+        "Originalvalue": 89.99,
+        "previousvalue": 99.99,
+        "Marketprice": 84.99,
+        "Currentoffer": ["Free Wanted Poster Pop Filter"],
+        "previousoffer": "Pirate Festival Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "GrandLine Sound Systems",
+          "Country": "Taiwan",
+          "Address": "Taipei, Taiwan",
+          "ContactEmail": "systems@grandlinesound.com",
+          "ContactPhone": "+886-2-1357-2468",
+          "Website": "https://grandlinesound.com",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 123,
+        "No_of_Likes": 765,
+        "No_of_Dislikes": 23,
+        "Description": "Dynamic microphone perfect for karaoke and energetic streaming sessions. Features the Straw Hat Jolly Roger on the LED-lit base. Includes voice filters to sound like Luffy, Zoro, or other crew members.",
+        "Releasedate": "2024-02-28T00:00:00.000Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "GL-STRAWHATDYNAMIC",
+            "CurrentModelLikes": 765,
+            "CurrentModelDislikes": 23,
+            "PreviousModel": "GL-MERRYMIC2023",
+            "PreviousModelLikes": 543,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2024-02-28T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might Studio Broadcast Mic",
+        "Brand": "HeroVoice Pro",
+        "Model": "HV-ALLMIGHTBROADCAST",
+        "Compatibility": ["Professional Streaming", "Radio", "Voiceover"],
+        "Image": "https://example.com/images/allmight_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/allmight_mic1.jpg"
+        ],
+        "Color": ["Plus Ultra Blue", "Silver", "Yellow"],
+        "Material": "Brushed Aluminum, Metal Mesh",
+        "Connectivity": "USB-C, XLR (Dual)",
+        "Features": ["Broadcast Quality", "SMASH! Button for Effects", "Multi-pattern", "Shock Mount Arm", "PLUS ULTRA Voice Boost"],
+        "Size": ["25cm height with stand"],
+        "Weight": 1.25,
+        "Originalvalue": 249.99,
+        "previousvalue": 279.99,
+        "Marketprice": 239.99,
+        "Currentoffer": ["Free Broadcast Arm"],
+        "previousoffer": "Pro Streamer Bundle",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "HeroVoice Professional",
+          "Country": "USA",
+          "Address": "Detroit, MI",
+          "ContactEmail": "pro@herovoice.com",
+          "ContactPhone": "+1-313-555-7890",
+          "Website": "https://herovoice.com",
+          "Warranty": "2 Year Pro Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 876,
+        "No_of_Dislikes": 18,
+        "Description": "Professional broadcast microphone featuring All Might's color scheme and PLUS ULTRA design. The SMASH! button triggers special voice effects and sound cues. Ideal for professional streamers and podcasters.",
+        "Releasedate": "2024-01-15T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ProHeroStreamer",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user5", "user6"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "PLUS ULTRA quality! This mic makes my voice sound incredibly professional. The SMASH! effects are perfect for stream alerts.",
+            "ReviewProfileImage": "prostreamer.png",
+            "date": "2024-02-01T09:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Attack on Titan ODM Gear Lapel Microphone",
+        "Brand": "WallMaria Audio",
+        "Model": "WM-ODMLAPEL",
+        "Compatibility": ["Content Creation", "Vlogging", "Interviews"],
+        "Image": "https://example.com/images/aot_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/aot_mic1.jpg",
+          "https://example.com/gallery/aot_mic2.jpg"
+        ],
+        "Color": ["Survey Corps Green", "Metal Gray"],
+        "Material": "Metal Clip, Fabric Cable",
+        "Connectivity": "3.5mm TRS, USB-C Adapter",
+        "Features": ["Lavalier Design", "ODM Gear Clip", "Omnidirectional", "Windscreen Included", "Titan Roar Voice Effect"],
+        "Size": ["Microphone: 1.5cm", "Cable: 2m"],
+        "Weight": 0.08,
+        "Originalvalue": 44.99,
+        "previousvalue": 49.99,
+        "Marketprice": 39.99,
+        "Currentoffer": ["Free Wings of Freedom Badge"],
+        "previousoffer": "None",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "WallMaria Audio Solutions",
+          "Country": "Germany",
+          "Address": "Berlin, Germany",
+          "ContactEmail": "solutions@wallmaria-audio.de",
+          "ContactPhone": "+49-30-2468-1357",
+          "Website": "https://wallmaria-audio.de",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 187,
+        "No_of_Likes": 432,
+        "No_of_Dislikes": 28,
+        "Description": "Lapel microphone designed like ODM (Omni-Directional Mobility) gear. The clip resembles the gear's attachment mechanism. Includes a Titan roar voice effect for dramatic moments.",
+        "Releasedate": "2024-05-10T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan USB Condenser Mic",
+        "Brand": "ShinobiSound",
+        "Model": "SS-RASENGANCONDENSER",
+        "Compatibility": ["Gaming", "Streaming", "Voice Chat"],
+        "Image": "https://example.com/images/naruto_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/naruto_mic1.jpg"
+        ],
+        "Color": ["Spiral Blue", "Orange Base"],
+        "Material": "Metal Mesh, Plastic Base",
+        "Connectivity": "USB-A, 3.5mm monitoring",
+        "Features": ["Spiral RGB Lighting", "Touch Controls", "Cardioid Pattern", "Spinning Rasengan Effect", "Ninja Hand Sign Voice Changer"],
+        "Size": ["18cm height"],
+        "Weight": 0.72,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 74.99,
+        "Currentoffer": ["Free Hidden Leaf Headband"],
+        "previousoffer": "Ninja War Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "ShinobiSound Tech",
+          "Country": "Japan",
+          "Address": "Osaka, Japan",
+          "ContactEmail": "tech@shinobisound.jp",
+          "ContactPhone": "+81-6-7890-1234",
+          "Website": "https://shinobisound.jp",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 654,
+        "No_of_Dislikes": 34,
+        "Description": "USB condenser microphone with Rasengan-inspired spiral RGB lighting that spins during use. Includes voice changer with ninja hand sign effects (different effects for different hand signs).",
+        "Releasedate": "2024-07-25T00:00:00.000Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HokageGamer",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 8,
+            "ReviewerLikeby": ["user7"],
+            "ReviewerDisLikeby": ["user8", "user9"],
+            "Rating": 4,
+            "Review": "The spinning Rasengan effect is so cool on stream! Voice quality is good for gaming. Believe it!",
+            "ReviewProfileImage": "gamer.png",
+            "date": "2024-08-15T16:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Scouter Headset Microphone",
+        "Brand": "Capsule Corp Audio",
+        "Model": "CC-SCOUTERHEADSET",
+        "Compatibility": ["Gaming", "Communication", "PS5/Xbox"],
+        "Image": "https://example.com/images/scouter_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/scouter_mic1.jpg"
+        ],
+        "Color": ["Frieza Force Purple", "Green Lens"],
+        "Material": "Plastic, Metal Adjusters",
+        "Connectivity": "3.5mm combo jack, USB adapter",
+        "Features": ["Over-Ear Design", "Scouter Display", "Retractable Mic", "Power Level Voice Modulation", "Saiyan Scream Boost"],
+        "Size": ["Adjustable headband"],
+        "Weight": 0.38,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 64.99,
+        "Currentoffer": ["Free Dragon Ball Stickers"],
+        "previousoffer": "Anime Convention Special",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "Capsule Corp Audio Gear",
+          "Country": "USA",
+          "Address": "California, USA",
+          "ContactEmail": "gear@capsulecorp-audio.com",
+          "ContactPhone": "+1-415-555-1357",
+          "Website": "https://capsulecorp-audio.com",
+          "Warranty": "1 Year Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 543,
+        "No_of_Dislikes": 45,
+        "Description": "Gaming headset with built-in scouter design on the earcup. The retractable microphone features power level display and voice modulation to sound like Vegeta, Goku, or Frieza.",
+        "Releasedate": "2023-11-20T00:00:00.000Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CC-SCOUTERHEADSET",
+            "CurrentModelLikes": 543,
+            "CurrentModelDislikes": 45,
+            "PreviousModel": "CC-KAMEHEADSET2022",
+            "PreviousModelLikes": 321,
+            "PreviousModelDislikes": 67,
+            "CurrentModelDate": "2023-11-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro USB Studio Microphone",
+        "Brand": "GhibliSound Studio",
+        "Model": "GS-TOTOROSTUDIO",
+        "Compatibility": ["Recording", "Podcasting", "Voiceovers"],
+        "Image": "https://example.com/images/totoro_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/totoro_mic1.jpg",
+          "https://example.com/gallery/totoro_mic2.jpg"
+        ],
+        "Color": ["Totoro Gray", "Leaf Green Base"],
+        "Material": "Metal Body, Wood Accents",
+        "Connectivity": "USB-C, XLR optional",
+        "Features": ["Studio Quality", "Totoro Shape", "Warm Sound Profile", "Forest Ambient Effects", "Soot Sprite Pop Filter"],
+        "Size": ["20cm height with stand"],
+        "Weight": 0.92,
+        "Originalvalue": 179.99,
+        "previousvalue": 199.99,
+        "Marketprice": 169.99,
+        "Currentoffer": ["Free Studio Ghibli Sound Pack"],
+        "previousoffer": "Studio Anniversary Sale",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "GhibliSound Studio Gear",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "studio@ghiblisound.jp",
+          "ContactPhone": "+81-3-5555-4444",
+          "Website": "https://ghiblisound.jp",
+          "Warranty": "2 Year Studio Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 54,
+        "No_of_Likes": 876,
+        "No_of_Dislikes": 12,
+        "Description": "Professional USB microphone shaped like Totoro. Features warm, natural sound quality perfect for voiceovers and acoustic recordings. Includes Ghibli-themed ambient sound effects and filters.",
+        "Releasedate": "2024-05-30T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GhibliPodcaster",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user10", "user11"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Absolutely beautiful microphone with incredible sound quality. The Totoro design is charming and the Ghibli sound effects are magical!",
+            "ReviewProfileImage": "podcaster.png",
+            "date": "2024-06-20T13:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Microphones",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita Clip-on Microphone",
+        "Brand": "DevilGear Audio",
+        "Model": "DG-POCHITACLIPMIC",
+        "Compatibility": ["Smartphone", "Vlogging", "Social Media"],
+        "Image": "https://example.com/images/pochita_mic.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/pochita_mic1.jpg"
+        ],
+        "Color": ["Pochita Orange", "Chainsaw Gray"],
+        "Material": "Silicone, Plastic",
+        "Connectivity": "3.5mm TRRS, Lightning adapter",
+        "Features": ["Smartphone Clip", "Pochita Design", "Omnidirectional", "Chainsaw Rev Sound Effect", "Portable"],
+        "Size": ["Clip: 4cm", "Mic: 2cm"],
+        "Weight": 0.05,
+        "Originalvalue": 29.99,
+        "previousvalue": 34.99,
+        "Marketprice": 27.99,
+        "Currentoffer": ["Free Chainsaw Man Sticker"],
+        "previousoffer": "Social Media Creator Pack",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "DevilGear Audio Works",
+          "Country": "China",
+          "Address": "Shenzhen, China",
+          "ContactEmail": "works@devilgear-audio.cn",
+          "ContactPhone": "+86-755-2468-1357",
+          "Website": "https://devilgear-audio.cn",
+          "Warranty": "6 Month Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 321,
+        "No_of_Likes": 432,
+        "No_of_Dislikes": 56,
+        "Description": "Cute clip-on microphone shaped like Pochita for smartphone vlogging and social media content. The chainsaw on his head lights up red when recording. Includes chainsaw revving sound effects.",
+        "Releasedate": "2024-09-10T00:00:00.000Z",
+        "Ratings": 4.1,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,602 @@
+[
+     {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan Gaming Mouse",
+        "Brand": "AnimeTech",
+        "Model": "RG-M01",
+        "Compatibility": ["PC", "Mac", "PS5"],
+        "Image": "rasengan-mouse-main.jpg",
+        "ProductGallery": ["rasengan-mouse-1.jpg", "rasengan-mouse-2.jpg", "rasengan-mouse-3.jpg"],
+        "Color": ["Blue", "White"],
+        "Material": "Matte Plastic, Rubber Grips",
+        "Connectivity": "USB 2.4GHz, Wired",
+        "Features": ["RGB Rasengan Effect", "16000 DPI", "Programmable Buttons", "Ergonomic Design"],
+        "Size": ["Medium", "Large"],
+        "Weight": 0.095,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 54.99,
+        "Currentoffer": ["21% off"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "AnimeTech Gaming",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 110,
+        "No_of_Likes": 189,
+        "No_of_Disikes": 8,
+        "Description": "Naruto inspired gaming mouse with Rasengan spiral RGB lighting and high precision sensor",
+        "Releasedate": "2023-11-01T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NarutoFan",
+            "ReviewerLike": 38,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user21", "user22"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Believe it! The Rasengan lighting is perfect for gaming",
+            "ReviewProfileImage": "reviewer11.jpg",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "RG-M01",
+            "CurrentModelLikes": 189,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "RG-M00",
+            "PreviousModelLikes": 156,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-11-01T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "One Piece Gum Gum Fruit Wireless Mouse",
+        "Brand": "PirateTech",
+        "Model": "GF-WM02",
+        "Compatibility": ["PC", "Mac", "Mobile"],
+        "Image": "gumgum-mouse-main.jpg",
+        "ProductGallery": ["gumgum-mouse-1.jpg", "gumgum-mouse-2.jpg", "gumgum-mouse-3.jpg"],
+        "Color": ["Red", "Purple"],
+        "Material": "Plastic, Silicone Sides",
+        "Connectivity": "Bluetooth 5.0, USB Receiver",
+        "Features": ["Wireless", "Long Battery", "Custom Design", "Portable"],
+        "Size": ["Medium"],
+        "Weight": 0.085,
+        "Originalvalue": 49.99,
+        "previousvalue": 59.99,
+        "Marketprice": 39.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "17% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "PirateTech Accessories",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 140,
+        "No_of_Likes": 167,
+        "No_of_Disikes": 6,
+        "Description": "One Piece Devil Fruit themed wireless mouse with ergonomic design and portable form factor",
+        "Releasedate": "2023-10-15T00:00:00Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKing",
+            "ReviewerLike": 32,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user23", "user24"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Great for travel! Battery lasts weeks",
+            "ReviewProfileImage": "reviewer12.jpg",
+            "date": "2023-10-20T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "GF-WM02",
+            "CurrentModelLikes": 167,
+            "CurrentModelDislikes": 6,
+            "PreviousModel": "GF-WM01",
+            "PreviousModelLikes": 134,
+            "PreviousModelDislikes": 4,
+            "CurrentModelDate": "2023-10-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Demon Slayer Nezuko Bamboo Mouse",
+        "Brand": "HashiraTech",
+        "Model": "NB-M03",
+        "Compatibility": ["PC", "Mac"],
+        "Image": "nezuko-mouse-main.jpg",
+        "ProductGallery": ["nezuko-mouse-1.jpg", "nezuko-mouse-2.jpg", "nezuko-mouse-3.jpg"],
+        "Color": ["Pink", "Green"],
+        "Material": "Matte Plastic, Bamboo Accents",
+        "Connectivity": "USB-C, Wireless 2.4GHz",
+        "Features": ["Bamboo Scroll Wheel", "RGB Lighting", "6400 DPI", "Silent Clicks"],
+        "Size": ["Small", "Medium"],
+        "Weight": 0.078,
+        "Originalvalue": 59.99,
+        "previousvalue": 69.99,
+        "Marketprice": 47.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "14% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HashiraTech Accessories",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 125,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 7,
+        "Description": "Nezuko Kamado inspired wireless mouse with bamboo-themed design and silent clicking mechanism",
+        "Releasedate": "2023-09-20T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NezukoFan",
+            "ReviewerLike": 48,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user25", "user26"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "So kawaii! The bamboo wheel is adorable",
+            "ReviewProfileImage": "reviewer13.jpg",
+            "date": "2023-09-25T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "NB-M03",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 7,
+            "PreviousModel": "NB-M02",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 5,
+            "CurrentModelDate": "2023-09-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "My Hero Academia Deku Smash Gaming Mouse",
+        "Brand": "HeroTech",
+        "Model": "DS-M04",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "deku-mouse-main.jpg",
+        "ProductGallery": ["deku-mouse-1.jpg", "deku-mouse-2.jpg", "deku-mouse-3.jpg"],
+        "Color": ["Green", "Black"],
+        "Material": "Textured Plastic, Rubber Grips",
+        "Connectivity": "USB 2.0, Wireless",
+        "Features": ["One For All LED", "16000 DPI", "8 Programmable Buttons", "Weight System"],
+        "Size": ["Large", "Extra Large"],
+        "Weight": 0.125,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 63.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "11% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HeroTech Gaming",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 95,
+        "No_of_Likes": 201,
+        "No_of_Disikes": 9,
+        "Description": "Deku inspired gaming mouse with One For All green lighting and customizable weight system",
+        "Releasedate": "2023-08-15T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HeroFan",
+            "ReviewerLike": 42,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user27", "user28"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Plus Ultra performance! Perfect for FPS games",
+            "ReviewProfileImage": "reviewer14.jpg",
+            "date": "2023-08-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "DS-M04",
+            "CurrentModelLikes": 201,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "DS-M03",
+            "PreviousModelLikes": 167,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-08-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Attack on Titan ODM Gear Mouse",
+        "Brand": "ScoutTech",
+        "Model": "ODM-M05",
+        "Compatibility": ["PC", "Mac"],
+        "Image": "odm-mouse-main.jpg",
+        "ProductGallery": ["odm-mouse-1.jpg", "odm-mouse-2.jpg", "odm-mouse-3.jpg"],
+        "Color": ["Brown", "Silver"],
+        "Material": "Metal Alloy, Leather Grips",
+        "Connectivity": "USB-C, Wireless",
+        "Features": ["ODM Gear Design", "12000 DPI", "Ergonomic Shape", "Quick Response"],
+        "Size": ["Medium", "Large"],
+        "Weight": 0.110,
+        "Originalvalue": 89.99,
+        "previousvalue": 99.99,
+        "Marketprice": 71.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "10% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "ScoutTech Gaming",
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 80,
+        "No_of_Likes": 178,
+        "No_of_Disikes": 11,
+        "Description": "ODM Gear inspired gaming mouse with military-grade build quality and precision tracking",
+        "Releasedate": "2023-07-10T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ScoutFan",
+            "ReviewerLike": 36,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user29", "user30"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Dedicate your hearts! Built like military equipment",
+            "ReviewProfileImage": "reviewer15.jpg",
+            "date": "2023-07-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "ODM-M05",
+            "CurrentModelLikes": 178,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "ODM-M04",
+            "PreviousModelLikes": 145,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-07-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Domain Expansion Mouse",
+        "Brand": "SorcererTech",
+        "Model": "DE-M06",
+        "Compatibility": ["PC", "Mac", "PS5"],
+        "Image": "domain-mouse-main.jpg",
+        "ProductGallery": ["domain-mouse-1.jpg", "domain-mouse-2.jpg", "domain-mouse-3.jpg"],
+        "Color": ["Purple", "Black"],
+        "Material": "Glossy Plastic, Rubber Sides",
+        "Connectivity": "USB 2.4GHz, Bluetooth",
+        "Features": ["Domain Expansion RGB", "20000 DPI", "6 Buttons", "Customizable Weight"],
+        "Size": ["Medium"],
+        "Weight": 0.095,
+        "Originalvalue": 74.99,
+        "previousvalue": 84.99,
+        "Marketprice": 59.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "12% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SorcererTech Gaming",
+        "CountryOfOrigin": "South Korea",
+        "Instock": true,
+        "Instockno": 105,
+        "No_of_Likes": 223,
+        "No_of_Disikes": 8,
+        "Description": "Jujutsu Kaisen themed gaming mouse with Domain Expansion purple lighting effects",
+        "Releasedate": "2023-06-12T00:00:00Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GojoSimp",
+            "ReviewerLike": 47,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user31", "user32"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The strongest mouse! Purple domain lighting is incredible",
+            "ReviewProfileImage": "reviewer16.jpg",
+            "date": "2023-06-18T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "DE-M06",
+            "CurrentModelLikes": 223,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "DE-M05",
+            "PreviousModelLikes": 189,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-06-12T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita Plush Mouse",
+        "Brand": "DevilTech",
+        "Model": "PP-M07",
+        "Compatibility": ["PC", "Mac", "Tablet"],
+        "Image": "pochita-mouse-main.jpg",
+        "ProductGallery": ["pochita-mouse-1.jpg", "pochita-mouse-2.jpg", "pochita-mouse-3.jpg"],
+        "Color": ["Orange", "Brown"],
+        "Material": "Soft Touch Plastic, Fabric Accents",
+        "Connectivity": "USB Wireless",
+        "Features": ["Pochita Design", "Silent Operation", "Optical Sensor", "Cute Appearance"],
+        "Size": ["Small"],
+        "Weight": 0.065,
+        "Originalvalue": 44.99,
+        "previousvalue": 54.99,
+        "Marketprice": 35.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "18% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "DevilTech Accessories",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 180,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 5,
+        "Description": "Adorable Pochita themed wireless mouse with plush-like texture and cute design",
+        "Releasedate": "2023-05-20T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DenjiFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user33", "user34"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "So cute! Perfect for casual use and looks amazing",
+            "ReviewProfileImage": "reviewer17.jpg",
+            "date": "2023-05-25T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "PP-M07",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 5,
+            "PreviousModel": "PP-M06",
+            "PreviousModelLikes": 234,
+            "PreviousModelDislikes": 4,
+            "CurrentModelDate": "2023-05-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Waku Waku Mouse",
+        "Brand": "WakuTech",
+        "Model": "WW-M08",
+        "Compatibility": ["PC", "Mac", "Laptop"],
+        "Image": "anya-mouse-main.jpg",
+        "ProductGallery": ["anya-mouse-1.jpg", "anya-mouse-2.jpg", "anya-mouse-3.jpg"],
+        "Color": ["Pink", "White"],
+        "Material": "Smooth Plastic, Rubber Base",
+        "Connectivity": "USB Wireless Receiver",
+        "Features": ["Anya Face Design", "Quiet Clicks", "Compact Size", "Plug and Play"],
+        "Size": ["Small", "Mini"],
+        "Weight": 0.058,
+        "Originalvalue": 39.99,
+        "previousvalue": 49.99,
+        "Marketprice": 31.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "18% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "WakuTech Accessories",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 200,
+        "No_of_Likes": 312,
+        "No_of_Disikes": 4,
+        "Description": "Cute Anya Forger themed wireless mouse with her signature expressions and compact design",
+        "Releasedate": "2023-04-15T00:00:00Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaLover",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user35", "user36"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Waku waku! The cutest mouse ever made",
+            "ReviewProfileImage": "reviewer18.jpg",
+            "date": "2023-04-20T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "WW-M08",
+            "CurrentModelLikes": 312,
+            "CurrentModelDislikes": 4,
+            "PreviousModel": "WW-M07",
+            "PreviousModelLikes": 278,
+            "PreviousModelDislikes": 3,
+            "CurrentModelDate": "2023-04-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Bleach Hollow Mask Gaming Mouse",
+        "Brand": "SoulTech",
+        "Model": "HM-M09",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "hollow-mouse-main.jpg",
+        "ProductGallery": ["hollow-mouse-1.jpg", "hollow-mouse-2.jpg", "hollow-mouse-3.jpg"],
+        "Color": ["White", "Red"],
+        "Material": "Textured Plastic, LED Panels",
+        "Connectivity": "USB Wired",
+        "Features": ["Hollow Mask Design", "RGB Lighting", "Precision Sensor", "7 Buttons"],
+        "Size": ["Large"],
+        "Weight": 0.115,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 55.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SoulTech Gaming",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 90,
+        "No_of_Likes": 189,
+        "No_of_Disikes": 10,
+        "Description": "Bleach Hollow themed gaming mouse with menacing mask design and aggressive styling",
+        "Releasedate": "2023-03-10T00:00:00Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "IchigoFan",
+            "ReviewerLike": 38,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user37", "user38"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Bankai! The hollow design is intimidating and cool",
+            "ReviewProfileImage": "reviewer19.jpg",
+            "date": "2023-03-15T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HM-M09",
+            "CurrentModelLikes": 189,
+            "CurrentModelDislikes": 10,
+            "PreviousModel": "HM-M08",
+            "PreviousModelLikes": 156,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-03-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Mice",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Scouter Wireless Mouse",
+        "Brand": "SaiyanTech",
+        "Model": "SC-M10",
+        "Compatibility": ["PC", "Mac", "Tablet"],
+        "Image": "scouter-mouse-main.jpg",
+        "ProductGallery": ["scouter-mouse-1.jpg", "scouter-mouse-2.jpg", "scouter-mouse-3.jpg"],
+        "Color": ["Green", "Black"],
+        "Material": "Glossy Plastic, Metallic Accents",
+        "Connectivity": "Bluetooth 5.0",
+        "Features": ["Scouter Design", "LED Display", "Wireless", "Long Battery"],
+        "Size": ["Medium"],
+        "Weight": 0.088,
+        "Originalvalue": 59.99,
+        "previousvalue": 69.99,
+        "Marketprice": 47.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "14% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "SaiyanTech Accessories",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 130,
+        "No_of_Likes": 201,
+        "No_of_Disikes": 7,
+        "Description": "Dragon Ball Z Scouter themed wireless mouse with authentic design and functional LED display",
+        "Releasedate": "2023-02-08T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "VegetaFan",
+            "ReviewerLike": 42,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user39", "user40"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Power level is over 9000! The scouter design is perfect",
+            "ReviewProfileImage": "reviewer20.jpg",
+            "date": "2023-02-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SC-M10",
+            "CurrentModelLikes": 201,
+            "CurrentModelDislikes": 7,
+            "PreviousModel": "SC-M09",
+            "PreviousModelLikes": 167,
+            "PreviousModelDislikes": 5,
+            "CurrentModelDate": "2023-02-08T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2281 @@
+[
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "Love Hina",
+                "Author": "Ken Akamatsu",
+                "Anime": "Love Hina",
+                "Artist": "Ken Akamatsu",
+                "Animeurl": "https://m.media-amazon.com/images/I/916zyqCBUhL._UF1000,1000_QL80_.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Romance",
+                    "Comedy",
+                    "Harem",
+                    "School"
+                ],
+                "Publishers": [
+                    "Kodansha"
+                ],
+                "Publishinghouses": [
+                    "Weekly Shonen Magazine"
+                ],
+                "Originalvalue": 650,
+                "previousvalue": 720,
+                "Size": [
+                    17.8,
+                    11.0,
+                    1.5
+                ],
+                "Marketprice": [
+                    600,
+                    650,
+                    700
+                ],
+                "Aboutmanga": [
+                    "Keitaro Urashima's journey to get into Tokyo University while living in an all-girls dormitory",
+                    "Classic romantic comedy featuring multiple love interests and misunderstandings",
+                    "One of the most influential harem manga series that defined the genre"
+                ],
+                "Currentoffer": [
+                    "15% off original price",
+                    "Free bookmark with purchase"
+                ],
+                "No_of_Likes": 5847,
+                "No_of_Disikes": 432,
+                "previousoffer": "Summer sale 25% discount",
+                "Status": "Completed",
+                "Agegroup": 16,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ],
+                "Image": "https://example.com/love-hina-cover.jpg",
+                "Releasedate": "1998-10-21T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 89,
+                "Characters": [
+                    {
+                        "Name": "Keitaro Urashima",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/3/77298.jpg"
+                    },
+                    {
+                        "Name": "Naru Narusegawa",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/2/77300.jpg"
+                    },
+                    {
+                        "Name": "Mutsumi Otohime",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/12/52804.jpg"
+                    },
+                    {
+                        "Name": "Motoko Aoyama",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/5/52803.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "HaremMaster2024",
+                        "Rating": 5,
+                        "Review": "The grandfather of all harem manga! Ken Akamatsu's masterpiece that started it all.",
+                        "date": "2024-11-20T00:00:00.000Z",
+                        "Overallexperience": "Excellent"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "Love Hina Volume 1",
+                        "No_ofuser_buy": "5847",
+                        "No_ofuser_refunded": "21",
+                        "Info_about_volume": "Keitaro arrives at Hinata Inn and meets the residents",
+                        "No_ofchapters": 6,
+                        "No_ofpages": 200,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 200
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/love-hina-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Love Hina Volume 14",
+                        "Currentvolumedate": "2024-01-15T00:00:00.000Z",
+                        "Current_volumeLikes": 1247,
+                        "Current_volumeDislikes": 89,
+                        "Total_Current_volumerating_no": 1336,
+                        "Previousvolume": "Love Hina Volume 13",
+                        "PreviousvolumeLikes": 1189,
+                        "PreviousvolumeDislikes": 95,
+                        "Total_Previous_volumerating_no": 1284
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "Nisekoi",
+                "Author": "Naoshi Komi",
+                "Anime": "Nisekoi",
+                "Artist": "Naoshi Komi",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/2811/original.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Romance",
+                    "Comedy",
+                    "Harem",
+                    "School"
+                ],
+                "Publishers": [
+                    "Shueisha"
+                ],
+                "Publishinghouses": [
+                    "Weekly Shonen Jump"
+                ],
+                "Originalvalue": 580,
+                "previousvalue": 640,
+                "Size": [
+                    17.6,
+                    11.2,
+                    1.4
+                ],
+                "Marketprice": [
+                    520,
+                    580,
+                    620
+                ],
+                "Aboutmanga": [
+                    "Raku Ichijo's fake relationship with Chitoge Kirisaki to prevent gang warfare",
+                    "Features a mysterious childhood promise and a locked pendant",
+                    "Modern take on romantic comedy with excellent character development"
+                ],
+                "Currentoffer": [
+                    "12% off for students",
+                    "Bundle deal available"
+                ],
+                "No_of_Likes": 6234,
+                "No_of_Disikes": 567,
+                "previousoffer": "Buy 3 get 1 free promotion",
+                "Status": "Completed",
+                "Agegroup": 15,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "Image": "https://example.com/nisekoi-cover.jpg",
+                "Releasedate": "2011-11-07T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 76,
+                "Characters": [
+                    {
+                        "Name": "Raku Ichijo",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/12/242215.jpg"
+                    },
+                    {
+                        "Name": "Chitoge Kirisaki",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/7/241651.jpg"
+                    },
+                    {
+                        "Name": "Kosaki Onodera",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/9/241653.jpg"
+                    },
+                    {
+                        "Name": "Seishiro Tsugumi",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/8/241659.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "RomComFan",
+                        "Rating": 4,
+                        "Review": "Great art and characters, though the ending was divisive among fans.",
+                        "date": "2024-10-15T00:00:00.000Z",
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "Nisekoi Volume 1",
+                        "No_ofuser_buy": "6234",
+                        "No_ofuser_refunded": "34",
+                        "Info_about_volume": "Introduction to Raku and Chitoge's fake relationship",
+                        "No_ofchapters": 7,
+                        "No_ofpages": 192,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 192
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/nisekoi-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Nisekoi Volume 25",
+                        "Currentvolumedate": "2024-01-20T00:00:00.000Z",
+                        "Current_volumeLikes": 987,
+                        "Current_volumeDislikes": 234,
+                        "Total_Current_volumerating_no": 1221,
+                        "Previousvolume": "Nisekoi Volume 24",
+                        "PreviousvolumeLikes": 923,
+                        "PreviousvolumeDislikes": 198,
+                        "Total_Previous_volumerating_no": 1121
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "To Love-Ru",
+                "Author": "Saki Hasemi",
+                "Anime": "To Love-Ru",
+                "Artist": "Kentaro Yabuki",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/1519/original.jpeg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Ecchi",
+                    "Comedy",
+                    "Harem",
+                    "Sci-Fi"
+                ],
+                "Publishers": [
+                    "Shueisha"
+                ],
+                "Publishinghouses": [
+                    "Weekly Shonen Jump"
+                ],
+                "Originalvalue": 620,
+                "previousvalue": 680,
+                "Size": [
+                    17.6,
+                    11.2,
+                    1.6
+                ],
+                "Marketprice": [
+                    570,
+                    620,
+                    670
+                ],
+                "Aboutmanga": [
+                    "Rito Yuuki's accidental engagement to alien princess Lala Satalin Deviluke",
+                    "Combines romantic comedy with science fiction elements",
+                    "Known for its ecchi content and comedic situations"
+                ],
+                "Currentoffer": [
+                    "18% off limited time",
+                    "Free sticker pack"
+                ],
+                "No_of_Likes": 4567,
+                "No_of_Disikes": 789,
+                "previousoffer": "Holiday special 30% off",
+                "Status": "Completed",
+                "Agegroup": 17,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18
+                ],
+                "Image": "https://example.com/to-love-ru-cover.jpg",
+                "Releasedate": "2006-04-24T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 54,
+                "Characters": [
+                    {
+                        "Name": "Rito Yuuki",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/9/57429.jpg"
+                    },
+                    {
+                        "Name": "Lala Satalin Deviluke",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/11/113782.jpg"
+                    },
+                    {
+                        "Name": "Haruna Sairenji",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/12/49246.jpg"
+                    },
+                    {
+                        "Name": "Yui Kotegawa",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/10/150171.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "EcchiCollector",
+                        "Rating": 4,
+                        "Review": "Great art by Kentaro Yabuki and funny comedy situations. Ecchi done right!",
+                        "date": "2024-11-05T00:00:00.000Z",
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "To Love-Ru Volume 1",
+                        "No_ofuser_buy": "4567",
+                        "No_ofuser_refunded": "45",
+                        "Info_about_volume": "Rito meets Lala and gets involved in intergalactic politics",
+                        "No_ofchapters": 6,
+                        "No_ofpages": 180,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 180
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/to-love-ru-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "To Love-Ru Volume 18",
+                        "Currentvolumedate": "2024-01-12T00:00:00.000Z",
+                        "Current_volumeLikes": 756,
+                        "Current_volumeDislikes": 143,
+                        "Total_Current_volumerating_no": 899,
+                        "Previousvolume": "To Love-Ru Volume 17",
+                        "PreviousvolumeLikes": 689,
+                        "PreviousvolumeDislikes": 167,
+                        "Total_Previous_volumerating_no": 856
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "The Quintessential Quintuplets",
+                "Author": "Negi Haruba",
+                "Anime": "The Quintessential Quintuplets",
+                "Artist": "Negi Haruba",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/39018/original.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Romance",
+                    "Comedy",
+                    "Harem",
+                    "School"
+                ],
+                "Publishers": [
+                    "Kodansha"
+                ],
+                "Publishinghouses": [
+                    "Weekly Shonen Magazine"
+                ],
+                "Originalvalue": 590,
+                "previousvalue": 650,
+                "Size": [
+                    17.8,
+                    11.0,
+                    1.4
+                ],
+                "Marketprice": [
+                    540,
+                    590,
+                    630
+                ],
+                "Aboutmanga": [
+                    "Futaro Uesugi tutors five identical quintuplet sisters",
+                    "Mystery romance where one of the sisters will become his bride",
+                    "Modern harem with strong character development and beautiful art"
+                ],
+                "Currentoffer": [
+                    "20% off bestseller",
+                    "Free character card set"
+                ],
+                "No_of_Likes": 7821,
+                "No_of_Disikes": 324,
+                "previousoffer": "Pre-order discount 25%",
+                "Status": "Completed",
+                "Agegroup": 16,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ],
+                "Image": "https://example.com/quintessential-quintuplets-cover.jpg",
+                "Releasedate": "2017-08-09T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 132,
+                "Characters": [
+                    {
+                        "Name": "Futaro Uesugi",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/3/554695.jpg"
+                    },
+                    {
+                        "Name": "Ichika Nakano",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/12/436646.jpg"
+                    },
+                    {
+                        "Name": "Nino Nakano",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/7/437011.jpg"
+                    },
+                    {
+                        "Name": "Miku Nakano",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/15/507743.jpg"
+                    },
+                    {
+                        "Name": "Yotsuba Nakano",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/8/437009.jpg"
+                    },
+                    {
+                        "Name": "Itsuki Nakano",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/5/437010.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "QuintFan2024",
+                        "Rating": 5,
+                        "Review": "Perfect harem manga! Great mystery, beautiful art, and well-developed characters.",
+                        "date": "2024-12-01T00:00:00.000Z",
+                        "Overallexperience": "Excellent"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "The Quintessential Quintuplets Volume 1",
+                        "No_ofuser_buy": "7821",
+                        "No_ofuser_refunded": "18",
+                        "Info_about_volume": "Futaro begins tutoring the Nakano quintuplets",
+                        "No_ofchapters": 7,
+                        "No_ofpages": 200,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 200
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/quintessential-quintuplets-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "The Quintessential Quintuplets Volume 14",
+                        "Currentvolumedate": "2024-01-25T00:00:00.000Z",
+                        "Current_volumeLikes": 1654,
+                        "Current_volumeDislikes": 67,
+                        "Total_Current_volumerating_no": 1721,
+                        "Previousvolume": "The Quintessential Quintuplets Volume 13",
+                        "PreviousvolumeLikes": 1523,
+                        "PreviousvolumeDislikes": 89,
+                        "Total_Previous_volumerating_no": 1612
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "High School DxD",
+                "Author": "Ichiei Ishibumi",
+                "Anime": "High School DxD",
+                "Artist": "Hiroji Mishima",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/18650/original.jpeg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Supernatural",
+                    "Ecchi",
+                    "Harem",
+                    "Action"
+                ],
+                "Publishers": [
+                    "Fujimi Shobo"
+                ],
+                "Publishinghouses": [
+                    "Dragon Magazine"
+                ],
+                "Originalvalue": 670,
+                "previousvalue": 740,
+                "Size": [
+                    18.0,
+                    12.8,
+                    1.7
+                ],
+                "Marketprice": [
+                    620,
+                    670,
+                    720
+                ],
+                "Aboutmanga": [
+                    "Issei Hyoudou becomes a devil after being killed on his first date",
+                    "Features devils, angels, and fallen angels in supernatural battles",
+                    "Popular supernatural harem with action and ecchi elements"
+                ],
+                "Currentoffer": [
+                    "22% off supernatural sale",
+                    "Bonus mini poster"
+                ],
+                "No_of_Likes": 5432,
+                "No_of_Disikes": 876,
+                "previousoffer": "Anime tie-in promotion 35% off",
+                "Status": "Ongoing",
+                "Agegroup": 18,
+                "Status_age_wise": "adult",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ],
+                "Image": "https://example.com/high-school-dxd-cover.jpg",
+                "Releasedate": "2012-07-09T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 67,
+                "Characters": [
+                    {
+                        "Name": "Issei Hyoudou",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://example.com/issei-hyoudou.jpg"
+                    },
+                    {
+                        "Name": "Rias Gremory",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/rias-gremory.jpg"
+                    },
+                    {
+                        "Name": "Akeno Himejima",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/akeno-himejima.jpg"
+                    },
+                    {
+                        "Name": "Asia Argento",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/asia-argento.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "SupernaturalHarem",
+                        "Rating": 4,
+                        "Review": "Great action scenes and supernatural world-building. Ecchi fans will love it!",
+                        "date": "2024-11-12T00:00:00.000Z",
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "High School DxD Volume 1",
+                        "No_ofuser_buy": "5432",
+                        "No_ofuser_refunded": "67",
+                        "Info_about_volume": "Issei's transformation into a devil and introduction to the supernatural world",
+                        "No_ofchapters": 5,
+                        "No_ofpages": 210,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 210
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/high-school-dxd-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "High School DxD Volume 13",
+                        "Currentvolumedate": "2024-01-18T00:00:00.000Z",
+                        "Current_volumeLikes": 892,
+                        "Current_volumeDislikes": 156,
+                        "Total_Current_volumerating_no": 1048,
+                        "Previousvolume": "High School DxD Volume 12",
+                        "PreviousvolumeLikes": 834,
+                        "PreviousvolumeDislikes": 174,
+                        "Total_Previous_volumerating_no": 1008
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "Trinity Seven",
+                "Author": "Kenji Saito",
+                "Anime": "Trinity Seven",
+                "Artist": "Akinari Nao",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/17468/original.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Magic",
+                    "Ecchi",
+                    "Harem",
+                    "School"
+                ],
+                "Publishers": [
+                    "Kadokawa Shoten"
+                ],
+                "Publishinghouses": [
+                    "Monthly Dragon Age"
+                ],
+                "Originalvalue": 600,
+                "previousvalue": 660,
+                "Size": [
+                    17.6,
+                    11.2,
+                    1.5
+                ],
+                "Marketprice": [
+                    550,
+                    600,
+                    650
+                ],
+                "Aboutmanga": [
+                    "Arata Kasuga attends a magical academy with seven powerful mages",
+                    "Features magical battles and romantic comedy elements",
+                    "Popular magic school harem with strong female characters"
+                ],
+                "Currentoffer": [
+                    "16% off magic series sale",
+                    "Free Trinity Seven pin"
+                ],
+                "No_of_Likes": 4123,
+                "No_of_Disikes": 567,
+                "previousoffer": "Magic Monday 20% discount",
+                "Status": "Ongoing",
+                "Agegroup": 17,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27
+                ],
+                "Image": "https://example.com/trinity-seven-cover.jpg",
+                "Releasedate": "2010-12-27T00:00:00.000Z",
+                "Instock": true,
+                "Instockno": 45,
+                "Characters": [
+                    {
+                        "Name": "Arata Kasuga",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://example.com/arata-kasuga.jpg"
+                    },
+                    {
+                        "Name": "Lilith Asami",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/lilith-asami.jpg"
+                    },
+                    {
+                        "Name": "Arin Kannazuki",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/arin-kannazuki.jpg"
+                    },
+                    {
+                        "Name": "Levi Kazama",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/levi-kazama.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "MagicHaremFan",
+                        "Rating": 4,
+                        "Review": "Great magic system and interesting Trinity Seven concept. Good balance of action and romance.",
+                        "date": "2024-10-28T00:00:00.000Z",
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "Trinity Seven Volume 1",
+                        "No_ofuser_buy": "4123",
+                        "No_ofuser_refunded": "32",
+                        "Info_about_volume": "Arata discovers magic and meets the Trinity Seven mages",
+                        "No_ofchapters": 6,
+                        "No_ofpages": 180,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Original volume content",
+                        "Modifiedvolume_no_of_pages": 180
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/trinity-seven-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": ""
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Trinity Seven Volume 27",
+                        "Currentvolumedate": "2024-01-22T00:00:00.000Z",
+                        "Current_volumeLikes": 687,
+                        "Current_volumeDislikes": 98,
+                        "Total_Current_volumerating_no": 785,
+                        "Previousvolume": "Trinity Seven Volume 26",
+                        "PreviousvolumeLikes": 634,
+                        "PreviousvolumeDislikes": 112,
+                        "Total_Previous_volumerating_no": 746
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "Rosario + Vampire",
+                "Author": "Akihisa Ikeda",
+                "Anime": "Rosario + Vampire",
+                "Artist": "Akihisa Ikeda",
+                "Animeurl": "https://media.kitsu.app/manga/1947/poster_image/aa1026cdbbc1a3acaacafefa58a16581.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Harem",
+                    "Supernatural",
+                    "Romance",
+                    "Comedy",
+                    "Ecchi"
+                ],
+                "Publishers": [
+                    "Shueisha"
+                ],
+                "Publishinghouses": [
+                    "VIZ Media"
+                ],
+                "Originalvalue": 749,
+                "previousvalue": 849,
+                "Size": [
+                    17.5,
+                    12.5,
+                    1.8
+                ],
+                "Marketprice": [
+                    649,
+                    699,
+                    749
+                ],
+                "Aboutmanga": [
+                    "Tsukune attends a monster school and gets involved with various monster girls",
+                    "Supernatural harem with action and romance"
+                ],
+                "Currentoffer": [
+                    "Buy 2 get 1 free",
+                    "Student discount 20%"
+                ],
+                "No_of_Likes": 7800,
+                "No_of_Disikes": 420,
+                "previousoffer": "25% off on complete series",
+                "Status": "Completed",
+                "Agegroup": 17,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "Image": "https://example.com/rosario-vampire-cover.jpg",
+                "Releasedate": [
+                    "2004-05-20"
+                ],
+                "Instock": true,
+                "Instockno": 38,
+                "Characters": [
+                    {
+                        "Name": "Tsukune Aono",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://example.com/tsukune.jpg"
+                    },
+                    {
+                        "Name": "Moka Akashiya",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/moka.jpg"
+                    },
+                    {
+                        "Name": "Kurumu Kurono",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://example.com/kurumu.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "SupernaturalFan",
+                        "Rating": 4,
+                        "Review": "Great mix of supernatural elements and harem comedy",
+                        "date": [
+                            "2024-01-10"
+                        ],
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "New Life",
+                        "No_ofuser_buy": "980",
+                        "No_ofuser_refunded": "22",
+                        "Info_about_volume": "Tsukune enters Yokai Academy and meets Moka",
+                        "No_ofchapters": 7,
+                        "No_ofpages": 190,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Introduction to the supernatural school setting",
+                        "Modifiedvolume_no_of_pages": 190
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/rosario-vampire-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": "https://example.com/rosario-vampire-pilot"
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Rosario + Vampire Vol 1",
+                        "Currentvolumedate": [
+                            "2024-02-15"
+                        ],
+                        "Current_volumeLikes": 920,
+                        "Current_volumeDislikes": 58,
+                        "Total_Current_volumerating_no": 978,
+                        "Previousvolume": "Rosario + Vampire Pilot",
+                        "PreviousvolumeLikes": 650,
+                        "PreviousvolumeDislikes": 45,
+                        "Total_Previous_volumerating_no": 695
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "School Rumble",
+      "Author": "Jin Kobayashi",
+      "Anime": "School Rumble",
+      "Artist": "Jin Kobayashi",
+      "Animeurl": "https://media.kitsu.app/manga/poster_images/387/original.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Romance",
+                    "Comedy",
+                    "School"
+                ],
+      "Publishers": [
+                    "Kodansha"
+                ],
+      "Publishinghouses": [
+                    "Del Rey Manga"
+                ],
+      "Originalvalue": 699,
+      "previousvalue": 799,
+      "Size": [
+                    18,
+                    13,
+                    2.2
+                ],
+      "Marketprice": [
+                    599,
+                    649,
+                    699
+                ],
+      "Aboutmanga": [
+                    "Romantic comedy about Tenma's unrequited love and the chaos of high school life",
+                    "Multi-perspective harem comedy with great humor"
+                ],
+      "Currentoffer": [
+                    "Complete series bundle 30% off",
+                    "Free bookmark with purchase"
+                ],
+      "No_of_Likes": 6900,
+      "No_of_Disikes": 280,
+      "previousoffer": "Back to school special 35% off",
+      "Status": "Completed",
+      "Agegroup": 15,
+      "Status_age_wise": "teenagers",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22
+                ],
+      "Image": "https://example.com/school-rumble-cover.jpg",
+      "Releasedate": ["2002-08-15"],
+      "Instock": true,
+      "Instockno": 52,
+      "Characters": [
+                    {
+          "Name": "Tenma Tsukamoto",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://example.com/tenma.jpg"
+                    },
+                    {
+          "Name": "Kenji Harima",
+          "Penname": "",
+          "Role": "Deuteragonist",
+          "Imageurl": "https://example.com/harima.jpg"
+                    },
+                    {
+          "Name": "Oji Karasuma",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/karasuma.jpg"
+                    }
+                ],
+      "Reviewers_detail": [
+                    {
+          "ReviewerName": "ComedyLover",
+          "Rating": 5,
+          "Review": "Hilarious and heartwarming, one of the best school comedies",
+          "date": ["2024-01-25"],
+          "Overallexperience": "Excellent"
+                    }
+                ],
+      "Volume": [
+                    {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Love at First Sight",
+          "No_ofuser_buy": "1100",
+          "No_ofuser_refunded": "18",
+          "Info_about_volume": "Tenma falls in love and Harima begins his pursuit",
+          "No_ofchapters": 8,
+          "No_ofpages": 200,
+          "Modifiedvolume_name": "None",
+          "Modifiedvolume_info": "Introduction to the love triangle and main characters",
+          "Modifiedvolume_no_of_pages": 200
+                    }
+                ],
+      "NextMangaVolume": [
+                    {
+          "Nexturls": "https://example.com/school-rumble-volume-2"
+                    }
+                ],
+      "PreviousMangaVolume": [
+                    {
+          "Previous_urls": "https://example.com/school-rumble-oneshot"
+                    }
+                ],
+      "Comparepopularity": [
+                    {
+          "Currentvolume": "School Rumble Vol 1",
+          "Currentvolumedate": ["2024-01-20"],
+          "Current_volumeLikes": 1050,
+          "Current_volumeDislikes": 32,
+          "Total_Current_volumerating_no": 1082,
+          "Previousvolume": "School Rumble One-shot",
+          "PreviousvolumeLikes": 780,
+          "PreviousvolumeDislikes": 28,
+          "Total_Previous_volumerating_no": 808
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "Urusei Yatsura",
+      "Author": "Rumiko Takahashi",
+      "Anime": "Urusei Yatsura",
+      "Artist": "Rumiko Takahashi",
+      "Animeurl": "https://media.kitsu.app/manga/poster_images/702/original.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Comedy",
+                    "Romance",
+                    "Sci-Fi"
+                ],
+      "Publishers": [
+                    "Shogakukan"
+                ],
+      "Publishinghouses": [
+                    "VIZ Media"
+                ],
+      "Originalvalue": 1299,
+      "previousvalue": 1499,
+      "Size": [
+                    18.5,
+                    13,
+                    2.5
+                ],
+      "Marketprice": [
+                    1199,
+                    1249,
+                    1299
+                ],
+      "Aboutmanga": [
+                    "Classic harem comedy about Ataru and the alien princess Lum",
+                    "Legendary manga that defined the harem genre"
+                ],
+      "Currentoffer": [
+                    "Vintage collection 20% off",
+                    "Free poster with complete set"
+                ],
+      "No_of_Likes": 12500,
+      "No_of_Disikes": 180,
+      "previousoffer": "Anniversary edition 40% off",
+      "Status": "Completed",
+      "Agegroup": 14,
+      "Status_age_wise": "teenagers",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34
+                ],
+      "Image": "https://example.com/urusei-yatsura-cover.jpg",
+      "Releasedate": ["1978-09-19"],
+      "Instock": true,
+      "Instockno": 25,
+      "Characters": [
+                    {
+          "Name": "Ataru Moroboshi",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://example.com/ataru.jpg"
+                    },
+                    {
+          "Name": "Lum",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/lum.jpg"
+                    },
+                    {
+          "Name": "Shinobu Miyake",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/shinobu.jpg"
+                    }
+                ],
+      "Reviewers_detail": [
+                    {
+          "ReviewerName": "ClassicMangaFan",
+          "Rating": 5,
+          "Review": "The grandfather of all harem manga, timeless classic",
+          "date": ["2024-02-01"],
+          "Overallexperience": "Excellent"
+                    }
+                ],
+      "Volume": [
+                    {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "The Arrival of Lum",
+          "No_ofuser_buy": "850",
+          "No_ofuser_refunded": "8",
+          "Info_about_volume": "Ataru meets the alien princess Lum in a game of tag",
+          "No_ofchapters": 9,
+          "No_ofpages": 210,
+          "Modifiedvolume_name": "None",
+          "Modifiedvolume_info": "The beginning of the legendary harem comedy",
+          "Modifiedvolume_no_of_pages": 210
+                    }
+                ],
+      "NextMangaVolume": [
+                    {
+          "Nexturls": "https://example.com/urusei-yatsura-volume-2"
+                    }
+                ],
+      "PreviousMangaVolume": [
+                    {
+          "Previous_urls": "https://example.com/urusei-yatsura-prototype"
+                    }
+                ],
+      "Comparepopularity": [
+                    {
+          "Currentvolume": "Urusei Yatsura Vol 1",
+          "Currentvolumedate": ["2024-02-10"],
+          "Current_volumeLikes": 820,
+          "Current_volumeDislikes": 12,
+          "Total_Current_volumerating_no": 832,
+          "Previousvolume": "Urusei Yatsura Prototype",
+          "PreviousvolumeLikes": 450,
+          "PreviousvolumeDislikes": 25,
+          "Total_Previous_volumerating_no": 475
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "Monster Musume",
+      "Author": "Okayado",
+      "Anime": "Monster Musume",
+      "Artist": "Okayado",
+      "Animeurl": "https://media.kitsu.app/manga/cover_images/14180/original.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Ecchi",
+                    "Comedy",
+                    "Romance",
+                    "Supernatural"
+                ],
+      "Publishers": [
+                    "Tokuma Shoten"
+                ],
+      "Publishinghouses": [
+                    "Seven Seas Entertainment"
+                ],
+      "Originalvalue": 899,
+      "previousvalue": 999,
+      "Size": [
+                    18,
+                    13,
+                    2
+                ],
+      "Marketprice": [
+                    799,
+                    849,
+                    899
+                ],
+      "Aboutmanga": [
+                    "Kimihito lives with various monster girls as part of an exchange program",
+                    "Unique harem featuring monster girls with comedy and romance"
+                ],
+      "Currentoffer": [
+                    "Monster collection 25% off",
+                    "Free mini figure with volume 1"
+                ],
+      "No_of_Likes": 9200,
+      "No_of_Disikes": 580,
+      "previousoffer": "Halloween special 30% off",
+      "Status": "Ongoing",
+      "Agegroup": 18,
+      "Status_age_wise": "adult",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17
+                ],
+      "Image": "https://example.com/monster-musume-cover.jpg",
+      "Releasedate": ["2012-05-19"],
+      "Instock": true,
+      "Instockno": 42,
+      "Characters": [
+                    {
+          "Name": "Kimihito Kurusu",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://example.com/kimihito.jpg"
+                    },
+                    {
+          "Name": "Miia",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/miia.jpg"
+                    },
+                    {
+          "Name": "Papi",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/papi.jpg"
+                    }
+                ],
+      "Reviewers_detail": [
+                    {
+          "ReviewerName": "MonsterGirlFan",
+          "Rating": 4,
+          "Review": "Unique concept with great character designs and humor",
+          "date": ["2024-01-18"],
+          "Overallexperience": "Good"
+                    }
+                ],
+      "Volume": [
+                    {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Everyday Life with Monster Girls",
+          "No_ofuser_buy": "1350",
+          "No_ofuser_refunded": "45",
+          "Info_about_volume": "Kimihito begins living with Miia the lamia",
+          "No_ofchapters": 6,
+          "No_ofpages": 180,
+          "Modifiedvolume_name": "None",
+          "Modifiedvolume_info": "Introduction to the monster girl exchange program",
+          "Modifiedvolume_no_of_pages": 180
+                    }
+                ],
+      "NextMangaVolume": [
+                    {
+          "Nexturls": "https://example.com/monster-musume-volume-2"
+                    }
+                ],
+      "PreviousMangaVolume": [
+                    {
+          "Previous_urls": "https://example.com/monster-musume-oneshot"
+                    }
+                ],
+      "Comparepopularity": [
+                    {
+          "Currentvolume": "Monster Musume Vol 1",
+          "Currentvolumedate": ["2024-01-30"],
+          "Current_volumeLikes": 1280,
+          "Current_volumeDislikes": 70,
+          "Total_Current_volumerating_no": 1350,
+          "Previousvolume": "Monster Musume One-shot",
+          "PreviousvolumeLikes": 890,
+          "PreviousvolumeDislikes": 35,
+          "Total_Previous_volumerating_no": 925
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "Infinite Stratos",
+      "Author": "Izuru Yumizuru",
+      "Anime": "Infinite Stratos",
+      "Artist": "Kenji Akahoshi",
+      "Animeurl": "https://media.kitsu.app/manga/poster_images/15809/original.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Mecha",
+                    "Romance",
+                    "Action",
+                    "Sci-Fi"
+                ],
+      "Publishers": [
+                    "Media Factory"
+                ],
+      "Publishinghouses": [
+                    "Seven Seas Entertainment"
+                ],
+      "Originalvalue": 949,
+      "previousvalue": 1049,
+      "Size": [
+                    18,
+                    13,
+                    2.2
+                ],
+      "Marketprice": [
+                    849,
+                    899,
+                    949
+                ],
+      "Aboutmanga": [
+                    "Ichika attends a school for mecha pilots and is the only male student",
+                    "Mecha harem with action and romantic comedy elements"
+                ],
+      "Currentoffer": [
+                    "Mecha bundle 20% off",
+                    "Free trading cards with purchase"
+                ],
+      "No_of_Likes": 7300,
+      "No_of_Disikes": 450,
+      "previousoffer": "Tech week special 28% off",
+      "Status": "Ongoing",
+      "Agegroup": 16,
+      "Status_age_wise": "teenagers",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+      "Image": "https://example.com/infinite-stratos-cover.jpg",
+      "Releasedate": ["2010-07-27"],
+      "Instock": true,
+      "Instockno": 35,
+      "Characters": [
+                    {
+          "Name": "Ichika Orimura",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://example.com/ichika.jpg"
+                    },
+                    {
+          "Name": "Houki Shinonono",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/houki.jpg"
+                    },
+                    {
+          "Name": "Cecilia Alcott",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://example.com/cecilia.jpg"
+                    }
+                ],
+      "Reviewers_detail": [
+                    {
+          "ReviewerName": "MechaHaremFan",
+          "Rating": 3,
+          "Review": "Good mecha action but typical harem tropes",
+          "date": ["2024-02-05"],
+          "Overallexperience": "Neutral"
+                    }
+                ],
+      "Volume": [
+          {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "The Boy Who Can Operate IS",
+          "No_ofuser_buy": "750",
+          "No_ofuser_refunded": "28",
+          "Info_about_volume": "Ichika discovers he can pilot an IS unit",
+          "No_ofchapters": 7,
+          "No_ofpages": 190,
+          "Modifiedvolume_name": "None",
+          "Modifiedvolume_info": "Introduction to the IS Academy and mecha combat",
+          "Modifiedvolume_no_of_pages": 190
+                    }
+                ],
+      "NextMangaVolume": [
+                    {
+          "Nexturls": "https://example.com/infinite-stratos-volume-2"
+                    }
+                ],
+      "PreviousMangaVolume": [
+                    {
+          "Previous_urls": "https://example.com/infinite-stratos-light-novel"
+                    }
+                ],
+      "Comparepopularity": [
+                    {
+          "Currentvolume": "Infinite Stratos Vol 1",
+          "Currentvolumedate": ["2024-02-12"],
+          "Current_volumeLikes": 720,
+          "Current_volumeDislikes": 58,
+          "Total_Current_volumerating_no": 778,
+          "Previousvolume": "IS Light Novel Vol 1",
+          "PreviousvolumeLikes": 890,
+          "PreviousvolumeDislikes": 42,
+          "Total_Previous_volumerating_no": 932
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "Prison School",
+      "Author": "Akira Hiramoto",
+      "Anime": "Prison School",
+      "Artist": "Akira Hiramoto",
+      "Animeurl": "https://m.media-amazon.com/images/I/812BEWtwyXL.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Ecchi",
+                    "Comedy",
+                    "Drama"
+                ],
+      "Publishers": [
+                    "Kodansha"
+                ],
+      "Publishinghouses": [
+                    "Yen Press"
+                ],
+      "Originalvalue": 1199,
+      "previousvalue": 1299,
+      "Size": [
+                    18.5,
+                    13,
+                    2.8
+                ],
+      "Marketprice": [
+                    1099,
+                    1149,
+                    1199
+                ],
+      "Aboutmanga": [
+                    "Five boys imprisoned in their own school by the Underground Student Council",
+                    "Dark comedy harem with psychological elements"
+                ],
+      "Currentoffer": [
+                    "Mature readers special 15% off",
+                    "Warning label included"
+                ],
+      "No_of_Likes": 8900,
+      "No_of_Disikes": 780,
+      "previousoffer": "Adults only sale 22% off",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "adult",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28
+                ],
+      "Image": "https://example.com/prison-school-cover.jpg",
+      "Releasedate": ["2011-02-04"],
+      "Instock": true,
+      "Instockno": 28,
+      "Characters": [
+                    {
+          "Name": "Kiyoshi Fujino",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://example.com/kiyoshi.jpg"
+                    },
+                    {
+          "Name": "Mari Kurihara",
+          "Penname": "",
+          "Role": "Antagonist",
+          "Imageurl": "https://example.com/mari.jpg"
+                    },
+                    {
+          "Name": "Meiko Shiraki",
+          "Penname": "",
+          "Role": "Supporting Character",
+          "Imageurl": "https://example.com/meiko.jpg"
+                    }
+                ],
+      "eviewers_detail": [
+                    {
+          "ReviewerName": "AdultMangaReader",
+          "Rating": 4,
+          "Review": "Unique and twisted take on the harem genre, not for everyone",
+          "date": ["2024-01-12"],
+          "Overallexperience": "Good"
+                    }
+                ],
+      "Volume": [
+           {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "The Prison",
+          "No_ofuser_buy": "650",
+          "No_ofuser_refunded": "35",
+          "Info_about_volume": "Five boys are imprisoned by the female student council",
+          "No_ofchapters": 8,
+          "No_ofpages": 220,
+          "Modifiedvolume_name": "None",
+          "Modifiedvolume_info": "Introduction to the prison school concept",
+          "Modifiedvolume_no_of_pages": 220
+                    }
+                ],
+      "NextMangaVolume": [
+                    {
+          "Nexturls": "https://example.com/prison-school-volume-2"
+                    }
+                ],
+      "PreviousMangaVolume": [
+                    {
+          "Previous_urls": "https://example.com/prison-school-pilot"
+                    }
+                ],
+      "Comparepopularity": [
+                    {
+          "Currentvolume": "Prison School Vol 1",
+          "Currentvolumedate": ["2024-01-22"],
+          "Current_volumeLikes": 620,
+          "Current_volumeDislikes": 85,
+          "Total_Current_volumerating_no": 705,
+          "Previousvolume": "Prison School Pilot",
+          "PreviousvolumeLikes": 380,
+          "PreviousvolumeDislikes": 45,
+          "Total_Previous_volumerating_no": 425
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "ItemType": "Manga",
+    "Genre": "Harem",
+    "Type": [
+            {
+      "Title": "Rent-A-Girlfriend",
+      "Author": "Reiji Miyajima",
+      "Anime": "Rent-A-Girlfriend",
+      "Artist": "Reiji Miyajima",
+      "Animeurl": "https://media.kitsu.app/manga/poster_images/40005/original.jpg",
+      "Language": "Japanese",
+      "Genres": [
+                    "Harem",
+                    "Romance",
+                    "Comedy",
+                    "Drama"
+                ],
+      "Publishers": [
+                    "Kodansha"
+                ],
+      "Publishinghouses": [
+                    "Kodansha Comics"
+                ],
+      "Originalvalue": 799,
+        "previousvalue": 899,
+      "Size": [
+                    18,
+                    13,
+                    2
+                ],
+      "Marketprice": [
+                    699,
+                    749,
+                    799
+                ],
+      "Aboutmanga": [
+                    "Kazuya rents girlfriends to deal with his relationship problems",
+                    "Modern harem focusing on rental girlfriend services"
+                ],
+      "Currentoffer": [
+                    "New release 10% off",
+                    "Free sticker set with purchase"
+                ],
+      "No_of_Likes": 10500,
+      "No_of_Disikes": 680,
+      "previousoffer": "Valentine's day special 25% off",
+      "Status": "Ongoing",
+      "Agegroup": 17,
+      "Status_age_wise": "teenagers",
+      "versions": "black&white",
+      "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30
+                ],
+      "Image": "https://example.com/rent-a-girlfriend-cover.jpg",
+      "Releasedate": ["2017-07-12"],
+      "Instock": true,
+      "Instockno": 65,
+                "Characters": [
+                    {
+                        "Name": "Kazuya Kinoshita",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/9/396701.jpg"
+                    },
+                    {
+                        "Name": "Chizuru Mizuhara",
+                        "Penname": "Chizuru Ichinose",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/4/484261.jpg"
+                    },
+                    {
+                        "Name": "Mami Nanami",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/4/491833.jpg"
+                    }
+                ],
+                "Reviewers_detai": [
+                    {
+                        "ReviewerName": "RomComFan",
+                        "Rating": 3,
+                        "Review": "Interesting premise but can be frustrating at times",
+                        "date": "2024-02-08",
+                        "Overallexperience": "Neutral"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "The Girlfriend and the Boyfriend",
+                        "No_ofuser_buy": "1580",
+                        "No_ofuser_refunded": "68",
+                        "Info_about_volume": "Kazuya starts using the rental girlfriend app",
+                        "No_ofchapters": 6,
+                        "No_ofpages": 180,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Introduction to the rental girlfriend concept",
+                        "Modifiedvolume_no_of_pages": 180
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/rent-a-girlfriend-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": "https://example.com/rent-a-girlfriend-oneshot"
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Rent-A-Girlfriend Vol 1",
+                        "Currentvolumedate": [
+                            "2024-02-15"
+                        ],
+                        "Current_volumeLikes": 1520,
+                        "Current_volumeDislikes": 95,
+                        "Total_Current_volumerating_no": 1615,
+                        "Previousvolume": "Rent-A-Girlfriend One-shot",
+                        "PreviousvolumeLikes": 1100,
+                        "PreviousvolumeDislikes": 55,
+                        "Total_Previous_volumerating_no": 1155
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "Date A Live",
+                "Author": "Negi Haruba",
+                "Anime": "Date A Live",
+                "Artist": "Kōshi Tachibana",
+                "Animeurl": "https://cdn.myanimelist.net/images/anime/13/44844.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Harem",
+                    "Romance",
+                    "Comedy",
+                    "School"
+                ],
+                "Publishers": [
+                    "Kodansha"
+                ],
+                "Publishinghouses": [
+                    "Kodansha Comics"
+                ],
+                "Originalvalue": 849,
+                "previousvalue": 949,
+                "Size": [
+                    18,
+                    13,
+                    2.1
+                ],
+                "Marketprice": [
+                    749,
+                    799,
+                    849
+                ],
+                "Aboutmanga": [
+                    "Thirty years ago, the Eurasian continent was devastated by a supermassive spatial quake—a phenomenon involving space vibrations of unknown origin—resulting in the deaths of over 150 million people. Since then, these quakes have been plaguing the world intermittently, albeit on a lighter scale.",
+
+"Shidou Itsuka is a seemingly average high school student who lives with his younger sister, Kotori. When an imminent spatial quake threatens the safety of Tengu City, he rushes to save her, only to be caught in the resulting eruption. He discovers a mysterious girl at its source, who is revealed to be a Spirit, an otherworldly entity whose appearance triggers a spatial quake. Soon after, he becomes embroiled in a skirmish between the girl and the Anti-Spirit Team, a ruthless strike force with the goal of annihilating Spirits.",
+"However, there is a third party that believes in saving the spirits: Ratatoskr, which surprisingly is commanded by Shidou's little sister! Kotori forcibly recruits Shidou after the clash, presenting to him an alternative method of dealing with the danger posed by the Spirits—make them fall in love with him. Now, the fate of the world rests on his dating prowess, as he seeks out Spirits in order to charm them."
+                ],
+                "Currentoffer": [
+                    "Quintuplet set 30% off",
+                    "Free character badges with complete collection"
+                ],
+                "No_of_Likes": 11800,
+                "No_of_Disikes": 320,
+                "previousoffer": "Sisters special 35% off",
+                "Status": "Completed",
+                "Agegroup": 16,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ],
+                "Image": "https://example.com/quintessential-quintuplets-cover.jpg",
+                "Releasedate": [
+                    "2017-08-09"
+                ],
+                "Instock": true,
+                "Instockno": 75,
+                "Characters": [
+                    {
+                        "Name": "Yoshino Himekawa",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/4/215469.jpg"
+                    },
+                    {
+                        "Name": "Kotori Itsuka",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/16/211505.jpg"
+                    },
+                    {
+                        "Name": "Shidou Itsuka",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/12/202607.jpg"
+                    },
+                    {
+                        "Name": "Origami Tobiichi",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/3/193285.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "HaremExpert",
+                        "Rating": 5,
+                        "Review": "Perfect execution of the harem genre with excellent conclusion",
+                        "date": [
+                            "2024-01-28"
+                        ],
+                        "Overallexperience": "Excellent"
+                    },
+                    {
+                        "ReviewerName": "RomanceFan2024",
+                        "Rating": 4,
+                        "Review": "Great character development and emotional storytelling",
+                        "date": [
+                            "2024-02-18"
+                        ],
+                        "Overallexperience": "Good"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "Five Equal Parts",
+                        "No_ofuser_buy": "1890",
+                        "No_ofuser_refunded": "32",
+                        "Info_about_volume": "Fuutarou meets the quintuplet sisters and begins tutoring",
+                        "No_ofchapters": 7,
+                        "No_ofpages": 185,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Introduction to all five sisters and their unique personalities",
+                        "Modifiedvolume_no_of_pages": 185
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/quintessential-quintuplets-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": "https://example.com/quintessential-quintuplets-pilot"
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "Live a Life Vol 12",
+                        "Currentvolumedate": [
+                            "2024-02-20"
+                        ],
+                        "Current_volumeLikes": 1850,
+                        "Current_volumeDislikes": 40,
+                        "Total_Current_volumerating_no": 1890,
+                        "Previousvolume": "5-Toubun Pilot",
+                        "PreviousvolumeLikes": 1200,
+                        "PreviousvolumeDislikes": 25,
+                        "Total_Previous_volumerating_no": 1225
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ItemType": "Manga",
+        "Genre": "Harem",
+        "Type": [
+            {
+                "Title": "We Never Learn",
+                "Author": "Taishi Tsutsui",
+                "Anime": "We Never Learn",
+                "Artist": "Taishi Tsutsui",
+                "Animeurl": "https://media.kitsu.app/manga/poster_images/38867/original.jpg",
+                "Language": "Japanese",
+                "Genres": [
+                    "Harem",
+                    "Romance",
+                    "Comedy",
+                    "School"
+                ],
+                "Publishers": [
+                    "Shueisha"
+                ],
+                "Publishinghouses": [
+                    "VIZ Media"
+                ],
+                "Originalvalue": 749,
+                "previousvalue": 849,
+                "Size": [
+                    17.5,
+                    12.5,
+                    1.9
+                ],
+                "Marketprice": [
+                    649,
+                    699,
+                    749
+                ],
+                "Aboutmanga": [
+                    "Nariyuki tutors three genius girls who struggle in their weak subjects",
+                    "Academic harem with multiple ending routes"
+                ],
+                "Currentoffer": [
+                    "Study group bundle 25% off",
+                    "Free study planner with purchase"
+                ],
+                "No_of_Likes": 8700,
+                "No_of_Disikes": 390,
+                "previousoffer": "Back to school 30% off",
+                "Status": "Completed",
+                "Agegroup": 15,
+                "Status_age_wise": "teenagers",
+                "versions": "black&white",
+                "Volumes": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21
+                ],
+                "Image": "https://example.com/we-never-learn-cover.jpg",
+                "Releasedate": [
+                    "2017-02-06"
+                ],
+                "Instock": true,
+                "Instockno": 58,
+                "Characters": [
+                    {
+                        "Name": "Nariyuki Yuiga",
+                        "Penname": "",
+                        "Role": "Protagonist",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/9/363077.jpg"
+                    },
+                    {
+                        "Name": "Rizu Ogata",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/6/363076.jpg"
+                    },
+                    {
+                        "Name": "Fumino Furuhashi",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/9/363075.jpg"
+                    },
+                    {
+                        "Name": "Uruka Takemoto",
+                        "Penname": "",
+                        "Role": "Love-Interest",
+                        "Imageurl": "https://cdn.myanimelist.net/images/characters/3/363074.jpg"
+                    }
+                ],
+                "Reviewers_detail": [
+                    {
+                        "ReviewerName": "StudyBuddy",
+                        "Rating": 4,
+                        "Review": "Great educational comedy with sweet romance",
+                        "date": [
+                            "2024-02-03"
+                        ],
+                        "Overallexperience": "Good"
+                    },
+                    {
+                        "ReviewerName": "HaremCollector",
+                        "Rating": 3,
+                        "Review": "Good characters but predictable plot progression",
+                        "date": [
+                            "2024-01-15"
+                        ],
+                        "Overallexperience": "Neutral"
+                    }
+                ],
+                "Volume": [
+                    {
+                        "Currentvolume_no": "1",
+                        "Currentvolume_name": "The Reason Why X Equals [Y]",
+                        "No_ofuser_buy": "1200",
+                        "No_ofuser_refunded": "28",
+                        "Info_about_volume": "Nariyuki becomes a tutor for three brilliant but struggling students",
+                        "No_ofchapters": 8,
+                        "No_ofpages": 175,
+                        "Modifiedvolume_name": "None",
+                        "Modifiedvolume_info": "Introduction to the tutoring setup and main heroines",
+                        "Modifiedvolume_no_of_pages": 175
+                    }
+                ],
+                "NextMangaVolume": [
+                    {
+                        "Nexturls": "https://example.com/we-never-learn-volume-2"
+                    }
+                ],
+                "PreviousMangaVolume": [
+                    {
+                        "Previous_urls": "https://example.com/we-never-learn-oneshot"
+                    }
+                ],
+                "Comparepopularity": [
+                    {
+                        "Currentvolume": "We Never Learn Vol 1",
+                        "Currentvolumedate": [
+                            "2024-02-25"
+                        ],
+                        "Current_volumeLikes": 1150,
+                        "Current_volumeDislikes": 50,
+                        "Total_Current_volumerating_no": 1200,
+                        "Previousvolume": "Bokuben One-shot",
+                        "PreviousvolumeLikes": 850,
+                        "PreviousvolumeDislikes": 35,
+                        "Total_Previous_volumerating_no": 885
+                    }
+                ]
+            }
+        ]
+    }
+]

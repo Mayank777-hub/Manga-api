@@ -1,0 +1,1047 @@
+[
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Junjou Romantica",
+        "Author": "Shungiku Nakamura",
+        "Anime": "Junjou Romantica",
+        "Artist": "Shungiku Nakamura",
+        "Animeurl": "https://bestsimilar.com/img/movie/thumb/8d/65763.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "Comedy"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Kadokawa"],
+        "Originalvalue": 12.99,
+        "previousvalue": 14.99,
+        "Size": [18, 12, 2],
+        "Marketprice": [12.99, 14.99, 10.99],
+        "Aboutmanga": ["A romantic comedy about the relationships between several couples."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 12500,
+        "No_of_Disikes": 250,
+        "previousoffer": "5% off",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+        "Image": "https://example.com/junjou_romantica_cover.jpg",
+        "Releasedate": "2002-02-14T00:00:00Z",
+        "Instock": true,
+        "Instockno": 500,
+        "Characters": [
+          {
+            "Name": "Misaki Takahashi",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/misaki.jpg"
+          },
+          {
+            "Name": "Akihiko Usami",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/akihiko.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "YaoiFan123",
+            "ReviewerLike": 1200,
+            "ReviewerDisLike": 50,
+            "Rating": 5,
+            "Review": "One of the best yaoi manga ever! The story is engaging and characters are well-developed.",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "BLlover",
+                "comment": "I totally agree! Usami-sensei is the best!",
+                "date": "2023-05-15T10:30:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Junjou Romantica Vol.1",
+            "No_ofuser_buy": "15000",
+            "No_ofuser_refunded": "50",
+            "Info_about_volume": "First volume introducing Misaki and Usami's relationship",
+            "No_ofchapters": 5,
+            "No_ofpages": 180
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/junjou_romantica_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "24",
+            "Current_volumeLikes": 4500,
+            "Current_volumeDislikes": 120,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "23",
+            "PreviousvolumeLikes": 4200,
+            "PreviousvolumeDislikes": 150,
+            "Total_Previous_volumerating_no": 4.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Sekaiichi Hatsukoi",
+        "Author": "Shungiku Nakamura",
+        "Anime": "Sekaiichi Hatsukoi",
+        "Artist": "Shungiku Nakamura",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/20310/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "Drama"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Kadokawa"],
+        "Originalvalue": 11.99,
+        "previousvalue": 13.99,
+        "Size": [18, 12, 2],
+        "Marketprice": [11.99, 13.99, 9.99],
+        "Aboutmanga": ["A story about love in the workplace, focusing on the manga publishing industry."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 11000,
+        "No_of_Disikes": 200,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+        "Image": "https://example.com/sekaiichi_hatsukoi_cover.jpg",
+        "Releasedate": "2006-12-01T00:00:00Z",
+        "Instock": true,
+        "Instockno": 450,
+        "Characters": [
+          {
+            "Name": "Ritsu Onodera",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/ritsu.jpg"
+          },
+          {
+            "Name": "Masamune Takano",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/takano.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MangaEditorFan",
+            "ReviewerLike": 950,
+            "ReviewerDisLike": 30,
+            "Rating": 5,
+            "Review": "Love the workplace setting and the complex relationship between Ritsu and Takano!",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "YaoiReader",
+                "comment": "The anime adaptation is great too!",
+                "date": "2023-04-20T14:15:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Sekaiichi Hatsukoi Vol.1",
+            "No_ofuser_buy": "12000",
+            "No_ofuser_refunded": "40",
+            "Info_about_volume": "Introduction to the Emerald editing department and Ritsu's new job",
+            "No_ofchapters": 4,
+            "No_ofpages": 170
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/sekaiichi_hatsukoi_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "15",
+            "Current_volumeLikes": 3800,
+            "Current_volumeDislikes": 100,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "14",
+            "PreviousvolumeLikes": 3600,
+            "PreviousvolumeDislikes": 110,
+            "Total_Previous_volumerating_no": 4.6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Given",
+        "Author": "Natsuki Kizu",
+        "Anime": "Given",
+        "Artist": "Natsuki Kizu",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/27324/original.png",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "Music", "Drama"],
+        "Publishers": ["Shinshokan"],
+        "Publishinghouses": ["Shinshokan"],
+        "Originalvalue": 10.99,
+        "previousvalue": 12.99,
+        "Size": [17, 11, 1.5],
+        "Marketprice": [10.99, 12.99, 8.99],
+        "Aboutmanga": ["A story about music, love, and healing as four young men form a band."],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 15000,
+        "No_of_Disikes": 150,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7],
+        "Image": "https://example.com/given_cover.jpg",
+        "Releasedate": "2013-04-30T00:00:00Z",
+        "Instock": true,
+        "Instockno": 600,
+        "Characters": [
+          {
+            "Name": "Ritsuka Uenoyama",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/ritsuka.jpg"
+          },
+          {
+            "Name": "Mafuyu Sato",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/mafuyu.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MusicLover",
+            "ReviewerLike": 1800,
+            "ReviewerDisLike": 40,
+            "Rating": 5,
+            "Review": "The music aspect adds such depth to this beautiful love story. The anime adaptation is stunning!",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "BLfan2023",
+                "comment": "The concert scene in the anime made me cry!",
+                "date": "2023-06-10T18:45:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Given Vol.1",
+            "No_ofuser_buy": "18000",
+            "No_ofuser_refunded": "30",
+            "Info_about_volume": "Introduction to the band members and Mafuyu's mysterious past",
+            "No_ofchapters": 5,
+            "No_ofpages": 160
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/given_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "7",
+            "Current_volumeLikes": 5000,
+            "Current_volumeDislikes": 80,
+            "Total_Current_volumerating_no": 4.9,
+            "Previousvolume": "6",
+            "PreviousvolumeLikes": 4800,
+            "PreviousvolumeDislikes": 90,
+            "Total_Previous_volumerating_no": 4.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Love Stage!!",
+        "Author": "Eiki Eiki",
+        "Anime": "Love Stage!!",
+        "Artist": "Taishi Zaou",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/18003/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "Comedy"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Kadokawa"],
+        "Originalvalue": 11.50,
+        "previousvalue": 13.50,
+        "Size": [18, 12, 2],
+        "Marketprice": [11.50, 13.50, 9.50],
+        "Aboutmanga": ["A story about a boy from a famous entertainment family who wants to be a manga artist but keeps getting dragged into show business."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 9800,
+        "No_of_Disikes": 180,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "Image": "https://example.com/love_stage_cover.jpg",
+        "Releasedate": "2010-10-01T00:00:00Z",
+        "Instock": true,
+        "Instockno": 400,
+        "Characters": [
+          {
+            "Name": "Izumi Sena",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/izumi.jpg"
+          },
+          {
+            "Name": "Ryouma Ichijou",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/ryouma.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ShowbizFan",
+            "ReviewerLike": 850,
+            "ReviewerDisLike": 25,
+            "Rating": 4,
+            "Review": "Funny and heartwarming story with great character development. The anime adaptation is cute!",
+            "Overallexperience": "Very Good",
+            "Replies": [
+              {
+                "name": "YaoiCollector",
+                "comment": "Izumi's family is hilarious!",
+                "date": "2023-03-15T12:20:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Love Stage!! Vol.1",
+            "No_ofuser_buy": "11000",
+            "No_ofuser_refunded": "35",
+            "Info_about_volume": "Introduction to Izumi's family and his first meeting with Ryouma",
+            "No_ofchapters": 4,
+            "No_ofpages": 170
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/love_stage_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "10",
+            "Current_volumeLikes": 3200,
+            "Current_volumeDislikes": 90,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "9",
+            "PreviousvolumeLikes": 3100,
+            "PreviousvolumeDislikes": 95,
+            "Total_Previous_volumerating_no": 4.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Hitorijime My Hero",
+        "Author": "Memeko Arii",
+        "Anime": "Hitorijime My Hero",
+        "Artist": "Memeko Arii",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/24022/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "School Life"],
+        "Publishers": ["Ichijinsha"],
+        "Publishinghouses": ["Ichijinsha"],
+        "Originalvalue": 10.99,
+        "previousvalue": 12.99,
+        "Size": [17, 11, 1.5],
+        "Marketprice": [10.99, 12.99, 8.99],
+        "Aboutmanga": ["A story about a former delinquent turned teacher who becomes the hero of a bullied student."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 9200,
+        "No_of_Disikes": 160,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "Image": "https://example.com/hitorijime_my_hero_cover.jpg",
+        "Releasedate": "2012-12-25T00:00:00Z",
+        "Instock": true,
+        "Instockno": 350,
+        "Characters": [
+          {
+            "Name": "Masahiro Setagawa",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/masahiro.jpg"
+          },
+          {
+            "Name": "Kousuke Ooshiba",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/kousuke.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "BLteacherFan",
+            "ReviewerLike": 780,
+            "ReviewerDisLike": 20,
+            "Rating": 4,
+            "Review": "Sweet story with good character development. The teacher-student dynamic is handled well.",
+            "Overallexperience": "Very Good",
+            "Replies": [
+              {
+                "name": "MangaReader",
+                "comment": "Kousuke's protectiveness is so endearing!",
+                "date": "2023-02-28T09:15:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Hitorijime My Hero Vol.1",
+            "No_ofuser_buy": "9500",
+            "No_ofuser_refunded": "30",
+            "Info_about_volume": "Introduction to Masahiro's life and his first meeting with Kousuke",
+            "No_ofchapters": 4,
+            "No_ofpages": 160
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/hitorijime_my_hero_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "13",
+            "Current_volumeLikes": 3000,
+            "Current_volumeDislikes": 85,
+            "Total_Current_volumerating_no": 4.5,
+            "Previousvolume": "12",
+            "PreviousvolumeLikes": 2900,
+            "PreviousvolumeDislikes": 90,
+            "Total_Previous_volumerating_no": 4.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Finder Series",
+        "Author": "Ayano Yamane",
+        "Anime": "",
+        "Artist": "Ayano Yamane",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/1687/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Action", "Drama", "Mature"],
+        "Publishers": ["Libre Publishing"],
+        "Publishinghouses": ["Libre"],
+        "Originalvalue": 13.99,
+        "previousvalue": 15.99,
+        "Size": [18, 12, 2],
+        "Marketprice": [13.99, 15.99, 11.99],
+        "Aboutmanga": ["A dangerous love story between a photojournalist and a crime syndicate leader in Hong Kong."],
+        "Currentoffer": ["5% off"],
+        "No_of_Likes": 10500,
+        "No_of_Disikes": 300,
+        "previousoffer": "None",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "Image": "https://example.com/finder_series_cover.jpg",
+        "Releasedate": "2002-01-10T00:00:00Z",
+        "Instock": true,
+        "Instockno": 300,
+        "Characters": [
+          {
+            "Name": "Akihito Takaba",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/akihito.jpg"
+          },
+          {
+            "Name": "Asami Ryuichi",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/asami.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MatureBLfan",
+            "ReviewerLike": 1100,
+            "ReviewerDisLike": 60,
+            "Rating": 5,
+            "Review": "One of the most intense and well-written yaoi series out there. The chemistry between the leads is electric!",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "YaoiConnoisseur",
+                "comment": "Asami is the ultimate seme!",
+                "date": "2023-01-20T16:30:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Finder Series Vol.1",
+            "No_ofuser_buy": "13000",
+            "No_ofuser_refunded": "70",
+            "Info_about_volume": "Introduction to Akihito's dangerous assignment and his first encounter with Asami",
+            "No_ofchapters": 3,
+            "No_ofpages": 190
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/finder_series_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "14",
+            "Current_volumeLikes": 4000,
+            "Current_volumeDislikes": 150,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "13",
+            "PreviousvolumeLikes": 3800,
+            "PreviousvolumeDislikes": 160,
+            "Total_Previous_volumerating_no": 4.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Ten Count",
+        "Author": "Rihito Takarai",
+        "Anime": "",
+        "Artist": "Rihito Takarai",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/16631/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Psychological", "Drama"],
+        "Publishers": ["Shinshokan"],
+        "Publishinghouses": ["Shinshokan"],
+        "Originalvalue": 11.99,
+        "previousvalue": 13.99,
+        "Size": [17, 11, 1.5],
+        "Marketprice": [11.99, 13.99, 9.99],
+        "Aboutmanga": ["A psychological story about a secretary with mysophobia who meets a therapist with his own issues."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 10800,
+        "No_of_Disikes": 220,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6],
+        "Image": "https://example.com/ten_count_cover.jpg",
+        "Releasedate": "2013-12-10T00:00:00Z",
+        "Instock": true,
+        "Instockno": 400,
+        "Characters": [
+          {
+            "Name": "Shirotani Tadaomi",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/shirotani.jpg"
+          },
+          {
+            "Name": "Kurose Riku",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/kurose.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PsychFan",
+            "ReviewerLike": 950,
+            "ReviewerDisLike": 45,
+            "Rating": 5,
+            "Review": "Deeply psychological and emotional. The art is stunning and the character development is superb.",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "BLreader",
+                "comment": "The way they help each other heal is beautiful.",
+                "date": "2022-12-15T14:20:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Ten Count Vol.1",
+            "No_ofuser_buy": "11500",
+            "No_ofuser_refunded": "40",
+            "Info_about_volume": "Introduction to Shirotani's mysophobia and his first therapy session with Kurose",
+            "No_ofchapters": 4,
+            "No_ofpages": 170
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/ten_count_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "6",
+            "Current_volumeLikes": 4200,
+            "Current_volumeDislikes": 120,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "5",
+            "PreviousvolumeLikes": 4000,
+            "PreviousvolumeDislikes": 130,
+            "Total_Previous_volumerating_no": 4.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Super Lovers",
+        "Author": "Miyuki Abe",
+        "Anime": "Super Lovers",
+        "Artist": "Miyuki Abe",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/5231/original.jpeg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Slice of Life", "Drama"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Kadokawa"],
+        "Originalvalue": 10.99,
+        "previousvalue": 12.99,
+        "Size": [17, 11, 1.5],
+        "Marketprice": [10.99, 12.99, 8.99],
+        "Aboutmanga": ["A story about an unruly boy from Canada who is taken in by his Japanese stepbrother and their developing relationship."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 9500,
+        "No_of_Disikes": 250,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "Image": "https://example.com/super_lovers_cover.jpg",
+        "Releasedate": "2009-11-01T00:00:00Z",
+        "Instock": true,
+        "Instockno": 350,
+        "Characters": [
+          {
+            "Name": "Ren",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/ren.jpg"
+          },
+          {
+            "Name": "Haru",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/haru.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "FamilyBLfan",
+            "ReviewerLike": 800,
+            "ReviewerDisLike": 35,
+            "Rating": 4,
+            "Review": "Sweet and sometimes heartbreaking story about family and love. The anime adaptation is lovely.",
+            "Overallexperience": "Very Good",
+            "Replies": [
+              {
+                "name": "MangaLover",
+                "comment": "Ren's growth throughout the series is amazing!",
+                "date": "2022-11-10T11:45:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Super Lovers Vol.1",
+            "No_ofuser_buy": "10000",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Introduction to Ren's wild nature and Haru's attempts to civilize him",
+            "No_ofchapters": 4,
+            "No_ofpages": 160
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/super_lovers_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "10",
+            "Current_volumeLikes": 3500,
+            "Current_volumeDislikes": 110,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "9",
+            "PreviousvolumeLikes": 3400,
+            "PreviousvolumeDislikes": 120,
+            "Total_Previous_volumerating_no": 4.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Dakaichi: I'm Being Harassed By the Sexiest Man of the Year",
+        "Author": "Hashigo Sakurabi",
+        "Anime": "Dakaichi",
+        "Artist": "Hashigo Sakurabi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/51137/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Romance", "Drama"],
+        "Publishers": ["Frontier Works"],
+        "Publishinghouses": ["Frontier Works"],
+        "Originalvalue": 11.50,
+        "previousvalue": 13.50,
+        "Size": [18, 12, 2],
+        "Marketprice": [11.50, 13.50, 9.50],
+        "Aboutmanga": ["A story about a popular actor who loses his 'sexiest man' title to a newcomer, leading to an unexpected relationship."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 8800,
+        "No_of_Disikes": 180,
+        "previousoffer": "5% off",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7, 8],
+        "Image": "https://example.com/dakaichi_cover.jpg",
+        "Releasedate": "2014-09-20T00:00:00Z",
+        "Instock": true,
+        "Instockno": 300,
+        "Characters": [
+          {
+            "Name": "Takato Saijou",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/takato.jpg"
+          },
+          {
+            "Name": "Junta Azumaya",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/junta.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ActorBLfan",
+            "ReviewerLike": 750,
+            "ReviewerDisLike": 30,
+            "Rating": 4,
+            "Review": "Great chemistry between the leads and interesting look at the entertainment industry. The anime is hot!",
+            "Overallexperience": "Very Good",
+            "Replies": [
+              {
+                "name": "YaoiWatcher",
+                "comment": "Takato's tsundere personality is hilarious!",
+                "date": "2022-10-05T13:10:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Dakaichi Vol.1",
+            "No_ofuser_buy": "9000",
+            "No_ofuser_refunded": "35",
+            "Info_about_volume": "Introduction to the rivalry between Takato and Junta",
+            "No_ofchapters": 3,
+            "No_ofpages": 170
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/dakaichi_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "8",
+            "Current_volumeLikes": 3200,
+            "Current_volumeDislikes": 100,
+            "Total_Current_volumerating_no": 4.5,
+            "Previousvolume": "7",
+            "PreviousvolumeLikes": 3100,
+            "PreviousvolumeDislikes": 110,
+            "Total_Previous_volumerating_no": 4.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Yarichin Bitch Club",
+        "Author": "Ogeretsu Tanaka",
+        "Anime": "Yarichin Bitch Club",
+        "Artist": "Ogeretsu Tanaka",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/24861/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "School Life", "Comedy", "Mature"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Kadokawa"],
+        "Originalvalue": 11.99,
+        "previousvalue": 13.99,
+        "Size": [17, 11, 1.5],
+        "Marketprice": [11.99, 13.99, 9.99],
+        "Aboutmanga": ["A story about a transfer student who gets involved with a mysterious school club with unusual activities."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 10200,
+        "No_of_Disikes": 350,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4],
+        "Image": "https://example.com/yarichin_bitch_club_cover.jpg",
+        "Releasedate": "2016-04-01T00:00:00Z",
+        "Instock": true,
+        "Instockno": 400,
+        "Characters": [
+          {
+            "Name": "Yacchan",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yacchan.jpg"
+          },
+          {
+            "Name": "Toono",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/toono.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MatureYaoiFan",
+            "ReviewerLike": 900,
+            "ReviewerDisLike": 80,
+            "Rating": 4,
+            "Review": "Hilarious and risqué. Not for the faint of heart but very entertaining. The anime OVA is wild!",
+            "Overallexperience": "Good",
+            "Replies": [
+              {
+                "name": "BLenthusiast",
+                "comment": "The club members are all so unique and funny!",
+                "date": "2022-09-15T15:20:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Yarichin Bitch Club Vol.1",
+            "No_ofuser_buy": "11000",
+            "No_ofuser_refunded": "60",
+            "Info_about_volume": "Introduction to the bizarre club and its members",
+            "No_ofchapters": 4,
+            "No_ofpages": 160
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/yarichin_bitch_club_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "4",
+            "Current_volumeLikes": 3800,
+            "Current_volumeDislikes": 200,
+            "Total_Current_volumerating_no": 4.4,
+            "Previousvolume": "3",
+            "PreviousvolumeLikes": 3700,
+            "PreviousvolumeDislikes": 210,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Yaoi",
+    "Type": [
+      {
+        "Title": "Twittering Birds Never Fly",
+        "Author": "Kou Yoneda",
+        "Anime": "Twittering Birds Never Fly",
+        "Artist": "Kou Yoneda",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/22131/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Yaoi", "Drama", "Mature"],
+        "Publishers": ["Shinshokan"],
+        "Publishinghouses": ["Shinshokan"],
+        "Originalvalue": 12.99,
+        "previousvalue": 14.99,
+        "Size": [18, 12, 2],
+        "Marketprice": [12.99, 14.99, 10.99],
+        "Aboutmanga": ["A dark story about a yakuza boss and his bodyguard with complicated pasts and desires."],
+        "Currentoffer": ["5% off"],
+        "No_of_Likes": 9800,
+        "No_of_Disikes": 200,
+        "previousoffer": "None",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6, 7],
+        "Image": "https://example.com/twittering_birds_cover.jpg",
+        "Releasedate": "2007-08-10T00:00:00Z",
+        "Instock": true,
+        "Instockno": 250,
+        "Characters": [
+          {
+            "Name": "Yashiro",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yashiro.jpg"
+          },
+          {
+            "Name": "Doumeki",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/doumeki.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DarkBLfan",
+            "ReviewerLike": 850,
+            "ReviewerDisLike": 45,
+            "Rating": 5,
+            "Review": "Intense and beautifully drawn. The psychological depth of the characters is amazing. The anime films are stunning!",
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "name": "YaoiExpert",
+                "comment": "The tension between Yashiro and Doumeki is electric!",
+                "date": "2022-08-20T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Twittering Birds Never Fly Vol.1",
+            "No_ofuser_buy": "10500",
+            "No_ofuser_refunded": "50",
+            "Info_about_volume": "Introduction to the yakuza world and the complex relationship between Yashiro and Doumeki",
+            "No_ofchapters": 3,
+            "No_ofpages": 180
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "https://example.com/twittering_birds_vol2"
+          }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "7",
+            "Current_volumeLikes": 3600,
+            "Current_volumeDislikes": 120,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "6",
+            "PreviousvolumeLikes": 3500,
+            "PreviousvolumeDislikes": 130,
+            "Total_Previous_volumerating_no": 4.6
+          }
+        ]
+      }
+    ]
+  }
+]

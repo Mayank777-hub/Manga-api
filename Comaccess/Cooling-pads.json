@@ -1,0 +1,614 @@
+[
+    {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan RGB Laptop Cooler",
+        "Brand": "AnimeTech",
+        "Model": "RG-CP01",
+        "Compatibility": ["Laptops 12-17 inch", "Gaming Laptops"],
+        "Image": "rasengan-cooler-main.jpg",
+        "ProductGallery": ["rasengan-cooler-1.jpg", "rasengan-cooler-2.jpg", "rasengan-cooler-3.jpg"],
+        "Color": ["Blue", "Black"],
+        "Material": "Plastic, Metal Mesh",
+        "Connectivity": "USB Powered",
+        "Features": ["Rasengan RGB Effect", "Dual 120mm Fans", "Adjustable Height", "3 Speed Settings"],
+        "Size": ["Universal Laptop Size"],
+        "Weight": 0.850,
+        "Originalvalue": 44.99,
+        "previousvalue": 54.99,
+        "Marketprice": 35.99,
+        "Currentoffer": ["20% off", "Amazon Choice"],
+        "previousoffer": "18% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "AnimeTech Cooling",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 175,
+        "No_of_Likes": 289,
+        "No_of_Disikes": 11,
+        "Description": "Popular Naruto Rasengan themed laptop cooling pad with spiral RGB lighting and powerful dual fans. Amazon's Choice for anime laptop coolers. Perfect for gaming laptops and preventing overheating during long sessions.",
+        "Releasedate": "2023-11-01T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NarutoFan",
+            "ReviewerLike": 58,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user125", "user126"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Believe it! This cooler dropped my laptop temps by 15°C! The Rasengan RGB looks amazing and it's surprisingly quiet. Amazon delivery was super fast!",
+            "ReviewProfileImage": "reviewer61.jpg",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "RG-CP01",
+            "CurrentModelLikes": 289,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "RG-CP00",
+            "PreviousModelLikes": 245,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-11-01T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "One Piece Sunny Go Laptop Cooler",
+        "Brand": "PirateTech",
+        "Model": "SG-CP02",
+        "Compatibility": ["Laptops 13-16 inch", "Ultrabooks"],
+        "Image": "sunny-cooler-main.jpg",
+        "ProductGallery": ["sunny-cooler-1.jpg", "sunny-cooler-2.jpg", "sunny-cooler-3.jpg"],
+        "Color": ["Yellow", "Brown"],
+        "Material": "Plastic, Wire Mesh",
+        "Connectivity": "USB-A",
+        "Features": ["Sunny Ship Design", "Single Large Fan", "Portable", "Low Noise"],
+        "Size": ["Compact"],
+        "Weight": 0.520,
+        "Originalvalue": 32.99,
+        "previousvalue": 42.99,
+        "Marketprice": 26.39,
+        "Currentoffer": ["20% off", "Meesho Special"],
+        "previousoffer": "23% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "PirateTech Cooling",
+        "CountryOfOrigin": "India",
+        "Instock": true,
+        "Instockno": 220,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 8,
+        "Description": "Affordable One Piece Thousand Sunny themed laptop cooler popular on Meesho and budget shopping platforms. Features the iconic pirate ship design with effective cooling for everyday laptop use.",
+        "Releasedate": "2023-10-15T00:00:00Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKing",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user127", "user128"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Great value for money! The Sunny design is cute and it keeps my laptop cool during online classes. Ordered from Meesho and got it within 4 days. Perfect for students!",
+            "ReviewProfileImage": "reviewer62.jpg",
+            "date": "2023-10-20T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SG-CP02",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "SG-CP01",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-10-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Demon Slayer Hashira Breathing Cooler",
+        "Brand": "HashiraTech",
+        "Model": "HB-CP03",
+        "Compatibility": ["Gaming Laptops", "Workstations"],
+        "Image": "hashira-cooler-main.jpg",
+        "ProductGallery": ["hashira-cooler-1.jpg", "hashira-cooler-2.jpg", "hashira-cooler-3.jpg"],
+        "Color": ["Multi-color", "Black"],
+        "Material": "Aluminum, Plastic",
+        "Connectivity": "Dual USB",
+        "Features": ["Hashira Breathing Styles", "6 Cooling Fans", "RGB Lighting", "Adjustable Angles"],
+        "Size": ["Large 17-18 inch"],
+        "Weight": 1.200,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 55.99,
+        "Currentoffer": ["20% off", "Crunchyroll Store"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HashiraTech Cooling",
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 130,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 7,
+        "Description": "Premium Demon Slayer Hashira themed laptop cooler featuring all breathing styles and powerful 6-fan setup. Exclusive to Crunchyroll store with official licensing. Perfect for high-performance gaming laptops.",
+        "Releasedate": "2023-09-20T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HashiraFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user129", "user130"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Total concentration cooling! This thing is a beast - dropped my gaming laptop temps by 20°C! The Hashira breathing style RGB is stunning. Crunchyroll packaging was perfect!",
+            "ReviewProfileImage": "reviewer63.jpg",
+            "date": "2023-09-25T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HB-CP03",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 7,
+            "PreviousModel": "HB-CP02",
+            "PreviousModelLikes": 223,
+            "PreviousModelDislikes": 5,
+            "CurrentModelDate": "2023-09-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "My Hero Academia UA Sports Cooler",
+        "Brand": "HeroTech",
+        "Model": "UA-CP04",
+        "Compatibility": ["Laptops 14-17 inch", "2-in-1 Devices"],
+        "Image": "ua-cooler-main.jpg",
+        "ProductGallery": ["ua-cooler-1.jpg", "ua-cooler-2.jpg", "ua-cooler-3.jpg"],
+        "Color": ["Blue", "Orange", "White"],
+        "Material": "Plastic, Metal Stand",
+        "Connectivity": "USB-C Compatible",
+        "Features": ["UA Sports Festival", "Dual 140mm Fans", "Ergonomic Design", "Quiet Operation"],
+        "Size": ["Medium to Large"],
+        "Weight": 0.950,
+        "Originalvalue": 54.99,
+        "previousvalue": 64.99,
+        "Marketprice": 43.99,
+        "Currentoffer": ["20% off", "Flipkart Supercoin"],
+        "previousoffer": "15% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "HeroTech Cooling",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 185,
+        "No_of_Likes": 245,
+        "No_of_Disikes": 9,
+        "Description": "My Hero Academia UA Sports Festival themed laptop cooler with vibrant colors and efficient dual-fan cooling. Popular on Flipkart with supercoin offers. Features official UA Academy branding.",
+        "Releasedate": "2023-08-15T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HeroFan",
+            "ReviewerLike": 52,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user131", "user132"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Plus Ultra cooling performance! The UA colors are vibrant and it's surprisingly quiet. Used Flipkart supercoins and got a great deal. Perfect for my gaming sessions!",
+            "ReviewProfileImage": "reviewer64.jpg",
+            "date": "2023-08-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "UA-CP04",
+            "CurrentModelLikes": 245,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "UA-CP03",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-08-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Attack on Titan Survey Corps Laptop Stand",
+        "Brand": "ScoutTech",
+        "Model": "SC-CP05",
+        "Compatibility": ["All Laptops", "MacBooks"],
+        "Image": "scout-cooler-main.jpg",
+        "ProductGallery": ["scout-cooler-1.jpg", "scout-cooler-2.jpg", "scout-cooler-3.jpg"],
+        "Color": ["Brown", "Green", "White"],
+        "Material": "Aluminum Alloy, Plastic",
+        "Connectivity": "USB Powered",
+        "Features": ["Wings of Freedom", "3 Fan System", "Height Adjustable", "Military Build"],
+        "Size": ["Universal Fit"],
+        "Weight": 1.100,
+        "Originalvalue": 62.99,
+        "previousvalue": 72.99,
+        "Marketprice": 50.39,
+        "Currentoffer": ["20% off", "Google Rated 4.5+"],
+        "previousoffer": "14% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "ScoutTech Cooling",
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 150,
+        "No_of_Likes": 223,
+        "No_of_Disikes": 10,
+        "Description": "Attack on Titan Survey Corps themed laptop cooling stand with Wings of Freedom emblem. Highly rated on Google Shopping with 4.5+ stars. Features military-grade construction and efficient cooling.",
+        "Releasedate": "2023-07-10T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ScoutFan",
+            "ReviewerLike": 47,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user133", "user134"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Dedicate your cooling! This stand is built like military equipment - super sturdy and the Survey Corps design is perfect. Found it through Google Shopping reviews and it lives up to the hype!",
+            "ReviewProfileImage": "reviewer65.jpg",
+            "date": "2023-07-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SC-CP05",
+            "CurrentModelLikes": 223,
+            "CurrentModelDislikes": 10,
+            "PreviousModel": "SC-CP04",
+            "PreviousModelLikes": 189,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-07-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Domain Expansion Laptop Cooler",
+        "Brand": "SorcererTech",
+        "Model": "DE-CP06",
+        "Compatibility": ["Gaming Laptops", "Workstations"],
+        "Image": "domain-cooler-main.jpg",
+        "ProductGallery": ["domain-cooler-1.jpg", "domain-cooler-2.jpg", "domain-cooler-3.jpg"],
+        "Color": ["Purple", "Black"],
+        "Material": "Plastic, Metal Mesh",
+        "Connectivity": "USB 3.0",
+        "Features": ["Domain Expansion Effect", "4 RGB Fans", "Adjustable Height", "Quiet Operation"],
+        "Size": ["15-17 inch Laptops"],
+        "Weight": 0.980,
+        "Originalvalue": 58.99,
+        "previousvalue": 68.99,
+        "Marketprice": 47.19,
+        "Currentoffer": ["20% off", "Amazon Best Seller"],
+        "previousoffer": "14% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "SorcererTech Cooling",
+        "CountryOfOrigin": "South Korea",
+        "Instock": true,
+        "Instockno": 165,
+        "No_of_Likes": 312,
+        "No_of_Disikes": 8,
+        "Description": "Jujutsu Kaisen Domain Expansion themed laptop cooler with mesmerizing purple RGB effects. Amazon Best Seller in laptop cooling category. Features 4 powerful fans and official MAPPA studio licensing.",
+        "Releasedate": "2023-06-12T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GojoSimp",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user135", "user136"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The strongest laptop cooler! The Domain Expansion purple lighting is absolutely stunning and it keeps my gaming laptop ice cold. Amazon delivery was next day and packaging was perfect!",
+            "ReviewProfileImage": "reviewer66.jpg",
+            "date": "2023-06-18T00:00:00Z",
+            "Overallexperience": "Outstanding",
+            "Replies": [
+              {
+                "ReplyName": "SorcererTech Support",
+                "ReplyProfileImage": "support3.jpg",
+                "ReplyLike": 18,
+                "ReplyDisLike": 0,
+                "ReplyLikeby": ["user137", "user138"],
+                "ReplyDisLikeby": [],
+                "Reply": "We're thrilled you're enjoying the Domain Expansion cooler! The RGB effects are indeed inspired by Gojo's Infinite Void. Thank you for choosing Amazon for your purchase!",
+                "date": "2023-06-19T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "DE-CP06",
+            "CurrentModelLikes": 312,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "DE-CP05",
+            "PreviousModelLikes": 267,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-06-12T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Hybrid Cooling Station",
+        "Brand": "DevilTech",
+        "Model": "HC-CP07",
+        "Compatibility": ["Gaming Laptops", "Desktop Replacement"],
+        "Image": "hybrid-cooler-main.jpg",
+        "ProductGallery": ["hybrid-cooler-1.jpg", "hybrid-cooler-2.jpg", "hybrid-cooler-3.jpg"],
+        "Color": ["Red", "Silver", "Black"],
+        "Material": "Metal Frame, Plastic",
+        "Connectivity": "Dual USB Power",
+        "Features": ["Chainsaw Blade Design", "6 High-Speed Fans", "RGB Blood Effects", "Extra USB Ports"],
+        "Size": ["Large 17-18 inch"],
+        "Weight": 1.350,
+        "Originalvalue": 74.99,
+        "previousvalue": 84.99,
+        "Marketprice": 59.99,
+        "Currentoffer": ["20% off", "Crunchyroll Exclusive"],
+        "previousoffer": "12% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "DevilTech Cooling",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 110,
+        "No_of_Likes": 245,
+        "No_of_Disikes": 12,
+        "Description": "Chainsaw Man Hybrid transformation themed premium laptop cooling station with aggressive chainsaw blade design. Crunchyroll store exclusive with official Shueisha licensing. Perfect for high-end gaming laptops.",
+        "Releasedate": "2023-05-20T00:00:00Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DenjiFan",
+            "ReviewerLike": 48,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user139", "user140"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Bloody powerful cooler! The chainsaw design looks menacing and the 6 fans keep my RTX laptop super cool. Ordered from Crunchyroll store - shipping took a week but worth the wait!",
+            "ReviewProfileImage": "reviewer67.jpg",
+            "date": "2023-05-25T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HC-CP07",
+            "CurrentModelLikes": 245,
+            "CurrentModelDislikes": 12,
+            "PreviousModel": "HC-CP06",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-05-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Spy x Family Forger Family Laptop Stand",
+        "Brand": "WakuTech",
+        "Model": "FF-CP08",
+        "Compatibility": ["Ultrabooks", "2-in-1 Laptops"],
+        "Image": "forger-cooler-main.jpg",
+        "ProductGallery": ["forger-cooler-1.jpg", "forger-cooler-2.jpg", "forger-cooler-3.jpg"],
+        "Color": ["Pink", "Black", "Brown"],
+        "Material": "Plastic, Rubber Feet",
+        "Connectivity": "Single USB",
+        "Features": ["Family Portrait Design", "Single Quiet Fan", "Portable", "Cute Aesthetics"],
+        "Size": ["13-15 inch Laptops"],
+        "Weight": 0.620,
+        "Originalvalue": 35.99,
+        "previousvalue": 45.99,
+        "Marketprice": 28.79,
+        "Currentoffer": ["20% off", "Meesho Top Rated"],
+        "previousoffer": "22% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "WakuTech Cooling",
+        "CountryOfOrigin": "India",
+        "Instock": true,
+        "Instockno": 240,
+        "No_of_Likes": 334,
+        "No_of_Disikes": 5,
+        "Description": "Adorable Spy x Family Forger Family themed laptop cooling stand featuring Anya, Loid, and Yor. Meesho Top Rated product with thousands of positive reviews. Perfect for students and casual users.",
+        "Releasedate": "2023-04-15T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaLover",
+            "ReviewerLike": 78,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user141", "user142"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Waku waku! This cooler is absolutely adorable! The Forger family portrait is so cute and it works perfectly for my college laptop. Ordered from Meesho and got it within 3 days - amazing service!",
+            "ReviewProfileImage": "reviewer68.jpg",
+            "date": "2023-04-20T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "FF-CP08",
+            "CurrentModelLikes": 334,
+            "CurrentModelDislikes": 5,
+            "PreviousModel": "FF-CP07",
+            "PreviousModelLikes": 289,
+            "PreviousModelDislikes": 3,
+            "CurrentModelDate": "2023-04-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Bleach Soul King Palace Cooler",
+        "Brand": "SoulTech",
+        "Model": "SK-CP09",
+        "Compatibility": ["Premium Laptops", "MacBook Pro"],
+        "Image": "soulking-cooler-main.jpg",
+        "ProductGallery": ["soulking-cooler-1.jpg", "soulking-cooler-2.jpg", "soulking-cooler-3.jpg"],
+        "Color": ["White", "Gold", "Crystal"],
+        "Material": "Aluminum, Acrylic",
+        "Connectivity": "USB-C",
+        "Features": ["Soul King Palace Design", "5 Color Modes", "Premium Build", "Silent Operation"],
+        "Size": ["14-16 inch Premium"],
+        "Weight": 1.050,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 63.99,
+        "Currentoffer": ["20% off", "Flipkart Assured"],
+        "previousoffer": "11% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SoulTech Cooling",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 125,
+        "No_of_Likes": 278,
+        "No_of_Disikes": 7,
+        "Description": "Premium Bleach Soul King Palace themed laptop cooler with elegant white and gold design. Flipkart Assured product with guaranteed quality. Features official Tite Kubo artwork licensing.",
+        "Releasedate": "2023-03-10T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "IchigoFan",
+            "ReviewerLike": 62,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user143", "user144"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Bankai-level cooling! The Soul King Palace design is absolutely majestic and the build quality is premium. Flipkart Assured delivered exactly as promised - no issues whatsoever!",
+            "ReviewProfileImage": "reviewer69.jpg",
+            "date": "2023-03-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SK-CP09",
+            "CurrentModelLikes": 278,
+            "CurrentModelDislikes": 7,
+            "PreviousModel": "SK-CP08",
+            "PreviousModelLikes": 234,
+            "PreviousModelDislikes": 5,
+            "CurrentModelDate": "2023-03-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Cooling-Pads",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Hyperbolic Time Chamber Cooler",
+        "Brand": "SaiyanTech",
+        "Model": "HTC-CP10",
+        "Compatibility": ["All Laptops", "Gaming Rigs"],
+        "Image": "chamber-cooler-main.jpg",
+        "ProductGallery": ["chamber-cooler-1.jpg", "chamber-cooler-2.jpg", "chamber-cooler-3.jpg"],
+        "Color": ["White", "Blue", "Silver"],
+        "Material": "Plastic, Metal Grill",
+        "Connectivity": "USB 2.0/3.0",
+        "Features": ["Time Chamber Theme", "Dual 200mm Fans", "Extreme Cooling", "Training Mode RGB"],
+        "Size": ["Universal Size"],
+        "Weight": 1.280,
+        "Originalvalue": 67.99,
+        "previousvalue": 77.99,
+        "Marketprice": 54.39,
+        "Currentoffer": ["20% off", "Google Shopping Top Pick"],
+        "previousoffer": "13% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "SaiyanTech Cooling",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 180,
+        "No_of_Likes": 301,
+        "No_of_Disikes": 9,
+        "Description": "Dragon Ball Z Hyperbolic Time Chamber themed extreme laptop cooler with massive dual 200mm fans. Google Shopping Top Pick for gaming laptop accessories. Perfect for overclocked systems and intensive gaming sessions.",
+        "Releasedate": "2023-02-08T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "VegetaFan",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user145", "user146"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Prince of all coolers! This thing provides Hyperbolic Time Chamber level cooling - dropped my CPU temps by 25°C! Found it through Google Shopping recommendations and it's absolutely worth it!",
+            "ReviewProfileImage": "reviewer70.jpg",
+            "date": "2023-02-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HTC-CP10",
+            "CurrentModelLikes": 301,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "HTC-CP09",
+            "PreviousModelLikes": 256,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-02-08T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+]

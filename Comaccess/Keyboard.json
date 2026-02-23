@@ -1,0 +1,602 @@
+[
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Naruto Akatsuki Mechanical Keyboard",
+        "Brand": "AnimeTech",
+        "Model": "AKT-MK01",
+        "Compatibility": ["PC", "Mac", "PS5"],
+        "Image": "akatsuki-keyboard-main.jpg",
+        "ProductGallery": ["akatsuki-keyboard-1.jpg", "akatsuki-keyboard-2.jpg", "akatsuki-keyboard-3.jpg"],
+        "Color": ["Black", "Red"],
+        "Material": "ABS Plastic, Aluminum Plate",
+        "Connectivity": "USB-C, Wireless 2.4GHz, Bluetooth 5.0",
+        "Features": ["RGB Backlight", "Mechanical Switches", "Hot-swappable", "Programmable Macros"],
+        "Size": ["Full Size", "87 Key"],
+        "Weight": 1.2,
+        "Originalvalue": 129.99,
+        "previousvalue": 149.99,
+        "Marketprice": 99.99,
+        "Currentoffer": ["23% off"],
+        "previousoffer": "15% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "AnimeTech Gaming",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 85,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 12,
+        "Description": "Akatsuki themed mechanical keyboard with custom cloud pattern keycaps and RGB lighting",
+        "Releasedate": "2023-11-01T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NarutoFan",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user1", "user2"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Perfect for gaming! The Akatsuki design is amazing",
+            "ReviewProfileImage": "reviewer1.jpg",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "AKT-MK01",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 12,
+            "PreviousModel": "AKT-MK00",
+            "PreviousModelLikes": 189,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-11-01T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "One Piece Straw Hat Wireless Keyboard",
+        "Brand": "PirateTech",
+        "Model": "SH-WK02",
+        "Compatibility": ["PC", "Mac", "Mobile"],
+        "Image": "onepiece-keyboard-main.jpg",
+        "ProductGallery": ["onepiece-keyboard-1.jpg", "onepiece-keyboard-2.jpg", "onepiece-keyboard-3.jpg"],
+        "Color": ["Yellow", "Black"],
+        "Material": "PBT Plastic, Steel Backplate",
+        "Connectivity": "Bluetooth 5.1, USB-C",
+        "Features": ["Wireless", "Long Battery Life", "Custom Keycaps", "Jolly Roger Backlight"],
+        "Size": ["60% Layout", "75% Layout"],
+        "Weight": 0.8,
+        "Originalvalue": 89.99,
+        "previousvalue": 109.99,
+        "Marketprice": 69.99,
+        "Currentoffer": ["22% off"],
+        "previousoffer": "18% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "PirateTech Accessories",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 120,
+        "No_of_Likes": 189,
+        "No_of_Disikes": 8,
+        "Description": "Compact wireless keyboard featuring Straw Hat Pirates theme with custom Jolly Roger keycaps",
+        "Releasedate": "2023-10-15T00:00:00Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKing",
+            "ReviewerLike": 38,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user3", "user4"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Great for travel! Battery lasts forever",
+            "ReviewProfileImage": "reviewer2.jpg",
+            "date": "2023-10-20T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SH-WK02",
+            "CurrentModelLikes": 189,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "SH-WK01",
+            "PreviousModelLikes": 156,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-10-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Demon Slayer Water Breathing RGB Keyboard",
+        "Brand": "HashiraTech",
+        "Model": "WB-RGB03",
+        "Compatibility": ["PC", "PS5", "Xbox Series X"],
+        "Image": "demonslayer-keyboard-main.jpg",
+        "ProductGallery": ["demonslayer-keyboard-1.jpg", "demonslayer-keyboard-2.jpg", "demonslayer-keyboard-3.jpg"],
+        "Color": ["Blue", "White"],
+        "Material": "Aluminum Alloy, PBT Keycaps",
+        "Connectivity": "USB-C, Wireless",
+        "Features": ["Water Effect RGB", "Mechanical Blue Switches", "Waterproof", "Breathing LED Mode"],
+        "Size": ["Full Size", "TKL"],
+        "Weight": 1.5,
+        "Originalvalue": 149.99,
+        "previousvalue": 169.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "12% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HashiraTech Gaming",
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 65,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 9,
+        "Description": "Water Breathing themed mechanical keyboard with wave pattern RGB lighting and waterproof design",
+        "Releasedate": "2023-09-20T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TanjiroFan",
+            "ReviewerLike": 52,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user5", "user6"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Total concentration! The water effects are amazing",
+            "ReviewProfileImage": "reviewer3.jpg",
+            "date": "2023-09-25T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "WB-RGB03",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "WB-RGB02",
+            "PreviousModelLikes": 223,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-09-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might Mechanical Keyboard",
+        "Brand": "HeroTech",
+        "Model": "AM-MK04",
+        "Compatibility": ["PC", "Mac"],
+        "Image": "mha-keyboard-main.jpg",
+        "ProductGallery": ["mha-keyboard-1.jpg", "mha-keyboard-2.jpg", "mha-keyboard-3.jpg"],
+        "Color": ["Yellow", "Blue"],
+        "Material": "Metal Frame, Double-shot PBT",
+        "Connectivity": "USB-C, Detachable Cable",
+        "Features": ["Plus Ultra RGB", "Hot-swappable Switches", "Gold Plated USB", "Anti-ghosting"],
+        "Size": ["Full Size", "96% Layout"],
+        "Weight": 1.3,
+        "Originalvalue": 139.99,
+        "previousvalue": 159.99,
+        "Marketprice": 109.99,
+        "Currentoffer": ["21% off"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HeroTech Accessories",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 95,
+        "No_of_Likes": 223,
+        "No_of_Disikes": 11,
+        "Description": "All Might themed mechanical keyboard with Plus Ultra inspired RGB lighting and premium build quality",
+        "Releasedate": "2023-08-15T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HeroFan",
+            "ReviewerLike": 47,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user7", "user8"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Plus Ultra quality! The yellow backlight is perfect",
+            "ReviewProfileImage": "reviewer4.jpg",
+            "date": "2023-08-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "AM-MK04",
+            "CurrentModelLikes": 223,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "AM-MK03",
+            "PreviousModelLikes": 189,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-08-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Attack on Titan Survey Corps Keyboard",
+        "Brand": "ScoutTech",
+        "Model": "SC-MK05",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "aot-keyboard-main.jpg",
+        "ProductGallery": ["aot-keyboard-1.jpg", "aot-keyboard-2.jpg", "aot-keyboard-3.jpg"],
+        "Color": ["Brown", "White"],
+        "Material": "Wooden Accents, Metal Frame",
+        "Connectivity": "USB 3.0, Wireless Option",
+        "Features": ["Wings of Freedom LED", "Tactile Switches", "Military Grade Build", "Custom Media Controls"],
+        "Size": ["Full Size", "Extended"],
+        "Weight": 1.6,
+        "Originalvalue": 159.99,
+        "previousvalue": 179.99,
+        "Marketprice": 129.99,
+        "Currentoffer": ["19% off"],
+        "previousoffer": "11% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "ScoutTech Gaming",
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 70,
+        "No_of_Likes": 245,
+        "No_of_Disikes": 13,
+        "Description": "Survey Corps themed mechanical keyboard with Wings of Freedom emblem and military-inspired design",
+        "Releasedate": "2023-07-10T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ScoutFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user9", "user10"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Dedicate your hearts! This keyboard is built to last",
+            "ReviewProfileImage": "reviewer5.jpg",
+            "date": "2023-07-15T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SC-MK05",
+            "CurrentModelLikes": 245,
+            "CurrentModelDislikes": 13,
+            "PreviousModel": "SC-MK04",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 10,
+            "CurrentModelDate": "2023-07-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Cursed Energy Keyboard",
+        "Brand": "SorcererTech",
+        "Model": "CE-MK06",
+        "Compatibility": ["PC", "Mac", "Mobile"],
+        "Image": "jjk-keyboard-main.jpg",
+        "ProductGallery": ["jjk-keyboard-1.jpg", "jjk-keyboard-2.jpg", "jjk-keyboard-3.jpg"],
+        "Color": ["Purple", "Black"],
+        "Material": "Polycarbonate, Steel Plate",
+        "Connectivity": "Bluetooth 5.2, USB-C",
+        "Features": ["Cursed Energy RGB", "Linear Red Switches", "Domain Expansion Lighting", "Programmable"],
+        "Size": ["65% Layout", "75% Layout"],
+        "Weight": 0.9,
+        "Originalvalue": 119.99,
+        "previousvalue": 139.99,
+        "Marketprice": 94.99,
+        "Currentoffer": ["21% off"],
+        "previousoffer": "14% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SorcererTech Accessories",
+        "CountryOfOrigin": "South Korea",
+        "Instock": true,
+        "Instockno": 110,
+        "No_of_Likes": 278,
+        "No_of_Disikes": 10,
+        "Description": "Jujutsu Kaisen themed keyboard with cursed energy inspired RGB effects and compact design",
+        "Releasedate": "2023-06-12T00:00:00Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GojoSimp",
+            "ReviewerLike": 61,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user11", "user12"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The strongest keyboard! Purple lighting is amazing",
+            "ReviewProfileImage": "reviewer6.jpg",
+            "date": "2023-06-18T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CE-MK06",
+            "CurrentModelLikes": 278,
+            "CurrentModelDislikes": 10,
+            "PreviousModel": "CE-MK05",
+            "PreviousModelLikes": 234,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-06-12T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Hybrid Mechanical Keyboard",
+        "Brand": "DevilTech",
+        "Model": "HM-MK07",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "csm-keyboard-main.jpg",
+        "ProductGallery": ["csm-keyboard-1.jpg", "csm-keyboard-2.jpg", "csm-keyboard-3.jpg"],
+        "Color": ["Red", "Silver"],
+        "Material": "Aluminum Alloy, ABS Keycaps",
+        "Connectivity": "USB-C, Wireless",
+        "Features": ["Chainsaw Blade Design", "RGB Blood Effects", "Hot-swappable", "Anti-ghosting"],
+        "Size": ["Full Size", "TKL"],
+        "Weight": 1.4,
+        "Originalvalue": 169.99,
+        "previousvalue": 189.99,
+        "Marketprice": 139.99,
+        "Currentoffer": ["18% off"],
+        "previousoffer": "10% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "DevilTech Gaming",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 55,
+        "No_of_Likes": 201,
+        "No_of_Disikes": 15,
+        "Description": "Chainsaw Man inspired mechanical keyboard with blood red RGB and aggressive design elements",
+        "Releasedate": "2023-05-20T00:00:00Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DenjiFan",
+            "ReviewerLike": 42,
+            "ReviewerDisLike": 6,
+            "ReviewerLikeby": ["user13", "user14"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Bloody awesome design! Perfect for gaming sessions",
+            "ReviewProfileImage": "reviewer7.jpg",
+            "date": "2023-05-25T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HM-MK07",
+            "CurrentModelLikes": 201,
+            "CurrentModelDislikes": 15,
+            "PreviousModel": "HM-MK06",
+            "PreviousModelLikes": 167,
+            "PreviousModelDislikes": 12,
+            "CurrentModelDate": "2023-05-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Forger Custom Keyboard",
+        "Brand": "WakuTech",
+        "Model": "AF-MK08",
+        "Compatibility": ["PC", "Mac", "Tablet"],
+        "Image": "spyfamily-keyboard-main.jpg",
+        "ProductGallery": ["spyfamily-keyboard-1.jpg", "spyfamily-keyboard-2.jpg", "spyfamily-keyboard-3.jpg"],
+        "Color": ["Pink", "White"],
+        "Material": "Plastic, Silicone Keycaps",
+        "Connectivity": "Bluetooth 5.0, USB-C",
+        "Features": ["Anya Face Keycaps", "Quiet Membrane", "Portable Design", "Long Battery"],
+        "Size": ["60% Layout", "Mini"],
+        "Weight": 0.6,
+        "Originalvalue": 79.99,
+        "previousvalue": 99.99,
+        "Marketprice": 64.99,
+        "Currentoffer": ["19% off"],
+        "previousoffer": "15% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "WakuTech Accessories",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 150,
+        "No_of_Likes": 312,
+        "No_of_Disikes": 7,
+        "Description": "Cute Anya Forger themed portable keyboard with custom face keycaps and quiet typing experience",
+        "Releasedate": "2023-04-15T00:00:00Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaLover",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user15", "user16"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Waku waku! So cute and functional",
+            "ReviewProfileImage": "reviewer8.jpg",
+            "date": "2023-04-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "AF-MK08",
+            "CurrentModelLikes": 312,
+            "CurrentModelDislikes": 7,
+            "PreviousModel": "AF-MK07",
+            "PreviousModelLikes": 278,
+            "PreviousModelDislikes": 5,
+            "CurrentModelDate": "2023-04-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Bleach Soul Reaper Zanpakuto Keyboard",
+        "Brand": "SoulTech",
+        "Model": "ZP-MK09",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "bleach-keyboard-main.jpg",
+        "ProductGallery": ["bleach-keyboard-1.jpg", "bleach-keyboard-2.jpg", "bleach-keyboard-3.jpg"],
+        "Color": ["Black", "White"],
+        "Material": "Metal Frame, PBT Keycaps",
+        "Connectivity": "USB-C, Detachable",
+        "Features": ["Zanpakuto Blade Design", "Bankai Mode RGB", "Mechanical Switches", "Custom Art"],
+        "Size": ["Full Size", "Extended"],
+        "Weight": 1.7,
+        "Originalvalue": 179.99,
+        "previousvalue": 199.99,
+        "Marketprice": 149.99,
+        "Currentoffer": ["17% off"],
+        "previousoffer": "10% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SoulTech Gaming",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 60,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 14,
+        "Description": "Bleach themed mechanical keyboard featuring Zanpakuto sword design and Soul Society inspired aesthetics",
+        "Releasedate": "2023-03-10T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "IchigoFan",
+            "ReviewerLike": 48,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user17", "user18"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Bankai! The sword design is incredible",
+            "ReviewProfileImage": "reviewer9.jpg",
+            "date": "2023-03-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "ZP-MK09",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 14,
+            "PreviousModel": "ZP-MK08",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 11,
+            "CurrentModelDate": "2023-03-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Keyboards",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Kamehameha Energy Keyboard",
+        "Brand": "SaiyanTech",
+        "Model": "KE-MK10",
+        "Compatibility": ["PC", "Mac", "Console"],
+        "Image": "dbz-keyboard-main.jpg",
+        "ProductGallery": ["dbz-keyboard-1.jpg", "dbz-keyboard-2.jpg", "dbz-keyboard-3.jpg"],
+        "Color": ["Orange", "Blue"],
+        "Material": "Plastic, Metal Accents",
+        "Connectivity": "USB 3.0, Wireless",
+        "Features": ["Kamehameha Wave LED", "Energy Charge Effect", "Gaming Mode", "Media Controls"],
+        "Size": ["Full Size", "Compact"],
+        "Weight": 1.1,
+        "Originalvalue": 109.99,
+        "previousvalue": 129.99,
+        "Marketprice": 89.99,
+        "Currentoffer": ["18% off"],
+        "previousoffer": "15% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "SaiyanTech Accessories",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 100,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 11,
+        "Description": "Dragon Ball Z inspired keyboard with Kamehameha energy wave lighting effects and vibrant color scheme",
+        "Releasedate": "2023-02-08T00:00:00Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GokuFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user19", "user20"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Power level over 9000! The energy effects are amazing",
+            "ReviewProfileImage": "reviewer10.jpg",
+            "date": "2023-02-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "KE-MK10",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "KE-MK09",
+            "PreviousModelLikes": 223,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-02-08T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+]

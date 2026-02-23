@@ -1,0 +1,429 @@
+[
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Fruits Basket",
+        "Author": "Natsuki Takaya",
+        "Anime": "Fruits Basket",
+        "Artist": "Natsuki Takaya",
+        "Animeurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCKiWAPPKD-7QO04hKJ4yJgc2PB7MWJv0tQ&s",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Supernatural"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["Hana to Yume"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A heartwarming story about Tohru Honda and the cursed Sohma family."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 1500,
+        "No_of_Disikes": 50,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [23],
+        "Image": "https://example.com/fruitsbasket_cover.jpg",
+        "Releasedate": "1998-07-20",
+        "Instock": true,
+        "Instockno": 45,
+        "Characters": [
+          {
+            "Name": "Tohru Honda",
+            "Penname": "None",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/tohru.jpg"
+          },
+          {
+            "Name": "Kyo Sohma",
+            "Penname": "None",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/kyo.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MangaFan123",
+            "Rating": 5,
+            "Review": "One of the best shojo manga ever!",
+            "date": "2023-05-15",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Fruits Basket Vol. 1",
+            "No_ofuser_buy": "500",
+            "No_ofuser_refunded": "5",
+            "Info_about_volume": "Introduction to Tohru and the Sohma family",
+            "No_ofchapters": 6,
+            "No_ofpages": 192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Ouran High School Host Club",
+        "Author": "Bisco Hatori",
+        "Anime": "Ouran High School Host Club",
+        "Artist": "Bisco Hatori",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/78/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Comedy"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["LaLa"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A hilarious reverse harem about a girl who joins a host club."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 1200,
+        "No_of_Disikes": 30,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [18],
+        "Image": "https://example.com/ouran_cover.jpg",
+        "Releasedate": "2002-09-05",
+        "Instock": true,
+        "Instockno": 35,
+        "Characters": [
+          {
+            "Name": "Haruhi Fujioka",
+            "Penname": "None",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/haruhi.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Nana",
+        "Author": "Ai Yazawa",
+        "Anime": "Nana",
+        "Artist": "Ai Yazawa",
+        "Animeurl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781421518794/nana-vol-12-9781421518794_hr.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Drama", "Romance"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Cookie"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [10.99, 8.99],
+        "Aboutmanga": ["The story of two women both named Nana and their intertwined lives."],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 1800,
+        "No_of_Disikes": 40,
+        "previousoffer": "15% off",
+        "Status": "Ongoing",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [21],
+        "Image": "https://example.com/nana_cover.jpg",
+        "Releasedate": "2000-05-26",
+        "Instock": true,
+        "Instockno": 25
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Cardcaptor Sakura",
+        "Author": "CLAMP",
+        "Anime": "Cardcaptor Sakura",
+        "Artist": "CLAMP",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/276/original.png",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Fantasy", "Magical Girl"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Nakayoshi"],
+        "Originalvalue": 8.99,
+        "previousvalue": 6.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [8.99, 6.99],
+        "Aboutmanga": ["A magical girl must capture escaped magical cards."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 1300,
+        "No_of_Disikes": 20,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 10,
+        "Status_age_wise": "childrens",
+        "versions": "colourfulle",
+        "Volumes": [12],
+        "Image": "https://example.com/ccs_cover.jpg",
+        "Releasedate": "1996-06-03",
+        "Instock": true,
+        "Instockno": 40
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Sailor Moon",
+        "Author": "Naoko Takeuchi",
+        "Anime": "Sailor Moon",
+        "Artist": "Naoko Takeuchi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/241/original.jpeg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Magical Girl", "Romance"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Nakayoshi"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["The classic magical girl story of Usagi Tsukino and her friends."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 2000,
+        "No_of_Disikes": 60,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 12,
+        "Status_age_wise": "teenagers",
+        "versions": "colourfulle",
+        "Volumes": [18],
+        "Image": "https://example.com/sailormoon_cover.jpg",
+        "Releasedate": "1991-12-28",
+        "Instock": true,
+        "Instockno": 50
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Skip Beat!",
+        "Author": "Yoshiki Nakamura",
+        "Anime": "Skip Beat!",
+        "Artist": "Yoshiki Nakamura",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/1388/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Comedy", "Drama"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["Hana to Yume"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["Kyoko Mogami enters showbiz to get revenge on her childhood friend."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 1100,
+        "No_of_Disikes": 25,
+        "previousoffer": "5% off",
+        "Status": "Ongoing",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [47],
+        "Image": "https://example.com/skipbeat_cover.jpg",
+        "Releasedate": "2002-02-15",
+        "Instock": true,
+        "Instockno": 30
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Ao Haru Ride",
+        "Author": "Io Sakisaka",
+        "Anime": "Ao Haru Ride",
+        "Artist": "Io Sakisaka",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/16550/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Drama"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Bessatsu Margaret"],
+        "Originalvalue": 8.99,
+        "previousvalue": 6.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [8.99, 6.99],
+        "Aboutmanga": ["A story about first love and second chances."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 950,
+        "No_of_Disikes": 15,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [13],
+        "Image": "https://example.com/ao-haru-ride_cover.jpg",
+        "Releasedate": "2011-02-13",
+        "Instock": true,
+        "Instockno": 28
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Kimi ni Todoke",
+        "Author": "Karuho Shiina",
+        "Anime": "Kimi ni Todoke",
+        "Artist": "Karuho Shiina",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/7375/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Slice of Life"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Bessatsu Margaret"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A shy girl named Sawako tries to make friends and find love."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 1400,
+        "No_of_Disikes": 20,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [30],
+        "Image": "https://example.com/kimi-ni-todoke_cover.jpg",
+        "Releasedate": "2005-08-25",
+        "Instock": true,
+        "Instockno": 38
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Yona of the Dawn",
+        "Author": "Mizuho Kusanagi",
+        "Anime": "Yona of the Dawn",
+        "Artist": "Mizuho Kusanagi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/11152/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Adventure", "Fantasy"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["Hana to Yume"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A princess must reclaim her kingdom after a coup."],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 1600,
+        "No_of_Disikes": 30,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [40],
+        "Image": "https://example.com/yona_cover.jpg",
+        "Releasedate": "2009-08-05",
+        "Instock": true,
+        "Instockno": 32
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Orange",
+        "Author": "Ichigo Takano",
+        "Anime": "Orange",
+        "Artist": "Ichigo Takano",
+        "Animeurl": "https://media.kitsu.app/manga/13243/poster_image/4b52d51fdd56f9824e306c126086591d.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Drama"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Bessatsu Margaret"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [10.99, 8.99],
+        "Aboutmanga": ["A girl receives letters from her future self about saving a classmate."],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 1200,
+        "No_of_Disikes": 25,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 15,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [5],
+        "Image": "https://example.com/orange_cover.jpg",
+        "Releasedate": "2012-03-23",
+        "Instock": true,
+        "Instockno": 22
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Lovely Complex",
+        "Author": "Aya Nakahara",
+        "Anime": "Lovely Complex",
+        "Artist": "Aya Nakahara",
+        "Animeurl": "https://media.kitsu.app/manga/81/poster_image/04c7d8148dd2cb34eddd4acab8767a44.png",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Romance", "Comedy"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Margaret"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A tall girl and short boy navigate their height difference and feelings."],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 900,
+        "No_of_Disikes": 20,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 13,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [17],
+        "Image": "https://example.com/lovely-complex_cover.jpg",
+        "Releasedate": "2001-09-14",
+        "Instock": true,
+        "Instockno": 26
+      }
+    ]
+  }
+]

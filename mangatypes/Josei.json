@@ -1,0 +1,802 @@
+[
+{
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+        {
+            "Title": "Nana",
+            "Author": "Ai Yazawa",
+            "Anime": "Nana",
+            "Artist": "Ai Yazawa",
+            "Animeurl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781421518794/nana-vol-12-9781421518794_hr.jpg",
+            "Language": "Japanese",
+            "Genres": ["Josei", "Drama", "Romance"],
+            "Publishers": ["Shueisha"],
+            "Publishinghouses": ["Shueisha"],
+            "Originalvalue": 500,
+            "previousvalue": 450,
+            "Size": [13, 18],
+            "Marketprice": [480, 450, 430],
+            "Aboutmanga": [
+                "Nana is a story about two young women who share the same name and their contrasting lives in Tokyo.",
+                "The manga explores themes of friendship, love, music, and personal growth in a mature and emotional tone."
+            ],
+            "Currentoffer": ["10% off for bulk orders", "Free poster with first 5 volumes"],
+            "No_of_Likes": 3500,
+            "No_of_Disikes": 120,
+            "previousoffer": "5% off last month",
+            "Status": "Completed",
+            "Agegroup": 18,
+            "Status_age_wise": "Adult",
+            "versions": "Black & White",
+            "Volumes": [14],
+            "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Nana_Volume_1.jpg/220px-Nana_Volume_1.jpg",
+            "Releasedate": "2023-8-10",
+            "Instock": true,
+            "Instockno": 120,
+            "Characters": [
+                {
+                    "Name": "Nana Osaki",
+                    "Penname": "",
+                    "Role": "Protagonist",
+                    "Imageurl": "https://static.wikia.nocookie.net/nana/images/3/35/Nana_Osaki.png"
+                },
+                {
+                    "Name": "Nana Komatsu",
+                    "Penname": "Hachi",
+                    "Role": "Protagonist",
+                    "Imageurl": "https://static.wikia.nocookie.net/nana/images/4/4e/Nana_Komatsu.png"
+                },
+                {
+                    "Name": "Ren Honjo",
+                    "Penname": "",
+                    "Role": "Love-Interest",
+                    "Imageurl": "https://static.wikia.nocookie.net/nana/images/1/18/Ren_Honjo.png"
+                },
+                {
+                    "Name": "Takumi Ichinose",
+                    "Penname": "",
+                    "Role": "Supporting Character",
+                    "Imageurl": "https://static.wikia.nocookie.net/nana/images/2/28/Takumi_Ichinose.png"
+                },
+                {
+                    "Name": "Yasu",
+                    "Penname": "",
+                    "Role": "Supporting Character",
+                    "Imageurl": "https://static.wikia.nocookie.net/nana/images/8/82/Yasu.png"
+                }
+            ],
+            "Reviewers_detail": [
+                {
+                    "ReviewerName": "MangaFan01",
+                    "Rating": 5,
+                    "Review": "Nana has deep emotional storytelling and unforgettable characters.",
+                    "date": "2023-8-10",
+                    "Overallexperience": "Excellent"
+                }
+            ],
+            "Volume": [
+                {
+                    "Currentvolume_no": "1",
+                    "Currentvolume_name": "Nana Volume 1",
+                    "No_ofuser_buy": "2000",
+                    "No_ofuser_refunded": "50",
+                    "Info_about_volume": "Introduction to Nana Osaki and Nana Komatsu's lives",
+                    "No_ofchapters": 10,
+                    "No_ofpages": 192,
+                    "Modifiedvolume_name": "None",
+                    "Modifiedvolume_info": "",
+                    "Modifiedvolume_no_of_pages": 0
+                }
+            ],
+            "NextMangaVolume": [{"Nexturls": "https://manga.example.com/nana/2"}],
+            "PreviousMangaVolume": [],
+            "Comparepopularity": [
+                {
+                    "Currentvolume": "1",
+                    "Currentvolumedate": "2023-8-1",
+                    "Current_volumeLikes": 1200,
+                    "Current_volumeDislikes": 30,
+                    "Total_Current_volumerating_no": 1230,
+                    "Previousvolume": "0",
+                    "PreviousvolumeLikes": 0,
+                    "PreviousvolumeDislikes": 0,
+                    "Total_Previous_volumerating_no": 0
+                }
+            ]
+        }
+    ]
+},
+{
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+{
+            "Title": "Paradise Kiss",
+            "Author": "Ai Yazawa",
+            "Anime": "Paradise Kiss",
+            "Artist": "Ai Yazawa",
+            "Animeurl": "https://media.kitsu.app/manga/poster_images/76/original.jpg",
+            "Language": "Japanese",
+            "Genres": ["Josei", "Drama", "Romance", "Fashion"],
+            "Publishers": ["Shodensha"],
+            "Publishinghouses": ["Shodensha"],
+            "Originalvalue": 600,
+            "previousvalue": 550,
+            "Size": [13, 18],
+            "Marketprice": [570, 540, 520],
+            "Aboutmanga": [
+                "Paradise Kiss follows the story of Yukari Hayasaka, a high school student who gets involved with a group of fashion design students.",
+                "It explores themes of self-discovery, art, and romance."
+            ],
+            "Currentoffer": ["15% off on volumes 1-5", "Free fashion sketchbook with full set"],
+            "No_of_Likes": 2800,
+            "No_of_Disikes": 80,
+            "previousoffer": "10% off last month",
+            "Status": "Completed",
+            "Agegroup": 18,
+            "Status_age_wise": "Adult",
+            "versions": "Black & White",
+            "Volumes": [6],
+            "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Paradise_Kiss_cover_01.jpg/220px-Paradise_Kiss_cover_01.jpg",
+            "Releasedate": "1999-4-10",
+            "Instock": true,
+            "Instockno": 90,
+            "Characters": [
+                {
+                    "Name": "Yukari Hayasaka",
+                    "Penname": "Caroline",
+                    "Role": "Protagonist",
+                    "Imageurl": "https://static.wikia.nocookie.net/paradisekiss/images/9/9b/Yukari_Hayasaka.png"
+                },
+                {
+                    "Name": "George Koizumi",
+                    "Penname": "",
+                    "Role": "Love-Interest",
+                    "Imageurl": "https://static.wikia.nocookie.net/paradisekiss/images/f/f3/George_Koizumi.png"
+                },
+                {
+                    "Name": "Arashi Nagase",
+                    "Penname": "",
+                    "Role": "Supporting Character",
+                    "Imageurl": "https://static.wikia.nocookie.net/paradisekiss/images/5/57/Arashi_Nagase.png"
+                },
+                {
+                    "Name": "Isabella Yamamoto",
+                    "Penname": "",
+                    "Role": "Supporting Character",
+                    "Imageurl": "https://static.wikia.nocookie.net/paradisekiss/images/d/d0/Isabella_Yamamoto.png"
+                },
+                {
+                    "Name": "Miwako Sakurada",
+                    "Penname": "",
+                    "Role": "Supporting Character",
+                    "Imageurl": "https://static.wikia.nocookie.net/paradisekiss/images/e/e1/Miwako_Sakurada.png"
+                }
+            ],
+            "Reviewers_detail": [
+                {
+                    "ReviewerName": "FashionMangaLover",
+                    "Rating": 5,
+                    "Review": "Beautifully illustrated with a heartfelt story and fashion.",
+                    "date": "2023-9-15",
+                    "Overallexperience": "Awesome"
+                }
+            ],
+            "Volume": [
+                {
+                    "Currentvolume_no": "1",
+                    "Currentvolume_name": "Paradise Kiss Volume 1",
+                    "No_ofuser_buy": "1500",
+                    "No_ofuser_refunded": "20",
+                    "Info_about_volume": "Introduction to Yukari and Paradise Kiss group",
+                    "No_ofchapters": 8,
+                    "No_ofpages": 200,
+                    "Modifiedvolume_name": "None",
+                    "Modifiedvolume_info": "",
+                    "Modifiedvolume_no_of_pages": 0
+                }
+            ],
+            "NextMangaVolume": [{"Nexturls": "https://manga.example.com/paradisekiss/2"}],
+            "PreviousMangaVolume": [],
+            "Comparepopularity": [
+                {
+                    "Currentvolume": "1",
+                    "Currentvolumedate": "2023-9-1",
+                    "Current_volumeLikes": 1100,
+                    "Current_volumeDislikes": 25,
+                    "Total_Current_volumerating_no": 1125,
+                    "Previousvolume": "0",
+                    "PreviousvolumeLikes": 0,
+                    "PreviousvolumeDislikes": 0,
+                    "Total_Previous_volumerating_no": 0
+                }
+            ]
+        }
+      ]
+      },
+         {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Chihayafuru",
+        "Author": "Yuki Suetsugu",
+        "Anime": "Chihayafuru",
+        "Artist": "Yuki Suetsugu",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/23862/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Sports", "Drama"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Be Love"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [10.99, 8.99],
+        "Aboutmanga": ["A story about competitive karuta players pursuing their passion"],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 3200,
+        "No_of_Disikes": 45,
+        "previousoffer": "10% off",
+        "Status": "Ongoing",
+        "Agegroup": 15,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [50],
+        "Image": "https://example.com/chihayafuru_cover.jpg",
+        "Releasedate": "2007-12-28",
+        "Instock": true,
+        "Instockno": 67,
+        "Characters": [
+          {
+            "Name": "Chihaya Ayase",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/chihaya.jpg"
+          },
+          {
+            "Name": "Taichi Mashima",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/taichi.jpg"
+          },
+          {
+            "Name": "Arata Wataya",
+            "Penname": "",
+            "Role": "Tritagonist",
+            "Imageurl": "https://example.com/arata.jpg"
+          },
+          {
+            "Name": "Kanade Oe",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/kanade.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "KarutaFan",
+            "Rating": 5,
+            "Review": "Made me appreciate traditional Japanese card games!",
+            "date": "2023-06-18",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Dream",
+            "No_ofuser_buy": "420",
+            "No_ofuser_refunded": "3",
+            "Info_about_volume": "Introduction to competitive karuta",
+            "No_ofchapters": 8,
+            "No_ofpages": 192
+          }
+        ],
+        "NextMangaVolume": [
+          {
+            "Nexturls": "/manga/chihayafuru-vol2"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Current_volumeLikes": 890,
+            "Current_volumeDislikes": 12,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Honey and Clover",
+        "Author": "Chica Umino",
+        "Anime": "Honey and Clover",
+        "Artist": "Chica Umino",
+        "Animeurl": "https://media.kitsu.app/manga/cover_images/2198/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Slice of Life", "Romance"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["CUTiEcomic"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["Art college students navigating love and adulthood"],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 2800,
+        "No_of_Disikes": 35,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 17,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [10],
+        "Image": "https://example.com/honeyclover_cover.jpg",
+        "Releasedate": "2000-06-24",
+        "Instock": true,
+        "Instockno": 42,
+        "Characters": [
+          {
+            "Name": "Yuuta Takemoto",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yuuta.jpg"
+          },
+          {
+            "Name": "Hagu Hanamoto",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/hagu.jpg"
+          },
+          {
+            "Name": "Shinobu Morita",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/shinobu.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Spring",
+            "No_ofuser_buy": "380",
+            "No_ofuser_refunded": "5",
+            "Info_about_volume": "Introduces the main characters",
+            "No_ofchapters": 7,
+            "No_ofpages": 180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Nodame Cantabile",
+        "Author": "Tomoko Ninomiya",
+        "Anime": "Nodame Cantabile",
+        "Artist": "Tomoko Ninomiya",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/941/medium.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Romance", "Music"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Kiss"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [10.99, 8.99],
+        "Aboutmanga": ["A talented pianist and his eccentric classmate pursue musical careers"],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 3100,
+        "No_of_Disikes": 28,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [25],
+        "Image": "https://example.com/nodame_cover.jpg",
+        "Releasedate": "2001-07-10",
+        "Instock": true,
+        "Instockno": 53,
+        "Characters": [
+          {
+            "Name": "Shinichi Chiaki",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/chiaki.jpg"
+          },
+          {
+            "Name": "Megumi Noda",
+            "Penname": "Nodame",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/nodame_char.jpg"
+          },
+          {
+            "Name": "Masumi",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/masumi.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Pianist",
+            "No_ofuser_buy": "450",
+            "No_ofuser_refunded": "2",
+            "Info_about_volume": "Chiaki meets Nodame",
+            "No_ofchapters": 6,
+            "No_ofpages": 190
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Kuragehime (Princess Jellyfish)",
+        "Author": "Akiko Higashimura",
+        "Anime": "Princess Jellyfish",
+        "Artist": "Akiko Higashimura",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/5531/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Comedy", "Slice of Life"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Kiss"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A group of otaku women and their encounter with a stylish cross-dresser"],
+        "Currentoffer": ["10% off"],
+        "No_of_Likes": 2400,
+        "No_of_Disikes": 40,
+        "previousoffer": "5% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [17],
+        "Image": "https://example.com/kuragehime_cover.jpg",
+        "Releasedate": "2008-07-25",
+        "Instock": true,
+        "Instockno": 38,
+        "Characters": [
+          {
+            "Name": "Tsukimi Kurashita",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/tsukimi.jpg"
+          },
+          {
+            "Name": "Kuranosuke Koibuchi",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/kuranosuke.jpg"
+          },
+          {
+            "Name": "Chieko",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/chieko.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Jellyfish",
+            "No_ofuser_buy": "320",
+            "No_ofuser_refunded": "4",
+            "Info_about_volume": "Tsukimi meets Kuranosuke",
+            "No_ofchapters": 5,
+            "No_ofpages": 170
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Gokusen",
+        "Author": "Kozueko Morimoto",
+        "Anime": "Gokusen",
+        "Artist": "Kozueko Morimoto",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/2354/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Comedy", "Drama"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["You"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [9.99, 7.99],
+        "Aboutmanga": ["A yakuza heiress becomes a teacher for delinquent students"],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 2700,
+        "No_of_Disikes": 38,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [15],
+        "Image": "https://example.com/gokusen_cover.jpg",
+        "Releasedate": "2000-02-15",
+        "Instock": true,
+        "Instockno": 47,
+        "Characters": [
+          {
+            "Name": "Kumiko Yamaguchi",
+            "Penname": "Yankumi",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yankumi.jpg"
+          },
+          {
+            "Name": "Shin Sawada",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/shin.jpg"
+          },
+          {
+            "Name": "Takeshi Noda",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/noda.jpg"
+          },
+          {
+            "Name": "Kazuaki Sano",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/sano.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Delinquent Class",
+            "No_ofuser_buy": "410",
+            "No_ofuser_refunded": "6",
+            "Info_about_volume": "Yankumi meets her problematic class",
+            "No_ofchapters": 7,
+            "No_ofpages": 185
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TeachFan",
+            "Rating": 5,
+            "Review": "Perfect blend of comedy and heartwarming moments",
+            "date": "2023-04-22",
+            "Overallexperience": "Excellent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Ooku: The Inner Chambers",
+        "Author": "Fumi Yoshinaga",
+        "Anime": "Ooku",
+        "Artist": "Fumi Yoshinaga",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/9576/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Historical", "Drama"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["Melody"],
+        "Originalvalue": 12.99,
+        "previousvalue": 10.99,
+        "Size": [18.2, 12.8, 3.0],
+        "Marketprice": [12.99, 10.99],
+        "Aboutmanga": ["Alternate history of Edo period with reversed gender roles"],
+        "Currentoffer": ["25% off"],
+        "No_of_Likes": 1900,
+        "No_of_Disikes": 55,
+        "previousoffer": "20% off",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "adult",
+        "versions": "black&white",
+        "Volumes": [19],
+        "Image": "https://example.com/ooku_cover.jpg",
+        "Releasedate": "2005-01-28",
+        "Instock": true,
+        "Instockno": 29,
+        "Characters": [
+          {
+            "Name": "Yoshimune Tokugawa",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yoshimune.jpg"
+          },
+          {
+            "Name": "Mizuno Yunoshin",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/mizuno.jpg"
+          },
+          {
+            "Name": "Kasuga no Tsubone",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/kasuga.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Chrysanthemum Curtain",
+            "No_ofuser_buy": "280",
+            "No_ofuser_refunded": "9",
+            "Info_about_volume": "Introduction to the gender-reversed shogunate",
+            "No_ofchapters": 6,
+            "No_ofpages": 210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Shojo",
+    "Type": [
+      {
+        "Title": "Basara",
+        "Author": "Yumi Tamura",
+        "Anime": "",
+        "Artist": "Yumi Tamura",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/2128/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Shojo", "Adventure", "Romance"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Betsucomi"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [17.8, 11.4, 2.8],
+        "Marketprice": [11.99, 9.99],
+        "Aboutmanga": ["Post-apocalyptic tale of a girl pretending to be her dead twin brother"],
+        "Currentoffer": ["15% off"],
+        "No_of_Likes": 2500,
+        "No_of_Disikes": 42,
+        "previousoffer": "10% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [27],
+        "Image": "https://example.com/basara_cover.jpg",
+        "Releasedate": "1990-09-26",
+        "Instock": true,
+        "Instockno": 33,
+        "Characters": [
+          {
+            "Name": "Sarasa",
+            "Penname": "Tatara",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/sarasa.jpg"
+          },
+          {
+            "Name": "Shuri",
+            "Penname": "Red King",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/shuri.jpg"
+          },
+          {
+            "Name": "Ageha",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://example.com/ageha.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Destiny's Child",
+            "No_ofuser_buy": "350",
+            "No_ofuser_refunded": "7",
+            "Info_about_volume": "Sarasa assumes her brother's identity",
+            "No_ofchapters": 8,
+            "No_ofpages": 195
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Josei",
+    "Type": [
+      {
+        "Title": "Sakamichi no Apollon (Kids on the Slope)",
+        "Author": "Yuki Kodama",
+        "Anime": "Kids on the Slope",
+        "Artist": "Yuki Kodama",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/22065/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Josei", "Music", "Drama"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Monthly Flowers"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [10.99, 8.99],
+        "Aboutmanga": ["1960s coming-of-age story centered around jazz music"],
+        "Currentoffer": ["20% off"],
+        "No_of_Likes": 2300,
+        "No_of_Disikes": 30,
+        "previousoffer": "15% off",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "teenagers",
+        "versions": "black&white",
+        "Volumes": [9],
+        "Image": "https://example.com/apollon_cover.jpg",
+        "Releasedate": "2007-09-28",
+        "Instock": true,
+        "Instockno": 41,
+        "Characters": [
+          {
+            "Name": "Kaoru Nishimi",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/kaoru.jpg"
+          },
+          {
+            "Name": "Sentaro Kawabuchi",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://example.com/sentaro.jpg"
+          },
+          {
+            "Name": "Ritsuko Mukae",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/ritsuko.jpg"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Moonglow",
+            "No_ofuser_buy": "390",
+            "No_ofuser_refunded": "4",
+            "Info_about_volume": "Kaoru meets Sentaro and discovers jazz",
+            "No_ofchapters": 6,
+            "No_ofpages": 188
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "JazzLover",
+            "Rating": 5,
+            "Review": "Made me fall in love with jazz music",
+            "date": "2023-03-15",
+            "Overallexperience": "Excellent"
+          }
+        ]
+      }
+    ]
+  }
+]

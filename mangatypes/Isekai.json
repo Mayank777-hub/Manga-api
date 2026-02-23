@@ -1,0 +1,1032 @@
+[
+    {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "That Time I Got Reincarnated as a Slime",
+        "Author": "Fuse",
+        "Anime": "Tensura",
+        "Artist": "Taiki Kawakami",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/35483/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Fantasy", "Adventure"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Monthly Shonen Sirius"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.5, 11.3, 2.0],
+        "Marketprice": [9.99, 8.99, 7.99],
+        "Aboutmanga": [
+          "A man reincarnated as a slime monster builds a monster nation",
+          "Features creative world-building and political intrigue"
+        ],
+        "Currentoffer": ["Slime keychain with vol.1-3"],
+        "No_of_Likes": 16800,
+        "No_of_Disikes": 190,
+        "previousoffer": "10% off nation-building bundle",
+        "Status": "Ongoing",
+        "Agegroup": 14,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [21],
+        "Image": "https://m.media-amazon.com/images/I/91XKZ5+1VBL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2015-03-26",
+        "Instock": true,
+        "Instockno": 132,
+        "Characters": [
+          {
+            "Name": "Rimuru Tempest",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://tensura.fandom.com/wiki/Rimuru_Tempest?file=Rimuru_Anime_Season_2_Design.png"
+          },
+          {
+            "Name": "Shizue Izawa",
+            "Penname": "",
+            "Role": "Mentor",
+            "Imageurl": "https://tensura.fandom.com/wiki/Shizue_Izawa?file=Shizue_Anime_Design.png"
+          },
+          {
+            "Name": "Milim Nava",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://tensura.fandom.com/wiki/Milim_Nava?file=Milim_Anime_Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "MonsterLord",
+            "Rating": 5,
+            "Review": "Rimuru's journey from slime to demon lord is addicting",
+            "date": "2023-11-20T00:00:00Z",
+            "Overallexperience": "Awesome"
+          },
+          {
+            "ReviewerName": "WorldBuilder",
+            "Rating": 5,
+            "Review": "The most detailed fantasy world in isekai history",
+            "date": "2023-10-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Storm Dragon",
+            "No_ofuser_buy": "3800",
+            "No_ofuser_refunded": "42",
+            "Info_about_volume": "Rimuru meets Veldora and begins his journey",
+            "No_ofchapters": 6,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/tensura/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/tensura/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-08-15T00:00:00Z",
+            "Current_volumeLikes": 2900,
+            "Current_volumeDislikes": 75,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 2100,
+            "PreviousvolumeDislikes": 95,
+            "Total_Previous_volumerating_no": 4.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "Mushoku Tensei: Jobless Reincarnation",
+        "Author": "Rifujin na Magonote",
+        "Anime": "Mushoku Tensei",
+        "Artist": "Yuka Fujikawa",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/25541/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Fantasy", "Adventure"],
+        "Publishers": ["Media Factory"],
+        "Publishinghouses": ["Comic Flapper"],
+        "Originalvalue": 12.99,
+        "previousvalue": 9.99,
+        "Size": [17.8, 11.4, 2.5],
+        "Marketprice": [11.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A NEET gets reincarnated in a fantasy world with all his memories",
+          "Pioneered modern isekai tropes with deep character development"
+        ],
+        "Currentoffer": ["Limited edition magic circle poster"],
+        "No_of_Likes": 18500,
+        "No_of_Disikes": 220,
+        "previousoffer": "15% off season 1 collection",
+        "Status": "Completed",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [26],
+        "Image": "https://m.media-amazon.com/images/I/81VhUYtR1FL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2014-05-23",
+        "Instock": true,
+        "Instockno": 147,
+        "Characters": [
+          {
+            "Name": "Rudeus Greyrat",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://mushokutensei.fandom.com/wiki/Rudeus_Greyrat?file=Rudeus_anime_design_1.png"
+          },
+          {
+            "Name": "Eris Boreas Greyrat",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://mushokutensei.fandom.com/wiki/Eris_Boreas_Greyrat?file=Eris_anime_design_1.png"
+          },
+          {
+            "Name": "Roxy Migurdia",
+            "Penname": "",
+            "Role": "Mentor",
+            "Imageurl": "https://mushokutensei.fandom.com/wiki/Roxy_Migurdia?file=Roxy_anime_design_1.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "IsekaiConnoisseur",
+            "Rating": 5,
+            "Review": "The gold standard for character-driven isekai storytelling",
+            "date": "2023-11-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "FantasyLover22",
+            "Rating": 4,
+            "Review": "Rudeus' growth from NEET to hero is incredibly satisfying",
+            "date": "2023-10-28T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Childhood",
+            "No_ofuser_buy": "4200",
+            "No_ofuser_refunded": "35",
+            "Info_about_volume": "Rudeus' rebirth and early magical training",
+            "No_ofchapters": 7,
+            "No_ofpages": 192,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/mushoku-tensei/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/mushoku-tensei/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-09-10T00:00:00Z",
+            "Current_volumeLikes": 3200,
+            "Current_volumeDislikes": 85,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1800,
+            "PreviousvolumeDislikes": 120,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "Re:Zero − Starting Life in Another World",
+        "Author": "Tappei Nagatsuki",
+        "Anime": "Re:Zero",
+        "Artist": "Shinichirou Otsuka",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/26776/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Dark Fantasy", "Drama"],
+        "Publishers": ["Media Factory"],
+        "Publishinghouses": ["Monthly Comic Alive"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [17.5, 11.4, 2.0],
+        "Marketprice": [10.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A NEET gains the power to 'Return by Death' in a fantasy world",
+          "Brutal time-loop mechanics with psychological depth"
+        ],
+        "Currentoffer": ["Bookmark with save point design"],
+        "No_of_Likes": 15200,
+        "No_of_Disikes": 250,
+        "previousoffer": "15% off during isekai week",
+        "Status": "Ongoing",
+        "Agegroup": 17,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [15],
+        "Image": "https://m.media-amazon.com/images/I/91XKZ5+1VBL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2014-06-27",
+        "Instock": true,
+        "Instockno": 118,
+        "Characters": [
+          {
+            "Name": "Subaru Natsuki",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://rezero.fandom.com/wiki/Subaru_Natsuki?file=Subaru_Anime_Design_2.png"
+          },
+          {
+            "Name": "Emilia",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://rezero.fandom.com/wiki/Emilia?file=Emilia_Anime_Design_2.png"
+          },
+          {
+            "Name": "Rem",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://rezero.fandom.com/wiki/Rem?file=Rem_Anime_Design_2.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TimeLoopExpert",
+            "Rating": 5,
+            "Review": "Subaru's suffering creates the most compelling character growth",
+            "date": "2023-12-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "WitchCultFan",
+            "Rating": 4,
+            "Review": "The lore gets deeper with every volume",
+            "date": "2023-11-18T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Death That Starts It All",
+            "No_ofuser_buy": "3500",
+            "No_ofuser_refunded": "40",
+            "Info_about_volume": "Subaru's first encounters with Return by Death",
+            "No_ofchapters": 5,
+            "No_ofpages": 176,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/rezero/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/rezero/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-20T00:00:00Z",
+            "Current_volumeLikes": 2700,
+            "Current_volumeDislikes": 90,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1900,
+            "PreviousvolumeDislikes": 110,
+            "Total_Previous_volumerating_no": 4.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "The Rising of the Shield Hero",
+        "Author": "Aneko Yusagi",
+        "Anime": "Shield Hero",
+        "Artist": "Aiya Kyu",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/25524/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Fantasy", "Drama"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Monthly Comic Flapper"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.2, 11.3, 1.9],
+        "Marketprice": [9.99, 8.99, 7.99],
+        "Aboutmanga": [
+          "Summoned as the weakest hero, Naofumi rises through betrayal and perseverance",
+          "Features RPG mechanics and slave-to-family character dynamics"
+        ],
+        "Currentoffer": ["Shield replica sticker"],
+        "No_of_Likes": 14200,
+        "No_of_Disikes": 300,
+        "previousoffer": "10% off hero bundle",
+        "Status": "Ongoing",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [22],
+        "Image": "https://m.media-amazon.com/images/I/91XKZ5+1VBL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2013-08-22",
+        "Instock": true,
+        "Instockno": 105,
+        "Characters": [
+          {
+            "Name": "Naofumi Iwatani",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://shieldhero.fandom.com/wiki/Naofumi_Iwatani?file=Naofumi_Anime_Season_2_Design.png"
+          },
+          {
+            "Name": "Raphtalia",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://shieldhero.fandom.com/wiki/Raphtalia?file=Raphtalia_Anime_Season_2_Design.png"
+          },
+          {
+            "Name": "Filo",
+            "Penname": "",
+            "Role": "Partner/Mascot",
+            "Imageurl": "https://shieldhero.fandom.com/wiki/Filo?file=Filo_Anime_Season_2_Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "UnderdogLover",
+            "Rating": 5,
+            "Review": "Naofumi's journey from despised to respected is cathartic",
+            "date": "2023-12-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "RPGMechanicFan",
+            "Rating": 4,
+            "Review": "Best implementation of game mechanics in isekai",
+            "date": "2023-11-30T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The False Accusation",
+            "No_ofuser_buy": "3200",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Naofumi's betrayal and meeting Raphtalia",
+            "No_ofchapters": 6,
+            "No_ofpages": 184,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/shieldhero/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/shieldhero/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-11-05T00:00:00Z",
+            "Current_volumeLikes": 2500,
+            "Current_volumeDislikes": 95,
+            "Total_Current_volumerating_no": 4.5,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1700,
+            "PreviousvolumeDislikes": 120,
+            "Total_Previous_volumerating_no": 4.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "Overlord",
+        "Author": "Kugane Maruyama",
+        "Anime": "Overlord",
+        "Artist": "Hugin Miyama",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/26852/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Dark Fantasy", "Villain Protagonist"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Comic Flapper"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [17.8, 11.5, 2.1],
+        "Marketprice": [10.99, 9.99, 8.99],
+        "Aboutmanga": [
+          "A VRMMO player becomes trapped in the game as his lich avatar",
+          "Features villain protagonist conquering the new world"
+        ],
+        "Currentoffer": ["Nazarick map poster"],
+        "No_of_Likes": 13800,
+        "No_of_Disikes": 180,
+        "previousoffer": "15% off dark fantasy bundle",
+        "Status": "Ongoing",
+        "Agegroup": 17,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [16],
+        "Image": "https://m.media-amazon.com/images/I/91XKZ5+1VBL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2014-11-26",
+        "Instock": true,
+        "Instockno": 92,
+        "Characters": [
+          {
+            "Name": "Ainz Ooal Gown",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://overlordmaruyama.fandom.com/wiki/Ainz_Ooal_Gown?file=Ainz_Anime_Season_3_Design.png"
+          },
+          {
+            "Name": "Albedo",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://overlordmaruyama.fandom.com/wiki/Albedo?file=Albedo_Anime_Season_3_Design.png"
+          },
+          {
+            "Name": "Shalltear Bloodfallen",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://overlordmaruyama.fandom.com/wiki/Shalltear_Bloodfallen?file=Shalltear_Anime_Season_3_Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "VillainEnjoyer",
+            "Rating": 5,
+            "Review": "Finally an isekai where the MC embraces being OP",
+            "date": "2023-12-18T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "NazarickResident",
+            "Rating": 5,
+            "Review": "The Floor Guardians are the best supporting cast in isekai",
+            "date": "2023-11-22T00:00:00Z",
+            "Overallexperience": "Awesome"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Undead King",
+            "No_ofuser_buy": "3100",
+            "No_ofuser_refunded": "38",
+            "Info_about_volume": "Ainz awakens in the New World and tests his powers",
+            "No_ofchapters": 5,
+            "No_ofpages": 188,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/overlord/2"}],
+        "PreviousMangaVolume": [{"Previous_urls": "/manga/overlord/0"}],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-15T00:00:00Z",
+            "Current_volumeLikes": 2300,
+            "Current_volumeDislikes": 80,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "Vol.0",
+            "PreviousvolumeLikes": 1600,
+            "PreviousvolumeDislikes": 100,
+            "Total_Previous_volumerating_no": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "Konosuba: God's Blessing on This Wonderful World!",
+        "Author": "Natsume Akatsuki",
+        "Anime": "Konosuba",
+        "Artist": "Masahito Watari",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/26844/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Comedy", "Fantasy", "Adventure"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Fujimi Shobo"],
+        "Originalvalue": 9.99,
+        "previousvalue": 7.99,
+        "Size": [17.8, 11.5, 1.8],
+        "Marketprice": [8.99, 7.50, 6.99],
+        "Aboutmanga": [
+          "A NEET dies and gets reincarnated with a useless goddess",
+          "Hilarious parody of isekai tropes with dysfunctional party"
+        ],
+        "Currentoffer": ["Free Aqua keychain with purchase"],
+        "No_of_Likes": 12500,
+        "No_of_Disikes": 350,
+        "previousoffer": "20% off first purchase",
+        "Status": "Ongoing",
+        "Agegroup": 15,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [17],
+        "Image": "https://m.media-amazon.com/images/I/81j5dUdN1IL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2014-09-09",
+        "Instock": true,
+        "Instockno": 342,
+        "Characters": [
+          {
+            "Name": "Kazuma Satou",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://konosuba.fandom.com/wiki/Kazuma_Satou?file=Kazuma+Anime+Design.png"
+          },
+          {
+            "Name": "Aqua",
+            "Penname": "",
+            "Role": "Supporting Protagonist",
+            "Imageurl": "https://konosuba.fandom.com/wiki/Aqua?file=Aqua+Anime+Design.png"
+          },
+          {
+            "Name": "Megumin",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://konosuba.fandom.com/wiki/Megumin?file=Megumin+Anime+Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ExplosionLover",
+            "Rating": 5,
+            "Review": "Megumin makes this worth reading all by herself",
+            "date": "2023-12-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "IsekaiCritic",
+            "Rating": 4,
+            "Review": "Best comedy isekai but plot is secondary to gags",
+            "date": "2023-11-30T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Oh! My Useless Goddess!",
+            "No_ofuser_buy": "8500",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Kazuma and Aqua begin their dysfunctional adventure",
+            "No_ofchapters": 6,
+            "No_ofpages": 192,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/konosuba/2"}],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-20T00:00:00Z",
+            "Current_volumeLikes": 3200,
+            "Current_volumeDislikes": 120,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "The Eminence in Shadow",
+        "Author": "Daisuke Aizawa",
+        "Anime": "The Eminence in Shadow",
+        "Artist": "Touzai",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/54238/original.png",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Action", "Comedy", "Secret Identity"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Comic Walker"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.5, 2.0],
+        "Marketprice": [9.99, 8.50, 7.99],
+        "Aboutmanga": [
+          "Reincarnated MC builds secret organization for his chuunibyou fantasies",
+          "Accidentally becomes real underworld power"
+        ],
+        "Currentoffer": ["Shadow Garden emblem sticker"],
+        "No_of_Likes": 9800,
+        "No_of_Disikes": 200,
+        "previousoffer": "10% off secret society bundle",
+        "Status": "Ongoing",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [7],
+        "Image": "https://m.media-amazon.com/images/I/81JQYqVzOIL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2018-12-26",
+        "Instock": true,
+        "Instockno": 78,
+        "Characters": [
+          {
+            "Name": "Cid Kagenou",
+            "Penname": "Shadow",
+            "Role": "Protagonist",
+            "Imageurl": "https://eminenceinshadow.fandom.com/wiki/Cid_Kagenou?file=Cid+Kagenou+Anime+Design.png"
+          },
+          {
+            "Name": "Alpha",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://eminenceinshadow.fandom.com/wiki/Alpha?file=Alpha+Anime+Design.png"
+          },
+          {
+            "Name": "Alexia Midgar",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://eminenceinshadow.fandom.com/wiki/Alexia_Midgar?file=Alexia+Anime+Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ShadowSimp",
+            "Rating": 5,
+            "Review": "Cid's delusions becoming reality is comedy gold",
+            "date": "2023-12-10T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "SevenShadesFan",
+            "Rating": 4,
+            "Review": "The Shadow Garden girls steal every scene",
+            "date": "2023-11-25T00:00:00Z",
+            "Overallexperience": "Awesome"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "I Am...",
+            "No_ofuser_buy": "4200",
+            "No_ofuser_refunded": "32",
+            "Info_about_volume": "Cid establishes his Shadow persona and recruits Alpha",
+            "No_ofchapters": 5,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/eminence/2"}],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-18T00:00:00Z",
+            "Current_volumeLikes": 2800,
+            "Current_volumeDislikes": 90,
+            "Total_Current_volumerating_no": 4.7,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "So I'm a Spider, So What?",
+        "Author": "Okina Baba",
+        "Anime": "Kumo Desu ga, Nani ka?",
+        "Artist": "Asahiro Kakashi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/37173/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Monster Protagonist", "RPG Mechanics"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Young Ace UP"],
+        "Originalvalue": 10.99,
+        "previousvalue": 8.99,
+        "Size": [17.8, 11.5, 2.0],
+        "Marketprice": [9.99, 8.50, 7.99],
+        "Aboutmanga": [
+          "Class reincarnated into fantasy world - protagonist becomes a spider monster",
+          "Survival story with RPG-like progression system"
+        ],
+        "Currentoffer": ["Spider silk bookmark"],
+        "No_of_Likes": 11200,
+        "No_of_Disikes": 250,
+        "previousoffer": "15% off monster isekai bundle",
+        "Status": "Ongoing",
+        "Agegroup": 15,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [12],
+        "Image": "https://m.media-amazon.com/images/I/81U4UfQJmIL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2016-07-26",
+        "Instock": true,
+        "Instockno": 65,
+        "Characters": [
+          {
+            "Name": "Kumoko",
+            "Penname": "White",
+            "Role": "Protagonist",
+            "Imageurl": "https://kumodesu.fandom.com/wiki/Shiraori?file=Kumoko+Anime+Design.png"
+          },
+          {
+            "Name": "Ariel",
+            "Penname": "",
+            "Role": "Antagonist",
+            "Imageurl": "https://kumodesu.fandom.com/wiki/Ariel?file=Ariel+Anime+Design.png"
+          },
+          {
+            "Name": "Shun",
+            "Penname": "",
+            "Role": "Deuteragonist",
+            "Imageurl": "https://kumodesu.fandom.com/wiki/Shun?file=Shun+Anime+Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SpiderFan",
+            "Rating": 5,
+            "Review": "Kumoko's internal monologue is hilarious",
+            "date": "2023-12-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "SystemLover",
+            "Rating": 4,
+            "Review": "Best RPG system implementation in any isekai",
+            "date": "2023-11-20T00:00:00Z",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Hey, So I'm a Spider, So What?",
+            "No_ofuser_buy": "3800",
+            "No_ofuser_refunded": "28",
+            "Info_about_volume": "Kumoko begins her survival journey in the labyrinth",
+            "No_ofchapters": 6,
+            "No_ofpages": 184,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/kumodesu/2"}],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-15T00:00:00Z",
+            "Current_volumeLikes": 2600,
+            "Current_volumeDislikes": 85,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "No Game No Life",
+        "Author": "Yu Kamiya",
+        "Anime": "No Game No Life",
+        "Artist": "Yu Kamiya",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/5927/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Strategy", "Ecchi", "Fantasy"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["MF Bunko J"],
+        "Originalvalue": 11.99,
+        "previousvalue": 9.99,
+        "Size": [17.8, 11.5, 2.1],
+        "Marketprice": [10.99, 9.50, 8.99],
+        "Aboutmanga": [
+          "NEET siblings get transported to world where everything is decided by games",
+          "Genius protagonists outwit fantasy races through psychological battles"
+        ],
+        "Currentoffer": ["Immanity playing cards"],
+        "No_of_Likes": 14500,
+        "No_of_Disikes": 300,
+        "previousoffer": "20% off board game bundle",
+        "Status": "Ongoing",
+        "Agegroup": 16,
+        "Status_age_wise": "Teenagers",
+        "versions": "Colorful",
+        "Volumes": [12],
+        "Image": "https://m.media-amazon.com/images/I/81JQYqVzOIL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2012-04-25",
+        "Instock": true,
+        "Instockno": 88,
+        "Characters": [
+          {
+            "Name": "Sora",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://ngnl.fandom.com/wiki/Sora?file=Sora+Anime+Design.png"
+          },
+          {
+            "Name": "Shiro",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://ngnl.fandom.com/wiki/Shiro?file=Shiro+Anime+Design.png"
+          },
+          {
+            "Name": "Stephanie Dola",
+            "Penname": "",
+            "Role": "Supporting Character",
+            "Imageurl": "https://ngnl.fandom.com/wiki/Stephanie_Dola?file=Stephanie+Anime+Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "BlankFan",
+            "Rating": 5,
+            "Review": "Most clever game battles in any manga",
+            "date": "2023-12-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "TetEnjoyer",
+            "Rating": 4,
+            "Review": "Vibrant artstyle perfectly matches the crazy world",
+            "date": "2023-11-28T00:00:00Z",
+            "Overallexperience": "Awesome"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Beginner",
+            "No_ofuser_buy": "5200",
+            "No_ofuser_refunded": "42",
+            "Info_about_volume": "Sora and Shiro get summoned and beat Tet in chess",
+            "No_ofchapters": 5,
+            "No_ofpages": 196,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/ngnl/2"}],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-22T00:00:00Z",
+            "Current_volumeLikes": 3500,
+            "Current_volumeDislikes": 110,
+            "Total_Current_volumerating_no": 4.8,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Isekai",
+    "Type": [
+      {
+        "Title": "Saga of Tanya the Evil",
+        "Author": "Carlo Zen",
+        "Anime": "Youjo Senki",
+        "Artist": "Chika Tojo",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/37906/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Isekai", "Military", "Fantasy", "Reincarnation"],
+        "Publishers": ["Kadokawa Shoten"],
+        "Publishinghouses": ["Comic Flapper"],
+        "Originalvalue": 12.99,
+        "previousvalue": 10.99,
+        "Size": [17.8, 11.5, 2.2],
+        "Marketprice": [11.99, 10.50, 9.99],
+        "Aboutmanga": [
+          "Atheist salaryman reincarnated as magic girl in war-torn empire",
+          "Strategic military battles with WWI/WWII parallels"
+        ],
+        "Currentoffer": ["Imperial mage wing pin"],
+        "No_of_Likes": 10800,
+        "No_of_Disikes": 220,
+        "previousoffer": "10% off military isekai bundle",
+        "Status": "Ongoing",
+        "Agegroup": 17,
+        "Status_age_wise": "Teenagers",
+        "versions": "Black & White",
+        "Volumes": [23],
+        "Image": "https://m.media-amazon.com/images/I/81JQYqVzOIL._AC_UF1000,1000_QL80_.jpg",
+        "Releasedate": "2016-05-26",
+        "Instock": true,
+        "Instockno": 57,
+        "Characters": [
+          {
+            "Name": "Tanya Degurechaff",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://youjosenki.fandom.com/wiki/Tanya_Degurechaff?file=Tanya+Anime+Design.png"
+          },
+          {
+            "Name": "Being X",
+            "Penname": "",
+            "Role": "Antagonist",
+            "Imageurl": "https://youjosenki.fandom.com/wiki/Being_X?file=BeingX+Anime+Design.png"
+          },
+          {
+            "Name": "Viktoriya Ivanovna Serebryakov",
+            "Penname": "Visha",
+            "Role": "Supporting Character",
+            "Imageurl": "https://youjosenki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov?file=Visha+Anime+Design.png"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "WarHistoryBuff",
+            "Rating": 5,
+            "Review": "Most realistic military tactics in fantasy setting",
+            "date": "2023-12-08T00:00:00Z",
+            "Overallexperience": "Excellent"
+          },
+          {
+            "ReviewerName": "LoliHitlerHater",
+            "Rating": 3,
+            "Review": "Great strategy but protagonist is too unlikable",
+            "date": "2023-11-15T00:00:00Z",
+            "Overallexperience": "Neutral"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Deus lo Vult",
+            "No_ofuser_buy": "2900",
+            "No_ofuser_refunded": "25",
+            "Info_about_volume": "Tanya's rebirth and early military training",
+            "No_ofchapters": 4,
+            "No_ofpages": 176,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [{"Nexturls": "/manga/youjosenki/2"}],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol.1",
+            "Currentvolumedate": "2023-10-17T00:00:00Z",
+            "Current_volumeLikes": 2400,
+            "Current_volumeDislikes": 75,
+            "Total_Current_volumerating_no": 4.6,
+            "Previousvolume": "None",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Gojo Satoru 15.6-inch Laptop Sleeve",
+        "Brand": "CursedProtection",
+        "Model": "CP-GOJOSLEEVE156",
+        "Compatibility": ["15.6-inch Laptops", "MacBook Pro 16-inch"],
+        "Image": "https://example.com/images/gojo_laptopcover.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/gojo_cover1.jpg",
+          "https://example.com/gallery/gojo_cover2.jpg"
+        ],
+        "Color": ["Infinity Blue", "White"],
+        "Material": "Neoprene, Faux Leather",
+        "Connectivity": "N/A",
+        "Features": ["Shock Absorption", "Water Resistant", "Infinity Pattern Design", "Front Pocket", "Carry Handle"],
+        "Size": ["39.5cm x 28cm x 2.5cm"],
+        "Weight": 0.35,
+        "Originalvalue": 34.99,
+        "previousvalue": 39.99,
+        "Marketprice": 32.99,
+        "Currentoffer": ["Free JJK Stickers"],
+        "previousoffer": "Back-to-School Sale",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "CursedProtection Gear",
+          "Country": "USA",
+          "Address": "Los Angeles, CA",
+          "ContactEmail": "support@cursedprotection.com",
+          "ContactPhone": "+1-310-555-6789",
+          "Website": "https://cursedprotection.com",
+          "Warranty": "6 Month Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 12,
+        "Description": "Premium laptop sleeve featuring Gojo Satoru's Infinity technique pattern. Thick neoprene provides excellent shock absorption. Includes a front pocket for accessories and cables.",
+        "Releasedate": "2024-03-15T00:00:00.000Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DomainExpansionFan",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user1", "user2"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Perfect fit for my gaming laptop! The Infinity pattern looks amazing. Survived a drop from my desk too!",
+            "ReviewProfileImage": "default.png",
+            "date": "2024-04-01T14:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CP-GOJOSLEEVE156",
+            "CurrentModelLikes": 876,
+            "CurrentModelDislikes": 12,
+            "PreviousModel": "CP-SUKUNASLEEVE2023",
+            "PreviousModelLikes": 654,
+            "PreviousModelDislikes": 23,
+            "CurrentModelDate": "2024-03-15T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Demon Slayer Hashira Pattern Hard Shell Case",
+        "Brand": "HashiraArmor",
+        "Model": "HA-HASHIRASHELL13",
+        "Compatibility": ["13-inch MacBook Air", "13-inch Laptops"],
+        "Image": "https://example.com/images/hashira_laptopcase.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/hashira_case1.jpg"
+        ],
+        "Color": ["Hashira Pattern Multicolor"],
+        "Material": "Polycarbonate Hard Shell",
+        "Connectivity": "N/A",
+        "Features": ["Snap-On Design", "9 Hashira Symbols", "Scratch Protection", "Ventilation Cutouts", "Lightweight"],
+        "Size": ["13.3-inch"],
+        "Weight": 0.25,
+        "Originalvalue": 29.99,
+        "previousvalue": 34.99,
+        "Marketprice": 27.99,
+        "Currentoffer": ["Free Breathing Style Decals"],
+        "previousoffer": "Seasonal Discount",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "HashiraArmor Tech",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "support@hashiraarmor.jp",
+          "ContactPhone": "+81-3-1234-9876",
+          "Website": "https://hashiraarmor.jp",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 765,
+        "No_of_Disikes": 8,
+        "Description": "Hard shell case featuring all 9 Hashira symbols from Demon Slayer. Snap-on design provides full protection while maintaining slim profile. Perfect for MacBook Air users.",
+        "Releasedate": "2024-05-10T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Spy x Family Forger Family 14-inch Laptop Skin",
+        "Brand": "AniSkin",
+        "Model": "AS-FORGERFAMILY14",
+        "Compatibility": ["14-inch Laptops", "Most 14-inch Models"],
+        "Image": "https://example.com/images/spyfamily_laptopskin.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/spyfamily_skin1.jpg",
+          "https://example.com/gallery/spyfamily_skin2.jpg"
+        ],
+        "Color": ["Family Portrait Colors"],
+        "Material": "3M Vinyl, Removable Adhesive",
+        "Connectivity": "N/A",
+        "Features": ["Removable & Reusable", "Scratch Resistant", "No Residue", "Anya, Loid, Yor Designs", "Easy Application"],
+        "Size": ["14-inch Universal"],
+        "Weight": 0.08,
+        "Originalvalue": 19.99,
+        "previousvalue": 24.99,
+        "Marketprice": 17.99,
+        "Currentoffer": ["Free Application Squeegee"],
+        "previousoffer": "Launch Promotion",
+        "Warranty": "30 Days",
+        "Manufacturer": {
+          "Name": "AniSkin Decals",
+          "Country": "USA",
+          "Address": "Austin, TX",
+          "ContactEmail": "support@aniskin.com",
+          "ContactPhone": "+1-512-555-4321",
+          "Website": "https://aniskin.com",
+          "Warranty": "30 Day Satisfaction",
+          "Certified": false
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 543,
+        "No_of_Likes": 432,
+        "No_of_Disikes": 15,
+        "Description": "High-quality vinyl skin featuring the Forger family portrait. Removable without leaving residue. Comes with separate designs for top cover, palm rest, and trackpad areas.",
+        "Releasedate": "2024-06-22T00:00:00.000Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "WakuWakuUser",
+            "ReviewerLike": 23,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user3"],
+            "ReviewerDisLikeby": ["user4"],
+            "Rating": 4,
+            "Review": "HEH! Anya looks adorable on my laptop! Easy to apply and remove. Quality is good for the price.",
+            "ReviewProfileImage": "anyaface.png",
+            "date": "2024-07-05T11:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "One Piece Straw Hat Crew 17-inch Gaming Laptop Backpack",
+        "Brand": "GrandLine Gear",
+        "Model": "GL-STRAWHATBACKPACK17",
+        "Compatibility": ["17-inch Laptops", "Gaming Laptops"],
+        "Image": "https://example.com/images/onepiece_laptopbag.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/onepiece_bag1.jpg",
+          "https://example.com/gallery/onepiece_bag2.jpg"
+        ],
+        "Color": ["Straw Hat Yellow", "Red Trim"],
+        "Material": "Waterproof Polyester, Padded",
+        "Connectivity": "N/A",
+        "Features": ["Padded Laptop Compartment", "10 Storage Pockets", "Jolly Roger Patches", "USB Charging Port", "Water Bottle Holder"],
+        "Size": ["Fits up to 17.3-inch"],
+        "Weight": 0.85,
+        "Originalvalue": 59.99,
+        "previousvalue": 69.99,
+        "Marketprice": 54.99,
+        "Currentoffer": ["Free Wanted Poster Folder"],
+        "previousoffer": "Pirate Festival Sale",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "GrandLine Gear Co.",
+          "Country": "Taiwan",
+          "Address": "Taipei, Taiwan",
+          "ContactEmail": "gear@grandline.com",
+          "ContactPhone": "+886-2-9876-5432",
+          "Website": "https://grandline-gear.com",
+          "Warranty": "2 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 654,
+        "No_of_Disikes": 18,
+        "Description": "Full-featured laptop backpack featuring the Straw Hat Pirates. Thick padding protects gaming laptops up to 17.3 inches. Includes external USB port for charging devices on the go.",
+        "Releasedate": "2024-02-28T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "GL-STRAWHATBACKPACK17",
+            "CurrentModelLikes": 654,
+            "CurrentModelDislikes": 18,
+            "PreviousModel": "GL-MERRYBAG2023",
+            "PreviousModelLikes": 432,
+            "PreviousModelDislikes": 32,
+            "CurrentModelDate": "2024-02-28T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might Aluminum Top Case",
+        "Brand": "HeroArmor",
+        "Model": "HA-ALLMIGHTTOP15",
+        "Compatibility": ["15-inch MacBook Pro", "Similar 15-inch Models"],
+        "Image": "https://example.com/images/allmight_laptopcase.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/allmight_case1.jpg"
+        ],
+        "Color": ["Plus Ultra Blue", "Silver"],
+        "Material": "Aircraft Grade Aluminum",
+        "Connectivity": "N/A",
+        "Features": ["Metal Construction", "SMASH! Logo Engraved", "Heat Dissipation", "Precise Cutouts", "Slim Profile"],
+        "Size": ["15-inch"],
+        "Weight": 0.42,
+        "Originalvalue": 49.99,
+        "previousvalue": 59.99,
+        "Marketprice": 44.99,
+        "Currentoffer": ["Free Hero Stickers Pack"],
+        "previousoffer": "Hero Sale Event",
+        "Warranty": "18 Months",
+        "Manufacturer": {
+          "Name": "HeroArmor Manufacturing",
+          "Country": "USA",
+          "Address": "Detroit, MI",
+          "ContactEmail": "manufacturing@heroarmor.com",
+          "ContactPhone": "+1-313-555-2468",
+          "Website": "https://heroarmor.com",
+          "Warranty": "18 Month Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 23,
+        "Description": "Premium aluminum top case featuring All Might's iconic PLUS ULTRA logo laser engraved. Provides superior protection against dents and scratches while maintaining professional appearance.",
+        "Releasedate": "2024-01-15T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PlusUltraStudent",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user5", "user6"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Feels incredibly premium! The aluminum matches my MacBook perfectly. PLUS ULTRA quality!",
+            "ReviewProfileImage": "student.png",
+            "date": "2024-02-01T09:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Attack on Titan Survey Corps Laptop Sleeve with ODM Gear",
+        "Brand": "WallMaria Protection",
+        "Model": "WM-ODMSLEEVE156",
+        "Compatibility": ["15.6-inch Laptops"],
+        "Image": "https://example.com/images/aot_laptopsleeve.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/aot_sleeve1.jpg",
+          "https://example.com/gallery/aot_sleeve2.jpg"
+        ],
+        "Color": ["Survey Corps Green", "Brown Leather"],
+        "Material": "Canvas, Genuine Leather Accents",
+        "Connectivity": "N/A",
+        "Features": ["ODM Gear Strap System", "Wings of Freedom Embroidery", "Padded Interior", "Document Pocket", "Carrying Strap"],
+        "Size": ["40cm x 29cm x 3cm"],
+        "Weight": 0.48,
+        "Originalvalue": 44.99,
+        "previousvalue": 49.99,
+        "Marketprice": 39.99,
+        "Currentoffer": ["Free Titan Bookmarks"],
+        "previousoffer": "None",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "WallMaria Protection Gear",
+          "Country": "Germany",
+          "Address": "Berlin, Germany",
+          "ContactEmail": "gear@wallmaria.de",
+          "ContactPhone": "+49-30-98765432",
+          "Website": "https://wallmaria-protection.de",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 123,
+        "No_of_Likes": 543,
+        "No_of_Disikes": 28,
+        "Description": "Unique laptop sleeve featuring ODM (Omni-Directional Mobility) gear inspired strap system. The Wings of Freedom emblem is hand-embroidered. Includes leather accents and multiple storage compartments.",
+        "Releasedate": "2024-04-05T00:00:00.000Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Naruto Akatsuki Cloud Pattern Hard Case",
+        "Brand": "ShinobiGear",
+        "Model": "SG-AKATSUKICASE14",
+        "Compatibility": ["14-inch Laptops", "Chromebooks"],
+        "Image": "https://example.com/images/akatsuki_laptopcase.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/akatsuki_case1.jpg"
+        ],
+        "Color": ["Red Clouds on Black"],
+        "Material": "TPU Rubber, Hard Plastic",
+        "Connectivity": "N/A",
+        "Features": ["Shock Absorbing TPU", "Akatsuki Cloud Design", "Precise Button Cutouts", "Ventilation", "Easy Installation"],
+        "Size": ["14-inch"],
+        "Weight": 0.32,
+        "Originalvalue": 27.99,
+        "previousvalue": 32.99,
+        "Marketprice": 24.99,
+        "Currentoffer": ["Free Hidden Leaf Headband"],
+        "previousoffer": "Ninja War Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "ShinobiGear Tech",
+          "Country": "Japan",
+          "Address": "Osaka, Japan",
+          "ContactEmail": "tech@shinobigear.jp",
+          "ContactPhone": "+81-6-5432-1098",
+          "Website": "https://shinobigear.jp",
+          "Warranty": "1 Year Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 276,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 34,
+        "Description": "Dual-layer hard case featuring the iconic Akatsuki cloud pattern. Soft TPU interior absorbs shocks while hard plastic exterior resists scratches. Perfect for students and professionals.",
+        "Releasedate": "2024-07-30T00:00:00.000Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AkatsukiMember",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 8,
+            "ReviewerLikeby": ["user7"],
+            "ReviewerDisLikeby": ["user8", "user9"],
+            "Rating": 4,
+            "Review": "Looks menacing and cool! Fit is perfect on my laptop. Protection seems good so far.",
+            "ReviewProfileImage": "akatsuki.png",
+            "date": "2024-08-15T16:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Shenron Laptop Skin & Keyboard Cover Set",
+        "Brand": "DragonBall Gear",
+        "Model": "DB-SHENRONSET156",
+        "Compatibility": ["15.6-inch Laptops", "Full Keyboard Coverage"],
+        "Image": "https://example.com/images/shenron_laptopset.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/shenron_set1.jpg",
+          "https://example.com/gallery/shenron_set2.jpg"
+        ],
+        "Color": ["Shenron Green", "Gold Dragon Balls"],
+        "Material": "Vinyl Skin, Silicone Keyboard Cover",
+        "Connectivity": "N/A",
+        "Features": ["Complete Set", "Shenron Wrap Design", "Spill-Resistant Keyboard Cover", "7 Dragon Balls Pattern", "Easy Clean"],
+        "Size": ["15.6-inch Full Set"],
+        "Weight": 0.15,
+        "Originalvalue": 32.99,
+        "previousvalue": 39.99,
+        "Marketprice": 29.99,
+        "Currentoffer": ["Free Dragon Radar Screen Cleaner"],
+        "previousoffer": "Dragon Ball Anniversary",
+        "Warranty": "6 Months",
+        "Manufacturer": {
+          "Name": "DragonBall Gear Co.",
+          "Country": "USA",
+          "Address": "California, USA",
+          "ContactEmail": "gear@dragonball.com",
+          "ContactPhone": "+1-415-555-1357",
+          "Website": "https://dragonball-gear.com",
+          "Warranty": "6 Month Warranty",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 345,
+        "No_of_Likes": 654,
+        "No_of_Disikes": 23,
+        "Description": "Complete laptop protection set featuring Shenron (the dragon) wrapping around your laptop. Includes vinyl top cover skin and silicone keyboard cover for spill protection.",
+        "Releasedate": "2023-12-01T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "DB-SHENRONSET156",
+            "CurrentModelLikes": 654,
+            "CurrentModelDislikes": 23,
+            "PreviousModel": "DB-KAMEHOUSESET2022",
+            "PreviousModelLikes": 432,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2023-12-01T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro Felt Laptop Sleeve",
+        "Brand": "GhibliCraft",
+        "Model": "GC-TOTOROFELT13",
+        "Compatibility": ["13-inch Laptops", "MacBook Air"],
+        "Image": "https://example.com/images/totoro_laptopsleeve.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/totoro_sleeve1.jpg",
+          "https://example.com/gallery/totoro_sleeve2.jpg"
+        ],
+        "Color": ["Totoro Gray Felt", "Leaf Green"],
+        "Material": "Wool Felt, Cotton Lining",
+        "Connectivity": "N/A",
+        "Features": ["Handcrafted Felt", "So-Totoro Applique", "Button Closure", "Soft Interior", "Eco-Friendly"],
+        "Size": ["33cm x 23cm x 2cm"],
+        "Weight": 0.28,
+        "Originalvalue": 39.99,
+        "previousvalue": 44.99,
+        "Marketprice": 36.99,
+        "Currentoffer": ["Free Catbus Keychain"],
+        "previousoffer": "Studio Sale",
+        "Warranty": "None (Handmade)",
+        "Manufacturer": {
+          "Name": "GhibliCraft Studio",
+          "Country": "Japan",
+          "Address": "Tokyo, Japan",
+          "ContactEmail": "studio@ghiblicraft.jp",
+          "ContactPhone": "+81-3-3333-4444",
+          "Website": "https://ghiblicraft.jp",
+          "Warranty": "No Warranty (Handmade Item)",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 54,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 9,
+        "Description": "Handmade felt laptop sleeve featuring adorable Totoro applique work. Each piece is individually crafted by artisans. Soft cotton lining protects your laptop from scratches.",
+        "Releasedate": "2024-05-20T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GhibliCollector",
+            "ReviewerLike": 89,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user10", "user11"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Absolutely beautiful craftsmanship! You can tell it's handmade. Totoro looks so cute! Perfect for my MacBook Air.",
+            "ReviewProfileImage": "collector.png",
+            "date": "2024-06-10T13:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Laptop-Covers",
+    "comItemType": "Laptopcovers",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita & Denji Laptop Skin Combo",
+        "Brand": "DevilGear",
+        "Model": "DG-CHAINSAWSKIN156",
+        "Compatibility": ["15.6-inch Laptops"],
+        "Image": "https://example.com/images/chainsaw_laptopskin.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/chainsaw_skin1.jpg"
+        ],
+        "Color": ["Blood Red", "Orange", "Chainsaw Silver"],
+        "Material": "3D Textured Vinyl",
+        "Connectivity": "N/A",
+        "Features": ["3D Texture Effect", "Blood Splatter Design", "Pochita & Denji Art", "Removable", "Scratch Protection"],
+        "Size": ["15.6-inch Full Wrap"],
+        "Weight": 0.12,
+        "Originalvalue": 24.99,
+        "previousvalue": 29.99,
+        "Marketprice": 22.99,
+        "Currentoffer": ["Free Devil Hunter Decal"],
+        "previousoffer": "Halloween Special",
+        "Warranty": "60 Days",
+        "Manufacturer": {
+          "Name": "DevilGear Designs",
+          "Country": "China",
+          "Address": "Shenzhen, China",
+          "ContactEmail": "designs@devilgear.cn",
+          "ContactPhone": "+86-755-2468-1357",
+          "Website": "https://devilgear-designs.cn",
+          "Warranty": "60 Day Replacement",
+          "Certified": false
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 432,
+        "No_of_Likes": 765,
+        "No_of_Disikes": 45,
+        "Description": "Edgy laptop skin featuring Chainsaw Man's Denji and Pochita in action pose. The blood splatter effect has 3D texture you can feel. Makes your laptop look dangerously cool.",
+        "Releasedate": "2024-09-15T00:00:00.000Z",
+        "Ratings": 4.1,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,2359 @@
+[
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Naruto",
+          "Author": "Masashi Kishimoto",
+          "Anime": "Naruto",
+          "Artist": "Masashi Kishimoto",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/20055/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publishinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Naruto."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/naruto_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+                {
+                  "Name": "Naruto Uzumaki",
+                  "Penname": "None",
+                  "Role": "Protagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/9/97/Naruto_Uzumaki_Part_II.png"
+                },
+                {
+                  "Name": "Sasuke Uchiha",
+                  "Penname": "None",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/8/87/Sasuke_Part_II.png"
+                },
+                {
+                  "Name": "Sakura Haruno",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/e/e0/Sakura_Part_II.png"
+                },
+                {
+                  "Name": "Kakashi Hatake",
+                  "Penname": "Copy Ninja",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/64/Kakashi_Hokage.png"
+                },
+                {
+                  "Name": "Hinata Hyuga",
+                  "Penname": "None",
+                  "Role": "Love-Interest",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/4/4e/Hinata_Part_II.png"
+                },
+                {
+                  "Name": "Itachi Uchiha",
+                  "Penname": "None",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/6c/Itachi_Uchiha.png"
+                },
+                {
+                  "Name": "Jiraiya",
+                  "Penname": "Pervy Sage",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/f/f6/Jiraiya_Part_II.png"
+                },
+                {
+                  "Name": "Shikamaru Nara",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/0/0b/Shikamaru_Nara_Part_II.png"
+                },
+                {
+                  "Name": "Tsunade Senju",
+                  "Penname": "None",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/b/bf/Tsunade.png"
+                },
+                {
+                  "Name": "Orochimaru",
+                  "Penname": "Sannin",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/7/74/Orochimaru_Part_II.png"
+                },
+                {
+                  "Name": "Rock Lee",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/5/5f/Rock_Lee_Part_II.png"
+                },
+                {
+                  "Name": "Might Guy",
+                  "Penname": "None",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/6/67/Might_Guy.png"
+                },
+                {
+                  "Name": "Ino Yamanaka",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/f/f2/Ino_Yamanaka_Part_II.png"
+                },
+                {
+                  "Name": "Choji Akimichi",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/3/39/Choji_Akimichi_Part_II.png"
+                },
+                {
+                  "Name": "Kiba Inuzuka",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/2/24/Kiba_Inuzuka_Part_II.png"
+                },
+                {
+                  "Name": "Neji Hyuga",
+                  "Penname": "None",
+                  "Role": "Supporting",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/a/a2/Neji_Part_II.png"
+                },
+                {
+                  "Name": "Gaara",
+                  "Penname": "None",
+                  "Role": "Other",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/b/bd/Gaara_Part_II.png"
+                },
+                {
+                  "Name": "Minato Namikaze",
+                  "Penname": "Fourth Hokage",
+                  "Role": "Mentor",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/d/d2/Minato_Namikaze.png"
+                },
+                {
+                  "Name": "Madara Uchiha",
+                  "Penname": "None",
+                  "Role": "Antagonist",
+                  "Imageurl": "https://static.wikia.nocookie.net/naruto/images/2/25/Madara_Uchiha.png"
+                }  
+          ],
+          "Reviewers_detail": [],
+          "Volume": [
+             {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Uzumaki Naruto",
+            "volumeImage": "https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-603-nar_01_web.jpg",
+            "No_ofuser_buy": "10500",
+            "No_ofuser_refunded": "120",
+            "Info_about_volume": "Naruto Uzumaki dreams of becoming Hokage but faces challenges as a mischievous outcast ninja. His journey begins here.",
+            "No_ofchapters": 7,
+            "No_ofpages": 192,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "2",
+            "Currentvolume_name": "The Worst Client",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591161789.jpg",
+            "No_ofuser_buy": "9700",
+            "No_ofuser_refunded": "80",
+            "Info_about_volume": "Team 7 faces their first real mission: protecting Tazuna the bridge builder from Zabuza Momochi, a deadly rogue ninja.",
+            "No_ofchapters": 9,
+            "No_ofpages": 200,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "3",
+            "Currentvolume_name": "For the Sake of Dreams...!!",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591161878.jpg",
+            "No_ofuser_buy": "9400",
+            "No_ofuser_refunded": "60",
+            "Info_about_volume": "Naruto, Sasuke, and Sakura continue their intense battle against Haku and Zabuza in the Land of Waves.",
+            "No_ofchapters": 9,
+            "No_ofpages": 210,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "4",
+            "Currentvolume_name": "The Hero’s Bridge!!",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591163587.jpg",
+            "No_ofuser_buy": "9100",
+            "No_ofuser_refunded": "45",
+            "Info_about_volume": "Naruto awakens the true power of determination as the bridge mission reaches its climax with the death of Zabuza.",
+            "No_ofchapters": 10,
+            "No_ofpages": 215,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "5",
+            "Currentvolume_name": "The Challengers!!",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591163595.jpg",
+            "No_ofuser_buy": "8900",
+            "No_ofuser_refunded": "40",
+            "Info_about_volume": "The Chūnin Exam begins! Naruto and his friends face other talented Genin and the mysterious Gaara of the Sand.",
+            "No_ofchapters": 8,
+            "No_ofpages": 205,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "6",
+            "Currentvolume_name": "Predator",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591167396.jpg",
+            "No_ofuser_buy": "8600",
+            "No_ofuser_refunded": "38",
+            "Info_about_volume": "The Chūnin Exams turn deadly as Orochimaru appears and targets Sasuke, revealing a dark future ahead.",
+            "No_ofchapters": 9,
+            "No_ofpages": 210,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "7",
+            "Currentvolume_name": "The Path You Should Tread",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591168759.jpg",
+            "No_ofuser_buy": "8400",
+            "No_ofuser_refunded": "35",
+            "Info_about_volume": "The fight continues inside the Forest of Death. Team 7 learns teamwork under the pressure of real danger.",
+            "No_ofchapters": 8,
+            "No_ofpages": 220,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "8",
+            "Currentvolume_name": "Life-and-Death Battles",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1421501244.jpg",
+            "No_ofuser_buy": "8100",
+            "No_ofuser_refunded": "32",
+            "Info_about_volume": "The preliminary matches begin. Rock Lee vs Gaara shocks everyone with its intensity and tragedy.",
+            "No_ofchapters": 9,
+            "No_ofpages": 208,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "9",
+            "Currentvolume_name": "Neji vs. Hinata!!",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1421502399.jpg",
+            "No_ofuser_buy": "7900",
+            "No_ofuser_refunded": "28",
+            "Info_about_volume": "Neji and Hinata, both Hyuga clan members, face each other in a battle that exposes deep family wounds.",
+            "No_ofchapters": 10,
+            "No_ofpages": 214,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          },
+          {
+            "Currentvolume_no": "10",
+            "Currentvolume_name": "A Splendid Ninja",
+            "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1421502402.jpg",
+            "No_ofuser_buy": "7800",
+            "No_ofuser_refunded": "25",
+            "Info_about_volume": "Naruto faces Kiba in the tournament, revealing unexpected tactics and growth as a ninja.",
+            "No_ofchapters": 9,
+            "No_ofpages": 220,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+          ],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "One Piece",
+          "Author": "Eiichiro Oda",
+          "Anime": "One Piece",
+          "Artist": "Eiichiro Oda",
+          "Animeurl": "https://media.kitsu.app/manga/38/poster_image/85c98b3ebfea8a1cfe8c8f837b6b5fc8.jpg",    
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled One Piece."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/one_piece_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Monkey D. Luffy",
+                "Penname": "Straw Hat",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/monkey_d_luffy.jpg"
+              },
+              {
+                "Name": "Roronoa Zoro",
+                "Penname": "Pirate Hunter",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/roronoa_zoro.jpg"
+              },
+              {
+                "Name": "Nami",
+                "Penname": "Cat Burglar",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/nami.jpg"
+              },
+              {
+                "Name": "Usopp",
+                "Penname": "Sogeking",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/usopp.jpg"
+              },
+              {
+                "Name": "Sanji",
+                "Penname": "Black Leg",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/sanji.jpg"
+              },
+              {
+                "Name": "Tony Tony Chopper",
+                "Penname": "Cotton Candy Lover",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/tony_tony_chopper.jpg"
+              },
+              {
+                "Name": "Nico Robin",
+                "Penname": "Devil Child",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/nico_robin.jpg"
+              },
+              {
+                "Name": "Franky",
+                "Penname": "Cyborg",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/franky.jpg"
+              },
+              {
+                "Name": "Brook",
+                "Penname": "Soul King",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/brook.jpg"
+              },
+              {
+                "Name": "Jinbe",
+                "Penname": "Knight of the Sea",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/jinbe.jpg"
+              },
+              {
+                "Name": "Trafalgar D. Water Law",
+                "Penname": "Surgeon of Death",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/trafalgar_law.jpg"
+              },
+              {
+                "Name": "Portgas D. Ace",
+                "Penname": "Fire Fist",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/portgas_d_ace.jpg"
+              },
+              {
+                "Name": "Shanks",
+                "Penname": "Red-Haired",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/shanks.jpg"
+              },
+              {
+                "Name": "Marshall D. Teach",
+                "Penname": "Blackbeard",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/blackbeard.jpg"
+              },
+              {
+                "Name": "Dracule Mihawk",
+                "Penname": "Hawk-Eyes",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/dracule_mihawk.jpg"
+              },
+              {
+                "Name": "Boa Hancock",
+                "Penname": "Pirate Empress",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/boa_hancock.jpg"
+              },
+              {
+                "Name": "Monkey D. Garp",
+                "Penname": "The Fist",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/monkey_d_garp.jpg"
+              },
+              {
+                "Name": "Akainu",
+                "Penname": "Red Dog",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/akainu.jpg"
+              },
+              {
+                "Name": "Kaido",
+                "Penname": "King of the Beasts",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/kaido.jpg"
+              },
+              {
+                "Name": "Charlotte Linlin",
+                "Penname": "Big Mom",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/big_mom.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "My Hero Academia",
+          "Author": "Kohei Horikoshi",
+          "Anime": "My Hero Academia",
+          "Artist": "Kohei Horikoshi",
+          "Animeurl": "https://media.kitsu.app/manga/26004/poster_image/5b83b5bebf9feca94a57e789be757e1f.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled My Hero Academia."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/my_hero_academia_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Izuku Midoriya",
+                "Penname": "Deku",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/izuku_midoriya.jpg"
+              },
+              {
+                "Name": "Katsuki Bakugo",
+                "Penname": "Kacchan",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/katsuki_bakugo.jpg"
+              },
+              {
+                "Name": "Shoto Todoroki",
+                "Penname": "Icyhot",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/shoto_todoroki.jpg"
+              },
+              {
+                "Name": "Ochaco Uraraka",
+                "Penname": "Uravity",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/ochaco_uraraka.jpg"
+              },
+              {
+                "Name": "Tenya Iida",
+                "Penname": "Ingenium",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/tenya_iida.jpg"
+              },
+              {
+                "Name": "Toshinori Yagi",
+                "Penname": "All Might",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/all_might.jpg"
+              },
+              {
+                "Name": "Shota Aizawa",
+                "Penname": "Eraser Head",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/shota_aizawa.jpg"
+              },
+              {
+                "Name": "Tsuyu Asui",
+                "Penname": "Froppy",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/tsuyu_asui.jpg"
+              },
+              {
+                "Name": "Momo Yaoyorozu",
+                "Penname": "Creati",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/momo_yaoyorozu.jpg"
+              },
+              {
+                "Name": "Eijiro Kirishima",
+                "Penname": "Red Riot",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/eijiro_kirishima.jpg"
+              },
+              {
+                "Name": "Fumikage Tokoyami",
+                "Penname": "Tsukuyomi",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/fumikage_tokoyami.jpg"
+              },
+              {
+                "Name": "Denki Kaminari",
+                "Penname": "Chargebolt",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/denki_kaminari.jpg"
+              },
+              {
+                "Name": "Tomura Shigaraki",
+                "Penname": "Decay",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/tomura_shigaraki.jpg"
+              },
+              {
+                "Name": "All For One",
+                "Penname": "Master",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/all_for_one.jpg"
+              },
+              {
+                "Name": "Dabi",
+                "Penname": "Blueflame",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/dabi.jpg"
+              },
+              {
+                "Name": "Himiko Toga",
+                "Penname": "Bloody",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/himiko_toga.jpg"
+              },
+              {
+                "Name": "Endeavor",
+                "Penname": "Flame Hero",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/endeavor.jpg"
+              },
+              {
+                "Name": "Hawks",
+                "Penname": "Wing Hero",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/hawks.jpg"
+              },
+              {
+                "Name": "Mirio Togata",
+                "Penname": "Lemillion",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/mirio_togata.jpg"
+              },
+              {
+                "Name": "Kai Chisaki",
+                "Penname": "Overhaul",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/kai_chisaki.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [
+  {
+    "Currentvolume_no": "1",
+    "Currentvolume_name": "Romance Dawn",
+    "volumeImage": "https://m.media-amazon.com/images/I/518KKkmd1fL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "11200",
+    "No_ofuser_refunded": "130",
+    "Info_about_volume": "Monkey D. Luffy sets sail to become King of the Pirates! The adventure begins as he gathers his first crew members.",
+    "No_ofchapters": 8,
+    "No_ofpages": 208,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "2",
+    "Currentvolume_name": "Buggy the Clown",
+    "volumeImage": "https://m.media-amazon.com/images/I/61tLcPnnddL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "10800",
+    "No_ofuser_refunded": "115",
+    "Info_about_volume": "Luffy and Zoro face off against the colorful but dangerous Buggy the Clown and his pirate crew.",
+    "No_ofchapters": 9,
+    "No_ofpages": 210,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "3",
+    "Currentvolume_name": "Don't Get Fooled Again",
+    "volumeImage": "https://m.media-amazon.com/images/I/51KeFn7NC5L._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "10450",
+    "No_ofuser_refunded": "90",
+    "Info_about_volume": "Luffy continues his journey and faces a scheming pirate captain who preys on villages with false heroics.",
+    "No_ofchapters": 10,
+    "No_ofpages": 216,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "4",
+    "Currentvolume_name": "The Black Cat Pirates",
+    "volumeImage": "https://m.media-amazon.com/images/I/61E3j3zpxSL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "10100",
+    "No_ofuser_refunded": "85",
+    "Info_about_volume": "Luffy and his crew help protect Kaya from Captain Kuro and his Black Cat Pirates.",
+    "No_ofchapters": 9,
+    "No_ofpages": 212,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "5",
+    "Currentvolume_name": "For Whom the Bell Tolls",
+    "volumeImage": "https://m.media-amazon.com/images/I/91tSaOV5bPL._SY466_.jpg",
+    "No_ofuser_buy": "9800",
+    "No_ofuser_refunded": "80",
+    "Info_about_volume": "The Straw Hats' next destination introduces Usopp’s dreams and courage as danger looms closer.",
+    "No_ofchapters": 8,
+    "No_ofpages": 208,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "6",
+    "Currentvolume_name": "The Oath",
+    "volumeImage": "https://m.media-amazon.com/images/I/51tQsKjAycL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "9600",
+    "No_ofuser_refunded": "70",
+    "Info_about_volume": "Luffy and crew clash with the cunning Captain Kuro in a fight that tests their resolve as pirates.",
+    "No_ofchapters": 9,
+    "No_ofpages": 220,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "7",
+    "Currentvolume_name": "Old Man",
+    "volumeImage": "https://m.media-amazon.com/images/I/51F9AXUf5aL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "9400",
+    "No_ofuser_refunded": "68",
+    "Info_about_volume": "After gaining Usopp, the Straw Hat Pirates set sail to the floating restaurant Baratie and meet Sanji.",
+    "No_ofchapters": 9,
+    "No_ofpages": 214,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "8",
+    "Currentvolume_name": "I Won’t Die",
+    "volumeImage": "https://m.media-amazon.com/images/I/61ci81e7BfL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "9150",
+    "No_ofuser_refunded": "60",
+    "Info_about_volume": "Luffy battles Don Krieg at the Baratie, while Sanji’s tragic past and noble spirit are revealed.",
+    "No_ofchapters": 10,
+    "No_ofpages": 220,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "9",
+    "Currentvolume_name": "Tears",
+    "volumeImage": "https://m.media-amazon.com/images/I/91wUZYKH0JL._SY466_.jpg",
+    "No_ofuser_buy": "8900",
+    "No_ofuser_refunded": "50",
+    "Info_about_volume": "Luffy finally defeats Don Krieg, and Nami’s mysterious betrayal leads the Straw Hats to Arlong Park.",
+    "No_ofchapters": 9,
+    "No_ofpages": 222,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "10",
+    "Currentvolume_name": "OK, Let's Stand Up!",
+    "volumeImage": "https://m.media-amazon.com/images/I/91N6bU16VeL._SY466_.jpg",
+    "No_ofuser_buy": "8700",
+    "No_ofuser_refunded": "45",
+    "Info_about_volume": "The crew stands with Nami against Arlong, beginning the legendary battle that defines loyalty and friendship.",
+    "No_ofchapters": 9,
+    "No_ofpages": 230,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  }
+],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Jujutsu Kaisen",
+          "Author": "Gege Akutami",
+          "Anime": "Jujutsu Kaisen",
+          "Artist": "Gege Akutami",                             
+          "Animeurl": "https://media.kitsu.app/manga/59467/poster_image/b8721873a9766449c3c619a07199d3d9.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Jujutsu Kaisen."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/jujutsu_kaisen_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Yuji Itadori",
+              "Penname": "Sukuna's Vessel",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/yuji_itadori.jpg"
+            },
+            {
+              "Name": "Megumi Fushiguro",
+              "Penname": "Ten Shadows",
+              "Role": "Deuteragonist",
+              "Imageurl": "https://example.com/megumi_fushiguro.jpg"
+            },
+            {
+              "Name": "Nobara Kugisaki",
+              "Penname": "Straw Doll",
+              "Role": "Tritagonist",
+              "Imageurl": "https://example.com/nobara_kugisaki.jpg"
+            },
+            {
+              "Name": "Satoru Gojo",
+              "Penname": "The Strongest",
+              "Role": "Mentor",
+              "Imageurl": "https://example.com/satoru_gojo.jpg"
+            },
+            {
+              "Name": "Ryomen Sukuna",
+              "Penname": "King of Curses",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/ryomen_sukuna.jpg"
+            },
+            {
+              "Name": "Kento Nanami",
+              "Penname": "7:3",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/kento_nanami.jpg"
+            },
+            {
+              "Name": "Maki Zenin",
+              "Penname": "Heavenly Restriction",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/maki_zenin.jpg"
+            },
+            {
+              "Name": "Toge Inumaki",
+              "Penname": "Cursed Speech",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/toge_inumaki.jpg"
+            },
+            {
+              "Name": "Panda",
+              "Penname": "Cursed Corpse",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/panda.jpg"
+            },
+            {
+              "Name": "Yuta Okkotsu",
+              "Penname": "Special Grade",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/yuta_okkotsu.jpg"
+            },
+            {
+              "Name": "Suguru Geto",
+              "Penname": "Curse User",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/suguru_geto.jpg"
+            },
+            {
+              "Name": "Mahito",
+              "Penname": "Transfigured Humans",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/mahito.jpg"
+            },
+            {
+              "Name": "Aoi Todo",
+              "Penname": "Boogie Woogie",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/aoi_todo.jpg"
+            },
+            {
+              "Name": "Kugisaki Nobara",
+              "Penname": "Resonance",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/kugisaki_nobara.jpg"
+            },
+            {
+              "Name": "Choso",
+              "Penname": "Death Painting",
+              "Role": "Antagonist/Ally",
+              "Imageurl": "https://example.com/choso.jpg"
+            },
+            {
+              "Name": "Jogo",
+              "Penname": "Volcano",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/jogo.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+             "Volume": [
+  {
+    "Currentvolume_no": "1",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 1",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974710025.jpg",
+    "No_ofuser_buy": "10000",
+    "No_ofuser_refunded": "100",
+    "Info_about_volume": "Yuji Itadori swallows a cursed object and is thrust into the world of jujutsu sorcerers.",
+    "No_ofchapters": 7,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "2",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 2",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974710033.jpg",
+    "No_ofuser_buy": "9500",
+    "No_ofuser_refunded": "90",
+    "Info_about_volume": "Itadori and his friends face off against a powerful curse in a high-security detention facility. :contentReference[oaicite:2]{index=2}",
+    "No_ofchapters": 8,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "3",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 3",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974710041.jpg",
+    "No_ofuser_buy": "9000",
+    "No_ofuser_refunded": "80",
+    "Info_about_volume": "Team hunts curses while learning the price of power.",
+    "No_ofchapters": 9,
+    "No_ofpages": 200,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "4",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 4",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974714802.jpg",
+    "No_ofuser_buy": "8800",
+    "No_ofuser_refunded": "70",
+    "Info_about_volume": "The Kyoto Sister-School Exchange event begins and chaos erupts.",
+    "No_ofchapters": 8,
+    "No_ofpages": 198,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "5",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 5",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974714810.jpg",
+    "No_ofuser_buy": "8600",
+    "No_ofuser_refunded": "65",
+    "Info_about_volume": "The events escalate: powerful sorcerers and curses clash in a deadly showdown.",
+    "No_ofchapters": 9,
+    "No_ofpages": 204,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "6",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 6",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974714829.jpg",
+    "No_ofuser_buy": "8400",
+    "No_ofuser_refunded": "60",
+    "Info_about_volume": "The battle continues as more secrets are revealed about the jujutsu world.",
+    "No_ofchapters": 8,
+    "No_ofpages": 200,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "7",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 7",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974717119.jpg",
+    "No_ofuser_buy": "8200",
+    "No_ofuser_refunded": "55",
+    "Info_about_volume": "A curse-free battle? Hardly. The stakes rise for Itadori and friends.",
+    "No_ofchapters": 9,
+    "No_ofpages": 210,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "8",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 8",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974718719.jpg",
+    "No_ofuser_buy": "8000",
+    "No_ofuser_refunded": "50",
+    "Info_about_volume": "The Kyoto Event reaches its climax — allies and enemies alike are revealed.",
+    "No_ofchapters": 9,
+    "No_ofpages": 212,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "9",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 9",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974718727.jpg",
+    "No_ofuser_buy": "7800",
+    "No_ofuser_refunded": "45",
+    "Info_about_volume": "The aftermath: a major loss and a new direction for the characters.",
+    "No_ofchapters": 8,
+    "No_ofpages": 208,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "10",
+    "Currentvolume_name": "Jujutsu Kaisen, Vol. 10",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1974720756.jpg",
+    "No_ofuser_buy": "7600",
+    "No_ofuser_refunded": "40",
+    "Info_about_volume": "Preparations begin for the next major arc: new threats loom on the horizon.",
+    "No_ofchapters": 9,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  }
+]
+,
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Attack on Titan",
+          "Author": "Hajime Isayama",
+          "Anime": "Attack on Titan",
+          "Artist": "Hajime Isayama",             
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/14916/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Attack on Titan."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/attack_on_titan_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+                {
+                    "Name": "Eren Yeager",
+                    "Penname": "None",
+                    "Role": "Protagonist",
+                    "Imageurl": "https://example.com/eren_yeager.jpg"
+                },
+                {
+                    "Name": "Mikasa Ackerman",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/mikasa_ackerman.jpg"
+                },
+                {
+                    "Name": "Armin Arlert",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/armin_arlert.jpg"
+                },
+                {
+                    "Name": "Levi Ackerman",
+                    "Penname": "None",
+                    "Role": "Mentor",
+                    "Imageurl": "https://example.com/levi_ackerman.jpg"
+                },
+                {
+                    "Name": "Colossal Titan",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/colossal_titan.jpg"
+                },
+                {
+                    "Name": "Armored Titan",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/armored_titan.jpg"
+                },
+                {
+                    "Name": "Beast Titan",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/beast_titan.jpg"
+                },
+                {
+                    "Name": "Reiner Braun",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/reiner_braun.jpg"
+                },
+                {
+                    "Name": "Annie Leonhart",
+                    "Penname": "None",
+                    "Role": "Antagonist",
+                    "Imageurl": "https://example.com/annie_leonhart.jpg"
+                },
+                {
+                    "Name": "Jean Kirstein",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/jean_kirstein.jpg"
+                },
+                {
+                    "Name": "Sasha Blouse",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/sasha_blouse.jpg"
+                },
+                {
+                    "Name": "Hange Zoë",
+                    "Penname": "None",
+                    "Role": "Supporting",
+                    "Imageurl": "https://example.com/hange_zoe.jpg"
+                },
+                {
+                    "Name": "Erwin Smith",
+                    "Penname": "None",
+                    "Role": "Mentor",
+                    "Imageurl": "https://example.com/erwin_smith.jpg"
+                }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [
+            
+  {
+    "Currentvolume_no": "1",
+    "Currentvolume_name": "Attack on Titan Vol. 1: To You, in 2000 Years",
+    "volumeImage": "https://m.media-amazon.com/images/I/81qPzeEO5IL._SY466_.jpg",
+    "No_ofuser_buy": "14500",
+    "No_ofuser_refunded": "120",
+    "Info_about_volume": "The fall of Wall Maria begins as Titans breach humanity’s last defenses, setting Eren Yeager on a path of vengeance.",
+    "No_ofchapters": 4,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "2",
+    "Currentvolume_name": "Attack on Titan Vol. 2: That Day",
+    "volumeImage": "https://m.media-amazon.com/images/I/81aads+i1KL._SY466_.jpg",
+    "No_ofuser_buy": "13700",
+    "No_ofuser_refunded": "95",
+    "Info_about_volume": "Eren joins the military and begins his training, determined to destroy all Titans after a shocking transformation.",
+    "No_ofchapters": 4,
+    "No_ofpages": 180,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "3",
+    "Currentvolume_name": "Attack on Titan Vol. 3: Night of the Disbanding Ceremony",
+    "volumeImage": "https://m.media-amazon.com/images/I/71vEIeswRNL._SL1200_.jpg",
+    "No_ofuser_buy": "12900",
+    "No_ofuser_refunded": "110",
+    "Info_about_volume": "The trainees graduate and are thrust into a deadly battle when Titans appear within Wall Rose.",
+    "No_ofchapters": 5,
+    "No_ofpages": 200,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "4",
+    "Currentvolume_name": "Attack on Titan Vol. 4: The Female Titan",
+    "volumeImage": "https://m.media-amazon.com/images/I/51SrGD90SWL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "14000",
+    "No_ofuser_refunded": "130",
+    "Info_about_volume": "The Survey Corps venture outside the walls and encounter a mysterious Female Titan with terrifying power.",
+    "No_ofchapters": 5,
+    "No_ofpages": 210,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "5",
+    "Currentvolume_name": "Attack on Titan Vol. 5: A Choice with No Regrets",
+    "volumeImage": "https://m.media-amazon.com/images/I/51eFHDqP08L._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "15600",
+    "No_ofuser_refunded": "140",
+    "Info_about_volume": "Levi and Erwin make impossible decisions as humanity pushes deeper into Titan territory.",
+    "No_ofchapters": 4,
+    "No_ofpages": 188,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "6",
+    "Currentvolume_name": "Attack on Titan Vol. 6: The Defeated",
+    "volumeImage": "https://m.media-amazon.com/images/I/51Il8ZVZK+L._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "16200",
+    "No_ofuser_refunded": "115",
+    "Info_about_volume": "Eren’s Titan powers are tested as humanity’s hope clashes against fear and distrust within the walls.",
+    "No_ofchapters": 4,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "7",
+    "Currentvolume_name": "Attack on Titan Vol. 7: Small Blade",
+    "volumeImage": "https://m.media-amazon.com/images/I/511NfLpIBxL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "15100",
+    "No_ofuser_refunded": "90",
+    "Info_about_volume": "The mystery deepens as the Survey Corps begin uncovering the truth behind the Titans’ origins.",
+    "No_ofchapters": 5,
+    "No_ofpages": 200,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "8",
+    "Currentvolume_name": "Attack on Titan Vol. 8: No Regrets",
+    "volumeImage": "https://m.media-amazon.com/images/I/51QN68sJ0YL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "14700",
+    "No_ofuser_refunded": "88",
+    "Info_about_volume": "Levi’s backstory unfolds, showing how his loyalty to Erwin was forged amid tragedy and bloodshed.",
+    "No_ofchapters": 4,
+    "No_ofpages": 184,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "9",
+    "Currentvolume_name": "Attack on Titan Vol. 9: Wall Rose’s Secrets",
+    "volumeImage": "https://m.media-amazon.com/images/I/41Q76u40i2L._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "15900",
+    "No_ofuser_refunded": "100",
+    "Info_about_volume": "The shocking truth about the walls begins to surface, challenging everything humanity believed.",
+    "No_ofchapters": 5,
+    "No_ofpages": 208,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "10",
+    "Currentvolume_name": "Attack on Titan Vol. 10: The Armored Titan",
+    "volumeImage": "https://m.media-amazon.com/images/I/51RsD6zYAbL._SY445_SX342_FMwebp_.jpg",
+    "No_ofuser_buy": "17300",
+    "No_ofuser_refunded": "95",
+    "Info_about_volume": "Eren faces the shocking revelation of Reiner and Bertholdt’s true identities in a devastating battle.",
+    "No_ofchapters": 5,
+    "No_ofpages": 212,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  }
+          ],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Bleach",
+          "Author": "Tite Kubo",
+          "Anime": "Bleach",
+          "Artist": "Tite Kubo",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/13946/medium.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Bleach."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/bleach_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [ 
+            {
+                "Name": "Ichigo Kurosaki",
+                "Penname": "Strawberry",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/ichigo_kurosaki.jpg"
+              },
+              {
+                "Name": "Rukia Kuchiki",
+                "Penname": "White Moon",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/rukia_kuchiki.jpg"
+              },
+              {
+                "Name": "Sosuke Aizen",
+                "Penname": "Master Manipulator",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/sosuke_aizen.jpg"
+              },
+              {
+                "Name": "Kisuke Urahara",
+                "Penname": "Humble Candy Seller",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/kisuke_urahara.jpg"
+              },
+              {
+                "Name": "Orihime Inoue",
+                "Penname": "Princess",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/orihime_inoue.jpg"
+              },
+              {
+                "Name": "Yasutora Sado (Chad)",
+                "Penname": "El Directo",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/yasutora_sado.jpg"
+              },
+              {
+                "Name": "Uryu Ishida",
+                "Penname": "Archer",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/uryu_ishida.jpg"
+              },
+              {
+                "Name": "Byakuya Kuchiki",
+                "Penname": "Cherry Blossom",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/byakuya_kuchiki.jpg"
+              },
+              {
+                "Name": "Toshiro Hitsugaya",
+                "Penname": "Shiro",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/toshiro_hitsugaya.jpg"
+              },
+              {
+                "Name": "Kenpachi Zaraki",
+                "Penname": "Demon",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/kenpachi_zaraki.jpg"
+              },
+              {
+                "Name": "Yoruichi Shihoin",
+                "Penname": "Black Cat",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/yoruichi_shihoin.jpg"
+              },
+              {
+                "Name": "Renji Abarai",
+                "Penname": "Red Pineapple",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/renji_abarai.jpg"
+              },
+              {
+                "Name": "Gin Ichimaru",
+                "Penname": "Silver Fox",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/gin_ichimaru.jpg"
+              },
+              {
+                "Name": "Ulquiorra Cifer",
+                "Penname": "Nihilist",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/ulquiorra_cifer.jpg"
+              },
+              {
+                "Name": "Grimmjow Jaegerjaquez",
+                "Penname": "Panther",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/grimmjow_jaegerjaquez.jpg"
+              } 
+          ],
+          "Reviewers_detail": [],
+          "Volume": 
+            [
+  {
+    "Currentvolume_no": "1",
+    "Currentvolume_name": "Bleach Vol. 1: Death & Strawberry",
+    "volumeImage": "https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-367-ble_1_web.jpg",
+    "No_ofuser_buy": "13200",
+    "No_ofuser_refunded": "95",
+    "Info_about_volume": "Ichigo Kurosaki, a high schooler who can see ghosts, accidentally absorbs the powers of Soul Reaper Rukia Kuchiki, beginning his duty to protect the living from Hollows.",
+    "No_ofchapters": 7,
+    "No_ofpages": 192,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "2",
+    "Currentvolume_name": "Bleach Vol. 2: Goodbye Parakeet, Goodnight My Sista",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591164427.jpg",
+    "No_ofuser_buy": "12600",
+    "No_ofuser_refunded": "88",
+    "Info_about_volume": "Ichigo continues his Hollow-slaying duties while Orihime and Chad discover their own spiritual powers when a Hollow attacks.",
+    "No_ofchapters": 8,
+    "No_ofpages": 200,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "3",
+    "Currentvolume_name": "Bleach Vol. 3: Memories in the Rain",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591164435.jpg",
+    "No_ofuser_buy": "12000",
+    "No_ofuser_refunded": "75",
+    "Info_about_volume": "Ichigo faces a Hollow born from his mother’s killer, revealing the trauma and guilt that shaped him.",
+    "No_ofchapters": 9,
+    "No_ofpages": 210,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "4",
+    "Currentvolume_name": "Bleach Vol. 4: Quincy Archer Hates You",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591164443.jpg",
+    "No_ofuser_buy": "12800",
+    "No_ofuser_refunded": "60",
+    "Info_about_volume": "Uryu Ishida, a Quincy, challenges Ichigo to a contest to see who can slay more Hollows, leading to chaos in Karakura Town.",
+    "No_ofchapters": 10,
+    "No_ofpages": 220,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "5",
+    "Currentvolume_name": "Bleach Vol. 5: Rightarm of the Giant",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591164451.jpg",
+    "No_ofuser_buy": "13300",
+    "No_ofuser_refunded": "55",
+    "Info_about_volume": "Chad’s mysterious arm powers awaken as Ichigo and his friends face a massive Hollow threat and learn the true nature of spiritual energy.",
+    "No_ofchapters": 8,
+    "No_ofpages": 204,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "6",
+    "Currentvolume_name": "Bleach Vol. 6: The Death Trilogy Overture",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591167280.jpg",
+    "No_ofuser_buy": "13900",
+    "No_ofuser_refunded": "70",
+    "Info_about_volume": "Rukia’s past is revealed as Soul Society’s enforcers arrive to arrest her, setting up a confrontation that will change Ichigo’s fate forever.",
+    "No_ofchapters": 9,
+    "No_ofpages": 210,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "7",
+    "Currentvolume_name": "Bleach Vol. 7: The Broken Coda",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591168074.jpg",
+    "No_ofuser_buy": "14100",
+    "No_ofuser_refunded": "65",
+    "Info_about_volume": "Ichigo undergoes training with Urahara to regain his powers and prepare for the rescue of Rukia in Soul Society.",
+    "No_ofchapters": 10,
+    "No_ofpages": 215,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "8",
+    "Currentvolume_name": "Bleach Vol. 8: The Blade and Me",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591168724.jpg",
+    "No_ofuser_buy": "14500",
+    "No_ofuser_refunded": "80",
+    "Info_about_volume": "Ichigo’s soul-cutting blade, Zangetsu, manifests as he begins to understand the true nature of his power.",
+    "No_ofchapters": 9,
+    "No_ofpages": 208,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "9",
+    "Currentvolume_name": "Bleach Vol. 9: Fourteen Days for Conspiracy",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1591169240.jpg",
+    "No_ofuser_buy": "13800",
+    "No_ofuser_refunded": "58",
+    "Info_about_volume": "Ichigo and his allies enter Soul Society, encountering fierce Shinigami captains guarding Rukia’s prison.",
+    "No_ofchapters": 10,
+    "No_ofpages": 220,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  },
+  {
+    "Currentvolume_no": "10",
+    "Currentvolume_name": "Bleach Vol. 10: Tattoo on the Sky",
+    "volumeImage": "https://dw9to29mmj727.cloudfront.net/products/1421500817.jpg",
+    "No_ofuser_buy": "15000",
+    "No_ofuser_refunded": "62",
+    "Info_about_volume": "Ichigo faces off against Captain Zaraki Kenpachi in a brutal fight that defines the next stage of his journey.",
+    "No_ofchapters": 9,
+    "No_ofpages": 212,
+    "Modifiedvolume_name": "None",
+    "Modifiedvolume_info": "",
+    "Modifiedvolume_no_of_pages": 0
+  }
+
+          ],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Fairy Tail",
+          "Author": "Hiro Mashima",
+          "Anime": "Fairy Tail",
+          "Artist": "Hiro Mashima",
+          "Animeurl": "https://media.kitsu.app/manga/26002/poster_image/b7ccf22d770c68982e9cfbb3faebbfd1.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Fairy Tail."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200,
+          
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/fairy_tail_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Natsu Dragneel",
+              "Penname": "Salamander",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/natsu_dragneel.jpg"
+            },
+            {
+              "Name": "Lucy Heartfilia",
+              "Penname": "Celestial Wizard",
+              "Role": "Deuteragonist",
+              "Imageurl": "https://example.com/lucy_heartfilia.jpg"
+            },
+            {
+              "Name": "Erza Scarlet",
+              "Penname": "Titania",
+              "Role": "Supporting Protagonist",
+              "Imageurl": "https://example.com/erza_scarlet.jpg"
+            },
+            {
+              "Name": "Gray Fullbuster",
+              "Penname": "Ice Devil",
+              "Role": "Supporting Protagonist",
+              "Imageurl": "https://example.com/gray_fullbuster.jpg"
+            },
+            {
+              "Name": "Happy",
+              "Penname": "Exceed",
+              "Role": "Partner/Mascot",
+              "Imageurl": "https://example.com/happy.jpg"
+            },
+            {
+              "Name": "Wendy Marvell",
+              "Penname": "Sky Maiden",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/wendy_marvell.jpg"
+            },
+            {
+              "Name": "Gajeel Redfox",
+              "Penname": "Black Steel",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/gajeel_redfox.jpg"
+            },
+            {
+              "Name": "Makarov Dreyar",
+              "Penname": "Guild Master",
+              "Role": "Mentor/Guild Leader",
+              "Imageurl": "https://example.com/makarov_dreyar.jpg"
+            },
+            {
+              "Name": "Jellal Fernandes",
+              "Penname": "Heavenly Body",
+              "Role": "Antagonist/Ally",
+              "Imageurl": "https://example.com/jellal_fernandes.jpg"
+            },
+            {
+              "Name": "Laxus Dreyar",
+              "Penname": "Lightning Dragon",
+              "Role": "Antagonist/Ally",
+              "Imageurl": "https://example.com/laxus_dreyar.jpg"
+            },
+            {
+              "Name": "Juvia Lockser",
+              "Penname": "Rain Woman",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/juvia_lockser.jpg"
+            },
+            {
+              "Name": "Mirajane Strauss",
+              "Penname": "Demon",
+              "Role": "Supporting Character",
+              "Imageurl": "https://example.com/mirajane_strauss.jpg"
+            },
+            {
+              "Name": "Zeref Dragneel",
+              "Penname": "Black Wizard",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/zeref_dragneel.jpg"
+            },
+            {
+              "Name": "Acnologia",
+              "Penname": "Black Dragon",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/acnologia.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Black Clover",
+          "Author": "Y\u016bki Tabata",
+          "Anime": "Black Clover",
+          "Artist": "Y\u016bki Tabata",
+          "Animeurl": "https://media.kitsu.app/manga/poster_images/27527/original.jpg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Black Clover."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/black_clover_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+                "Name": "Asta",
+                "Penname": "Black Bull",
+                "Role": "Protagonist",
+                "Imageurl": "https://example.com/asta.jpg"
+              },
+              {
+                "Name": "Yuno",
+                "Penname": "Golden Dawn",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/yuno.jpg"
+              },
+              {
+                "Name": "Noelle Silva",
+                "Penname": "Royal Troublemaker",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/noelle_silva.jpg"
+              },
+              {
+                "Name": "Yami Sukehiro",
+                "Penname": "Dark Lord",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/yami_sukehiro.jpg"
+              },
+              {
+                "Name": "Magna Swing",
+                "Penname": "Fiery Delinquent",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/magna_swing.jpg"
+              },
+              {
+                "Name": "Luck Voltia",
+                "Penname": "Cheery Berserker",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/luck_voltia.jpg"
+              },
+              {
+                "Name": "Vanessa Enoteca",
+                "Penname": "Witch of Fate",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/vanessa_enoteca.jpg"
+              },
+              {
+                "Name": "Finral Roulacase",
+                "Penname": "Spatial Playboy",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/finral_roulacase.jpg"
+              },
+              {
+                "Name": "Charmy Pappitson",
+                "Penname": "Hungry Wolf",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/charmy_pappitson.jpg"
+              },
+              {
+                "Name": "Gordon Agrippa",
+                "Penname": "Silent Shadow",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/gordon_agrippa.jpg"
+              },
+              {
+                "Name": "Grey",
+                "Penname": "Transformation Shy",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/grey.jpg"
+              },
+              {
+                "Name": "Gauche Adlai",
+                "Penname": "Mirror Master",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/gauche_adlai.jpg"
+              },
+              {
+                "Name": "Julius Novachrono",
+                "Penname": "Time Lord",
+                "Role": "Mentor",
+                "Imageurl": "https://example.com/julius_novachrono.jpg"
+              },
+              {
+                "Name": "William Vangeance",
+                "Penname": "World Tree",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/william_vangeance.jpg"
+              },
+              {
+                "Name": "Fuegoleon Vermillion",
+                "Penname": "Crimson Lion",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/fuegoleon_vermillion.jpg"
+              },
+              {
+                "Name": "Mereoleona Vermillion",
+                "Penname": "Uncrowned Queen",
+                "Role": "Supporting",
+                "Imageurl": "https://example.com/mereoleona_vermillion.jpg"
+              },
+              {
+                "Name": "Licht",
+                "Penname": "Elf Leader",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/licht.jpg"
+              },
+              {
+                "Name": "Zagred",
+                "Penname": "Word Devil",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/zagred.jpg"
+              },
+              {
+                "Name": "Dante Zogratis",
+                "Penname": "Body Magic",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/dante_zogratis.jpg"
+              },
+              {
+                "Name": "Zenon Zogratis",
+                "Penname": "Bone Devil",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/zenon_zogratis.jpg"
+              },
+              {
+                "Name": "Vanica Zogratis",
+                "Penname": "Blood Witch",
+                "Role": "Antagonist",
+                "Imageurl": "https://example.com/vanica_zogratis.jpg"
+              }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Hunter x Hunter",
+          "Author": "Yoshihiro Togashi",
+          "Anime": "Hunter x Hunter",
+          "Artist": "Yoshihiro Togashi",
+          "Animeurl": "https://media.kitsu.app/manga/68/poster_image/medium-b42aff956372c79398a7d469feda6462.jpeg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Hunter x Hunter."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/hunter_x_hunter_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Gon Freecss",
+              "Penname": "Jajanken",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/gon_freecss.jpg"
+            },
+            {
+              "Name": "Killua Zoldyck",
+              "Penname": "Lightning",
+              "Role": "Deuteragonist",
+              "Imageurl": "https://example.com/killua_zoldyck.jpg"
+            },
+            {
+              "Name": "Kurapika",
+              "Penname": "Chain User",
+              "Role": "Supporting Protagonist",
+              "Imageurl": "https://example.com/kurapika.jpg"
+            },
+            {
+              "Name": "Leorio Paradinight",
+              "Penname": "Doctor",
+              "Role": "Supporting Protagonist",
+              "Imageurl": "https://example.com/leorio_paradinight.jpg"
+            },
+            {
+              "Name": "Hisoka Morow",
+              "Penname": "Magician",
+              "Role": "Antagonist/Ally",
+              "Imageurl": "https://example.com/hisoka_morow.jpg"
+            },
+            {
+              "Name": "Isaac Netero",
+              "Penname": "Chairman",
+              "Role": "Hunter Association Leader",
+              "Imageurl": "https://example.com/isaac_netero.jpg"
+            },
+            {
+              "Name": "Meruem",
+              "Penname": "King",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/meruem.jpg"
+            },
+            {
+              "Name": "Ging Freecss",
+              "Penname": "Boar",
+              "Role": "Double Star Hunter",
+              "Imageurl": "https://example.com/ging_freecss.jpg"
+            },
+            {
+              "Name": "Chrollo Lucilfer",
+              "Penname": "Boss",
+              "Role": "Phantom Troupe Leader",
+              "Imageurl": "https://example.com/chrollo_lucilfer.jpg"
+            },
+            {
+              "Name": "Kite",
+              "Penname": "Crazy Slots",
+              "Role": "Mentor",
+              "Imageurl": "https://example.com/kite.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    },
+    {
+      "ItemType": "Manga",
+      "Genre": "Shonen",
+      "Type": [
+        {
+          "Title": "Dr. Stone",
+          "Author": "Riichiro Inagaki",
+          "Anime": "Dr. Stone",
+          "Artist": "Boichi",
+          "Animeurl": "https://media.kitsu.app/manga/38860/poster_image/medium-8afe92903d66bca12ff2e4594b1de8ca.jpeg",
+          "Language": "Japanese",
+          "Genres": [
+            "Shonen",
+            "Adventure",
+            "Fantasy"
+          ],
+          "Publishers": [
+            "Shueisha"
+          ],
+          "Publinshinghouses": [
+            "Jump Comics"
+          ],
+          "Originalvalue": 500,
+          "previousvalue": 480,
+          "Size": [
+            18,
+            25
+          ],
+          "Marketprice": [
+            450
+          ],
+          "Aboutmanga": [
+            "A popular shonen manga titled Dr. Stone."
+          ],
+          "Currentoffer": [
+            "10% off"
+          ],
+          "No_of_Likes": 
+            10000
+          ,
+          "No_of_Disikes": 
+            200
+          ,
+          "previousoffer": "5% off",
+          "Status": "Ongoing",
+          "Agegroup": 13,
+          "Status_age_wise": "teenagers",
+          "versions": "black&white",
+          "Volumes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "Image": "https://example.com/dr._stone_cover.jpg",
+          "Releasedate": "2015-04-03T00:00:00",
+          "Instock": true,
+          "Instockno": 500,
+          "Characters": [
+            {
+              "Name": "Senku Ishigami",
+              "Penname": "Stone Scientist",
+              "Role": "Protagonist",
+              "Imageurl": "https://example.com/senku_ishigami.jpg"
+            },
+            {
+              "Name": "Taiju Oki",
+              "Penname": "Big Oaf",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/taiju_oki.jpg"
+            },
+            {
+              "Name": "Yuzuriha Ogawa",
+              "Penname": "Craftsman",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/yuzuriha_ogawa.jpg"
+            },
+            {
+              "Name": "Chrome",
+              "Penname": "Sorcerer",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/chrome.jpg"
+            },
+            {
+              "Name": "Kohaku",
+              "Penname": "Lioness",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/kohaku.jpg"
+            },
+            {
+              "Name": "Gen Asagiri",
+              "Penname": "Mentalist",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/gen_asagiri.jpg"
+            },
+            {
+              "Name": "Tsukasa Shishio",
+              "Penname": "Strongest Primate High Schooler",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/tsukasa_shishio.jpg"
+            },
+            {
+              "Name": "Hyoga",
+              "Penname": "Spear",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/hyoga.jpg"
+            },
+            {
+              "Name": "Ryusui Nanami",
+              "Penname": "Captain",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/ryusui_nanami.jpg"
+            },
+            {
+              "Name": "Ukyo Saionji",
+              "Penname": "Archer",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/ukyo_saionji.jpg"
+            },
+            {
+              "Name": "Kaseki",
+              "Penname": "Master Craftsman",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/kaseki.jpg"
+            },
+            {
+              "Name": "Suika",
+              "Penname": "Melon Head",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/suika.jpg"
+            },
+            {
+              "Name": "Francois",
+              "Penname": "Butler",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/francois.jpg"
+            },
+            {
+              "Name": "Minami Hokutozai",
+              "Penname": "Reporter",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/minami_hokutozai.jpg"
+            },
+            {
+              "Name": "Nikki Hanada",
+              "Penname": "Wrestler",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/nikki_hanada.jpg"
+            },
+            {
+              "Name": "Yo Uei",
+              "Penname": "Gunman",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/yo_uei.jpg"
+            },
+            {
+              "Name": "Dr. Xeno",
+              "Penname": "Dr. Evil",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/dr_xeno.jpg"
+            },
+            {
+              "Name": "Stanley Snyder",
+              "Penname": "Sniper",
+              "Role": "Antagonist",
+              "Imageurl": "https://example.com/stanley_snyder.jpg"
+            },
+            {
+              "Name": "Byakuya Ishigami",
+              "Penname": "Astronaut",
+              "Role": "Mentor",
+              "Imageurl": "https://example.com/byakuya_ishigami.jpg"
+            },
+            {
+              "Name": "Lillian Weinberg",
+              "Penname": "Songstress",
+              "Role": "Supporting",
+              "Imageurl": "https://example.com/lillian_weinberg.jpg"
+            }
+          ],
+          "Reviewers_detail": [],
+          "Volume": [],
+          "NextMangaVolume": [],
+          "PreviousMangaVolume": [],
+          "Comparepopularity": []
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,1487 @@
+[
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Futari Ecchi",
+        "Author": "Katsu Aki",
+        "Anime": "Futari Ecchi OVA",
+        "Artist": "Katsu Aki",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/730/original.png",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Romance", "Comedy"],
+        "Publishers": ["Hakusensha"],
+        "Publishinghouses": ["Young Animal"],
+        "Originalvalue": 1100,
+        "previousvalue": 1250,
+        "Size": [21, 14, 2],
+        "Marketprice": [1199],
+        "Aboutmanga": ["A romantic and educational journey through a couple’s intimate life."],
+        "Currentoffer": ["10% off on first volume"],
+        "No_of_Likes": 3200,
+        "No_of_Disikes": 120,
+        "previousoffer": "15% New Year Discount",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4],
+        "Image": "https://example.com/futari-ecchi-cover.jpg",
+        "Releasedate": "2002-06-20T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 87,
+        "Characters": [
+          {
+            "Name": "Makoto Onoda",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/makoto.jpg"
+          },
+          {
+            "Name": "Yura Onoda",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/yura.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Alice",
+            "Rating": 5,
+            "Review": "Very funny and informative for couples!",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "First Time Together",
+            "No_ofuser_buy": "1400",
+            "No_ofuser_refunded": "30",
+            "Info_about_volume": "First intimate moments of the newlyweds.",
+            "No_ofchapters": 10,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/futari-ecchi-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol 2",
+            "Current_volumeLikes": 1500,
+            "Current_volumeDislikes": 80,
+            "Total_Current_volumerating_no": 1580,
+            "Previousvolume": "Vol 1",
+            "PreviousvolumeLikes": 1400,
+            "PreviousvolumeDislikes": 60,
+            "Total_Previous_volumerating_no": 1460
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "B Gata H Kei",
+        "Author": "Yoko Sanri",
+        "Anime": "B Gata H Kei",
+        "Artist": "Yoko Sanri",
+        "Animeurl": "https://m.media-amazon.com/images/M/MV5BY2NkZWMzZWEtZDIxZC00MmE3LWJkZDUtNGQ3OGI3MzdjNDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Comedy", "Romance"],
+        "Publishers": ["Shueisha"],
+        "Publishinghouses": ["Young Jump"],
+        "Originalvalue": 900,
+        "previousvalue": 1000,
+        "Size": [20, 13, 1.5],
+        "Marketprice": [950],
+        "Aboutmanga": ["A high school girl with unusual desires tries to conquer love."],
+        "Currentoffer": ["5% discount on volumes 1-3"],
+        "No_of_Likes": 2400,
+        "No_of_Disikes": 80,
+        "previousoffer": "Summer Sale 10% off",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5],
+        "Image": "https://example.com/bgata-hkei-cover.jpg",
+        "Releasedate": "2005-07-10T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 56,
+        "Characters": [
+          {
+            "Name": "Yamada",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/yamada.jpg"
+          },
+          {
+            "Name": "Tadano",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/tadano.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Mika",
+            "Rating": 4,
+            "Review": "Funny and cute, great for mature audiences.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Beginning",
+            "No_ofuser_buy": "1300",
+            "No_ofuser_refunded": "20",
+            "Info_about_volume": "Yamada starts her romantic adventures.",
+            "No_ofchapters": 12,
+            "No_ofpages": 160,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/bgata-hkei-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1200,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1250,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Nozoki Ana",
+        "Author": "Hiroki Azuma",
+        "Anime": "Nozoki Ana OVA",
+        "Artist": "Hiroki Azuma",
+        "Animeurl": "https://media.kitsu.app/manga/cover_images/10975/original.jpeg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Drama", "Romance"],
+        "Publishers": ["Shogakukan"],
+        "Publishinghouses": ["Big Comics"],
+        "Originalvalue": 1200,
+        "previousvalue": 1300,
+        "Size": [21, 14, 2],
+        "Marketprice": [1250],
+        "Aboutmanga": ["A voyeuristic story of love and secrets between neighbors."],
+        "Currentoffer": ["15% off limited time"],
+        "No_of_Likes": 2700,
+        "No_of_Disikes": 90,
+        "previousoffer": "Holiday discount 20%",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3],
+        "Image": "https://example.com/nozoki-ana-cover.jpg",
+        "Releasedate": "2009-09-15T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 43,
+        "Characters": [
+          {
+            "Name": "Kido Tatsuhiko",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/kido.jpg"
+          },
+          {
+            "Name": "Emiru Ikuno",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/emiru.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Ken",
+            "Rating": 4,
+            "Review": "Engaging and emotional story.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Peep Hole",
+            "No_ofuser_buy": "1000",
+            "No_ofuser_refunded": "10",
+            "Info_about_volume": "Introduction to the main characters and their secret.",
+            "No_ofchapters": 8,
+            "No_ofpages": 150,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/nozoki-ana-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 900,
+            "Current_volumeDislikes": 30,
+            "Total_Current_volumerating_no": 930,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Aki Sora",
+        "Author": "Masahiro Itosugi",
+        "Anime": "Aki Sora OVA",
+        "Artist": "Masahiro Itosugi",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/23004/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Drama", "Romance"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Young Magazine"],
+        "Originalvalue": 1100,
+        "previousvalue": 1150,
+        "Size": [21, 15, 1.8],
+        "Marketprice": [1130],
+        "Aboutmanga": ["A complex relationship drama between siblings."],
+        "Currentoffer": ["10% off on all volumes"],
+        "No_of_Likes": 2200,
+        "No_of_Disikes": 60,
+        "previousoffer": "New Year Special 15%",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4],
+        "Image": "https://example.com/aki-sora-cover.jpg",
+        "Releasedate": "2008-11-05T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 70,
+        "Characters": [
+          {
+            "Name": "Aki Aoi",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/aki-aoi.jpg"
+          },
+          {
+            "Name": "Sora Aoi",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/sora-aoi.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Miyu",
+            "Rating": 3,
+            "Review": "Emotional but controversial.",
+            "Overallexperience": "Neutral"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Family Ties",
+            "No_ofuser_buy": "1100",
+            "No_ofuser_refunded": "15",
+            "Info_about_volume": "Introduction to the siblings' relationship.",
+            "No_ofchapters": 9,
+            "No_ofpages": 140,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/aki-sora-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+          {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Kimi no Na wa",
+        "Author": "Makoto Shinkai",
+        "Anime": "Your Name Movie",
+        "Artist": "Makoto Shinkai",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/38482/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Romance", "Drama"],
+        "Publishers": ["Kadokawa"],
+        "Publishinghouses": ["Dengeki Comics"],
+        "Originalvalue": 1500,
+        "previousvalue": 1550,
+        "Size": [20, 13, 1.5],
+        "Marketprice": [1500],
+        "Aboutmanga": ["A romantic drama exploring connection and fate."],
+        "Currentoffer": ["No current offers"],
+        "No_of_Likes": 3100,
+        "No_of_Disikes": 70,
+        "previousoffer": "Valentine's Day 10% off",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1],
+        "Image": "https://example.com/kimi-no-na-wa-cover.jpg",
+        "Releasedate": "2016-07-10T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 100,
+        "Characters": [
+          {
+            "Name": "Taki Tachibana",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/taki.jpg"
+          },
+          {
+            "Name": "Mitsuha Miyamizu",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/mitsuha.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Hana",
+            "Rating": 5,
+            "Review": "Beautiful and touching story.",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Meeting",
+            "No_ofuser_buy": "1500",
+            "No_ofuser_refunded": "5",
+            "Info_about_volume": "The start of their mysterious connection.",
+            "No_ofchapters": 7,
+            "No_ofpages": 120,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "HenNeko",
+        "Author": "Tsunako",
+        "Anime": "The Hentai Prince and the Stony Cat",
+        "Artist": "Tsunako",
+        "Animeurl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Hentai_%C5%8Cji_to_Warawanai_Neko._light_novel_cover.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Comedy", "Romance"],
+        "Publishers": ["Fujimi Shobo"],
+        "Publishinghouses": ["Dragon Magazine"],
+        "Originalvalue": 850,
+        "previousvalue": 900,
+        "Size": [19, 13, 1.3],
+        "Marketprice": [870],
+        "Aboutmanga": ["A story about wishes gone wrong and comedic romance."],
+        "Currentoffer": ["5% off on volumes 1-2"],
+        "No_of_Likes": 1800,
+        "No_of_Disikes": 45,
+        "previousoffer": "Winter Sale 10%",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2],
+        "Image": "https://example.com/hennako-cover.jpg",
+        "Releasedate": "2010-01-15T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 34,
+        "Characters": [
+          {
+            "Name": "Youto Tsunami",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/youto.jpg"
+          },
+          {
+            "Name": "Tsukiko Tsutsukakushi",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/tsukiko.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Riku",
+            "Rating": 4,
+            "Review": "Lighthearted and funny, good adult humor.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Stony Cat",
+            "No_ofuser_buy": "800",
+            "No_ofuser_refunded": "8",
+            "Info_about_volume": "Wishes come true in unexpected ways.",
+            "No_ofchapters": 11,
+            "No_ofpages": 130,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/hennako-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Nana to Kaoru",
+        "Author": "Ryuta Amazume",
+        "Anime": "Nana to Kaoru OVA",
+        "Artist": "Ryuta Amazume",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/13100/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Romance", "Drama"],
+        "Publishers": ["Futabasha"],
+        "Publishinghouses": ["Action Comics"],
+        "Originalvalue": 1000,
+        "previousvalue": 1050,
+        "Size": [21, 14, 1.7],
+        "Marketprice": [1025],
+        "Aboutmanga": ["A story of BDSM and emotional growth."],
+        "Currentoffer": ["No current offer"],
+        "No_of_Likes": 2500,
+        "No_of_Disikes": 75,
+        "previousoffer": "Spring Sale 15%",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5],
+        "Image": "https://example.com/nana-to-kaoru-cover.jpg",
+        "Releasedate": "2008-04-20T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 65,
+        "Characters": [
+          {
+            "Name": "Nana Chigusa",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/nana.jpg"
+          },
+          {
+            "Name": "Kaoru Sugimura",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/kaoru.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Sora",
+            "Rating": 4,
+            "Review": "Explores unusual themes with care.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Awakening",
+            "No_ofuser_buy": "1100",
+            "No_ofuser_refunded": "10",
+            "Info_about_volume": "The start of their unique relationship.",
+            "No_ofchapters": 13,
+            "No_ofpages": 170,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/nana-to-kaoru-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Kimi no Na wa",
+        "Author": "Makoto Shinkai",
+        "Anime": "Kimi no Na wa",
+        "Artist": "Makoto Shinkai",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/38482/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Romance", "Drama"],
+        "Publishers": ["Kadokawa"],
+        "Publishinghouses": ["Dengeki Comics"],
+        "Originalvalue": 1500,
+        "previousvalue": 1550,
+        "Size": [20, 13, 1.5],
+        "Marketprice": [1500],
+        "Aboutmanga": ["A romantic drama exploring connection and fate."],
+        "Currentoffer": ["No current offers"],
+        "No_of_Likes": 3100,
+        "No_of_Disikes": 70,
+        "previousoffer": "Valentine's Day 10% off",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1],
+        "Image": "https://example.com/kimi-no-na-wa-cover.jpg",
+        "Releasedate": "2016-07-10T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 100,
+        "Characters": [
+          {
+            "Name": "Taki Tachibana",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/taki.jpg"
+          },
+          {
+            "Name": "Mitsuha Miyamizu",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/mitsuha.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Hana",
+            "Rating": 5,
+            "Review": "Beautiful and touching story.",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Meeting",
+            "No_ofuser_buy": "1500",
+            "No_ofuser_refunded": "5",
+            "Info_about_volume": "The start of their mysterious connection.",
+            "No_ofchapters": 7,
+            "No_ofpages": 120,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Discipline: The Record of a Crusade",
+      "Author": "Miyabi Tsuzuru",
+      "Anime": "Discipline: The Hentai Academy",
+      "Artist": "Miyabi Tsuzuru",
+      "Animeurl": "https://images.gog.com/b70ca5c1753e58bed0c7a28cc4e088792adeaae1504de70d5154e27c7b0f56f1_glx_vertical_cover.webp?namespace=gamesdb",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "School", "Mind Control", "Big Breasts", "Femdom", "Romance"],
+      "Publishers": ["ActiveSoft"],
+      "Publishinghouses": ["Media Blasters (Kitty Media)"],
+      "Originalvalue": 1190,
+      "previousvalue": 1350,
+      "Size": [18.2, 12.7, 1.5],
+      "Marketprice": [1120],
+      "Aboutmanga": ["Takuro Hayami joins a prestigious academy full of strange rules and even stranger students. What follows is a tale of manipulation, romance, and control."],
+      "Currentoffer": ["Free shipping on orders above ₹1000"],
+      "No_of_Likes": 3400,
+      "No_of_Disikes": 250,
+      "previousoffer": "Limited New Year Deal 12%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "Uncensored",
+      "Volumes": [2],
+      "Image": "https://img.myanimelist.net/images/anime/2/7349.jpg",
+      "Releasedate": "2003-07-25T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 18,
+      "Characters": [
+        {
+          "Name": "Takuro Hayami",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/6/34724.jpg"
+        },
+        {
+          "Name": "Saori Kusanagi",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/10/34725.jpg"
+        },
+        {
+          "Name": "Mizuki Yuuki",
+          "Penname": "",
+          "Role": "Antagonist",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/13/34726.jpg"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "SenpaiOtaku99",
+          "Rating": 4,
+          "Review": "Classic. Strong plot for hentai, unique power dynamics. A bit dated but still a great watch.",
+          "Overallexperience": "Good"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Arrival and Training",
+          "No_ofuser_buy": "1700",
+          "No_ofuser_refunded": "25",
+          "Info_about_volume": "Takuro's first encounters at the academy and learning the strange system.",
+          "No_ofchapters": 5,
+          "No_ofpages": 98,
+          "Modifiedvolume_name": "Director's Cut",
+          "Modifiedvolume_info": "Added content for scenes in Episode 2 and 4.",
+          "Modifiedvolume_no_of_pages": 104
+        },
+        {
+          "Currentvolume_no": "2",
+          "Currentvolume_name": "The Final Control",
+          "No_ofuser_buy": "1450",
+          "No_ofuser_refunded": "20",
+          "Info_about_volume": "Takuro takes charge as the mystery of the academy unfolds.",
+          "No_ofchapters": 6,
+          "No_ofpages": 102,
+          "Modifiedvolume_name": "Uncut Edition",
+          "Modifiedvolume_info": "Includes an extended ending and bonus scenes.",
+          "Modifiedvolume_no_of_pages": 108
+        }
+      ],
+      "NextMangaVolume": [],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 2",
+          "Current_volumeLikes": 1600,
+          "Current_volumeDislikes": 90,
+          "Total_Current_volumerating_no": 1690,
+          "Previousvolume": "Vol 1",
+          "PreviousvolumeLikes": 1800,
+          "PreviousvolumeDislikes": 110,
+          "Total_Previous_volumerating_no": 1910
+        }
+      ]
+    }
+  ]
+},
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Ane Kyun!: Big Sister Love",
+      "Author": "Yoshiron",
+      "Anime": "Ane Kyun!",
+      "Artist": "Yoshiron",
+      "Animeurl": "https://i.aki-h.com/images/10oP04f.webp",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "Incest", "Onee-san", "Comedy"],
+      "Publishers": ["Queen Bee"],
+      "Publishinghouses": ["Comic Grape"],
+      "Originalvalue": 990,
+      "previousvalue": 1050,
+      "Size": [18.5, 13, 1.2],
+      "Marketprice": [960],
+      "Aboutmanga": ["A boy recovering from an accident is taken care of by his busty older sister, leading to a very close relationship."],
+      "Currentoffer": ["9% off on first purchase"],
+      "No_of_Likes": 2900,
+      "No_of_Disikes": 120,
+      "previousoffer": "Summer Sale 10%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "black&white",
+      "Volumes": [1],
+      "Image": "https://img.myanimelist.net/images/anime/11/87953.jpg",
+      "Releasedate": "2015-02-27T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 31,
+      "Characters": [
+        {
+          "Name": "Takashi",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/11/318903.jpg"
+        },
+        {
+          "Name": "Kana",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/9/318902.jpg"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "Yuuta",
+          "Rating": 4,
+          "Review": "Art is great, funny and steamy. A classic big-sister fantasy with heart.",
+          "Overallexperience": "Very Good"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Nursing With Love",
+          "No_ofuser_buy": "2100",
+          "No_ofuser_refunded": "18",
+          "Info_about_volume": "The entire volume covers their growing bond, from care to intimate connection.",
+          "No_ofchapters": 6,
+          "No_ofpages": 120,
+          "Modifiedvolume_name": "Uncensored Version",
+          "Modifiedvolume_info": "Includes bath scene and extended final scene.",
+          "Modifiedvolume_no_of_pages": 125
+        }
+      ],
+      "NextMangaVolume": [],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 1",
+          "Current_volumeLikes": 2800,
+          "Current_volumeDislikes": 130,
+          "Total_Current_volumerating_no": 2930,
+          "Previousvolume": "Vol 0",
+          "PreviousvolumeLikes": 0,
+          "PreviousvolumeDislikes": 0,
+          "Total_Previous_volumerating_no": 0
+        }
+      ]
+    }
+  ]
+},
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Bible Black",
+      "Author": "ActiveSoft",
+      "Anime": "Bible Black",
+      "Artist": "Yuki Takanashi",
+      "Animeurl": "https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "Occult", "Supernatural", "School"],
+      "Publishers": ["Milky Studio"],
+      "Publishinghouses": ["ActiveSoft"],
+      "Originalvalue": 1050,
+      "previousvalue": 1100,
+      "Size": [20, 14, 1.8],
+      "Marketprice": [1020],
+      "Aboutmanga": ["A supernatural hentai thriller revolving around a magical book, dark rituals, and school corruption."],
+      "Currentoffer": ["10% off Supernatural Bundle"],
+      "No_of_Likes": 6200,
+      "No_of_Disikes": 420,
+      "previousoffer": "Halloween Special 20%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "black&white",
+      "Volumes": [1, 2, 3],
+      "Image": "https://img.myanimelist.net/images/anime/6/17307.jpg",
+      "Releasedate": "2001-07-14T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 65,
+      "Characters": [
+        {
+          "Name": "Taki Minase",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/11/334715.jpg"
+        },
+        {
+          "Name": "Rika Shiraki",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/2/334717.jpg"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "Ken",
+          "Rating": 5,
+          "Review": "A cult classic. Deep story, iconic visuals, very dark.",
+          "Overallexperience": "Outstanding"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "The Black Bible",
+          "No_ofuser_buy": "5000",
+          "No_ofuser_refunded": "50",
+          "Info_about_volume": "Discovery of the magic book and the beginning of occult involvement.",
+          "No_ofchapters": 8,
+          "No_ofpages": 150,
+          "Modifiedvolume_name": "Collector's Edition",
+          "Modifiedvolume_info": "Includes early drafts and extra uncensored scenes.",
+          "Modifiedvolume_no_of_pages": 160
+        }
+      ],
+      "NextMangaVolume": [
+        { "Nexturls": "https://example.com/bibleblack-vol2" }
+      ],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 1",
+          "Current_volumeLikes": 6000,
+          "Current_volumeDislikes": 400,
+          "Total_Current_volumerating_no": 6400,
+          "Previousvolume": "Vol 0",
+          "PreviousvolumeLikes": 0,
+          "PreviousvolumeDislikes": 0,
+          "Total_Previous_volumerating_no": 0
+        }
+      ]
+    }
+  ]
+},
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Oni Chichi",
+      "Author": "PoRO",
+      "Anime": "Oni Chichi",
+      "Artist": "PoRO",
+      "Animeurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQ-BrWe74Q-TdiMJWMbOyRxLXr_F1QO9Dmg&s",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "Incest", "School", "MILF"],
+      "Publishers": ["PoRO"],
+      "Publishinghouses": ["Media Bank"],
+      "Originalvalue": 980,
+      "previousvalue": 1020,
+      "Size": [19, 12.5, 1.6],
+      "Marketprice": [950],
+      "Aboutmanga": ["Stepfather targets his daughters in this intense and darkly themed hentai series."],
+      "Currentoffer": ["5% off uncensored edition"],
+      "No_of_Likes": 4100,
+      "No_of_Disikes": 720,
+      "previousoffer": "Spring Bundle 12%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "black&white",
+      "Volumes": [1],
+      "Image": "https://img.myanimelist.net/images/anime/3/24673.jpg",
+      "Releasedate": "2009-06-26T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 17,
+      "Characters": [
+        {
+          "Name": "Ojisan",
+          "Penname": "Stepfather",
+          "Role": "Antagonist",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/4/304509.jpg"
+        },
+        {
+          "Name": "Airi",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/7/304508.jpg"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "Renji",
+          "Rating": 2,
+          "Review": "Controversial and not recommended unless you're into darker themes.",
+          "Overallexperience": "Poor"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Dark Desires",
+          "No_ofuser_buy": "2100",
+          "No_ofuser_refunded": "120",
+          "Info_about_volume": "The beginning of an uncomfortable step-family relationship.",
+          "No_ofchapters": 6,
+          "No_ofpages": 100,
+          "Modifiedvolume_name": "Uncensored",
+          "Modifiedvolume_info": "No censorship and new panels.",
+          "Modifiedvolume_no_of_pages": 110
+        }
+      ],
+      "NextMangaVolume": [],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 1",
+          "Current_volumeLikes": 4000,
+          "Current_volumeDislikes": 700,
+          "Total_Current_volumerating_no": 4700,
+          "Previousvolume": "Vol 0",
+          "PreviousvolumeLikes": 0,
+          "PreviousvolumeDislikes": 0,
+          "Total_Previous_volumerating_no": 0
+        }
+      ]
+    }
+  ]
+},
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Imouto Paradise!",
+      "Author": "Moonstone",
+      "Anime": "Imouto Paradise!",
+      "Artist": "Kagami Hirotaka",
+      "Animeurl": "https://media.kitsu.app/manga/poster_images/27731/original.jpg",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "Incest", "Harem"],
+      "Publishers": ["Moonstone Cherry"],
+      "Publishinghouses": ["Comic Anthurium"],
+      "Originalvalue": 1100,
+      "previousvalue": 1200,
+      "Size": [20, 13, 1.4],
+      "Marketprice": [1080],
+      "Aboutmanga": ["A lewd comedy about a brother living under one roof with five mischievous sisters."],
+      "Currentoffer": ["10% off on Box Set"],
+      "No_of_Likes": 4600,
+      "No_of_Disikes": 280,
+      "previousoffer": "Golden Week 15%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "black&white",
+      "Volumes": [1, 2],
+      "Image": "https://img.myanimelist.net/images/anime/3/36841.jpg",
+      "Releasedate": "2011-04-30T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 52,
+      "Characters": [
+        {
+          "Name": "Soutarou",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://static.wikia.nocookie.net/imoutoparadise/images/7/7d/Soutarou.png"
+        },
+        {
+          "Name": "Aya Nanase",
+          "Penname": "",
+          "Role": "Love-Interest",
+          "Imageurl": "https://static.wikia.nocookie.net/imoutoparadise/images/3/30/Aya.png"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "Haruki",
+          "Rating": 5,
+          "Review": "Bold, comedic and super spicy. If you like the taboo genre, this is iconic.",
+          "Overallexperience": "Excellent"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "Sisterly Bonds",
+          "No_ofuser_buy": "2900",
+          "No_ofuser_refunded": "20",
+          "Info_about_volume": "Introduction to all sisters and family dynamics begin.",
+          "No_ofchapters": 9,
+          "No_ofpages": 145,
+          "Modifiedvolume_name": "Deluxe Edition",
+          "Modifiedvolume_info": "Extra chapter and uncensored art.",
+          "Modifiedvolume_no_of_pages": 150
+        }
+      ],
+      "NextMangaVolume": [
+        { "Nexturls": "https://example.com/imouto-vol2" }
+      ],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 1",
+          "Current_volumeLikes": 4550,
+          "Current_volumeDislikes": 290,
+          "Total_Current_volumerating_no": 4840,
+          "Previousvolume": "Vol 0",
+          "PreviousvolumeLikes": 0,
+          "PreviousvolumeDislikes": 0,
+          "Total_Previous_volumerating_no": 0
+        }
+      ]
+    }
+  ]
+},
+  {
+  "ItemType": "Manga",
+  "Genre": "Hentai",
+  "Type": [
+    {
+      "Title": "Shoujo Ramune",
+      "Author": "Gambler Club",
+      "Anime": "Shoujo Ramune",
+      "Artist": "Gambler Club",
+      "Animeurl": "https://image.tmdb.org/t/p/w500/tOnd4FmE9kuAgYVrCL1K8QlwwM2.jpg",
+      "Language": "Japanese",
+      "Genres": ["Hentai", "School", "Loli"],
+      "Publishers": ["MS Pictures"],
+      "Publishinghouses": ["Comic LO"],
+      "Originalvalue": 900,
+      "previousvalue": 950,
+      "Size": [18, 12, 1.5],
+      "Marketprice": [880],
+      "Aboutmanga": ["A story centered around a man who opens a candy shop and gets involved with local schoolgirls."],
+      "Currentoffer": ["7% off on launch week"],
+      "No_of_Likes": 3200,
+      "No_of_Disikes": 130,
+      "previousoffer": "Summer Sale 12%",
+      "Status": "Completed",
+      "Agegroup": 18,
+      "Status_age_wise": "Adult",
+      "versions": "black&white",
+      "Volumes": [1],
+      "Image": "https://m.media-amazon.com/images/M/MV5BNjdiNjEwMmItMzNkZC00NjdiLWE4MjAtNThkYjgxYTZjZWZhXkEyXkFqcGdeQXVyNjQzNDUzMzE@._V1_.jpg",
+      "Releasedate": "2016-08-26T00:00:00.000Z",
+      "Instock": true,
+      "Instockno": 24,
+      "Characters": [
+        {
+          "Name": "Tokitani",
+          "Penname": "",
+          "Role": "Protagonist",
+          "Imageurl": "https://mywaifulist.moe/_next/image?url=https%3A%2F%2Fcdn.myanimelist.net%2Fimages%2Fcharacters%2F6%2F348007.jpg&w=1920&q=75"
+        },
+        {
+          "Name": "Mikuni",
+          "Penname": "",
+          "Role": "Supporting",
+          "Imageurl": "https://cdn.myanimelist.net/images/characters/5/348006.jpg"
+        }
+      ],
+      "Reviewers_detail": [
+        {
+          "ReviewerName": "Yuto",
+          "Rating": 3,
+          "Review": "Art is solid, but story is very controversial and not for everyone.",
+          "Overallexperience": "Mixed"
+        }
+      ],
+      "Volume": [
+        {
+          "Currentvolume_no": "1",
+          "Currentvolume_name": "The Candy Shop",
+          "No_ofuser_buy": "1400",
+          "No_ofuser_refunded": "15",
+          "Info_about_volume": "Introduction to the main character and setting. First interactions with students.",
+          "No_ofchapters": 7,
+          "No_ofpages": 120,
+          "Modifiedvolume_name": "Uncensored Edition",
+          "Modifiedvolume_info": "Includes scenes not available in the TV cut.",
+          "Modifiedvolume_no_of_pages": 125
+        }
+      ],
+      "NextMangaVolume": [],
+      "PreviousMangaVolume": [],
+      "Comparepopularity": [
+        {
+          "Currentvolume": "Vol 1",
+          "Current_volumeLikes": 3100,
+          "Current_volumeDislikes": 140,
+          "Total_Current_volumerating_no": 3240,
+          "Previousvolume": "Vol 0",
+          "PreviousvolumeLikes": 0,
+          "PreviousvolumeDislikes": 0,
+          "Total_Previous_volumerating_no": 0
+        }
+      ]
+    }
+  ]
+},
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "HenNeko",
+        "Author": "Tsunako",
+        "Anime": "The Hentai Prince and the Stony Cat",
+        "Artist": "Tsunako",
+        "Animeurl": "https://m.media-amazon.com/images/M/MV5BYWQ0Nzg2ZTgtZmQ0OS00OWNkLWJkZmMtMGU4ZTZhOGNlYzFmXkEyXkFqcGc@._V1_FMjpg_UX289_.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Comedy", "Romance"],
+        "Publishers": ["Fujimi Shobo"],
+        "Publishinghouses": ["Dragon Magazine"],
+        "Originalvalue": 850,
+        "previousvalue": 900,
+        "Size": [19, 13, 1.3],
+        "Marketprice": [870],
+        "Aboutmanga": ["A story about wishes gone wrong and comedic romance."],
+        "Currentoffer": ["5% off on volumes 1-2"],
+        "No_of_Likes": 1800,
+        "No_of_Disikes": 45,
+        "previousoffer": "Winter Sale 10%",
+        "Status": "Completed",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2],
+        "Image": "https://example.com/hennako-cover.jpg",
+        "Releasedate": "2010-01-15T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 34,
+        "Characters": [
+          {
+            "Name": "Youto Tsunami",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/youto.jpg"
+          },
+          {
+            "Name": "Tsukiko Tsutsukakushi",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/tsukiko.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Riku",
+            "Rating": 4,
+            "Review": "Lighthearted and funny, good adult humor.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "The Stony Cat",
+            "No_ofuser_buy": "800",
+            "No_ofuser_refunded": "8",
+            "Info_about_volume": "Wishes come true in unexpected ways.",
+            "No_ofchapters": 11,
+            "No_ofpages": 130,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/hennako-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Nana to Kaoru",
+        "Author": "Ryuta Amazume",
+        "Anime": "Nana to Kaoru OVA",
+        "Artist": "Ryuta Amazume",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/13100/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Romance", "Drama"],
+        "Publishers": ["Futabasha"],
+        "Publishinghouses": ["Action Comics"],
+        "Originalvalue": 1000,
+        "previousvalue": 1050,
+        "Size": [21, 14, 1.7],
+        "Marketprice": [1025],
+        "Aboutmanga": ["A story of BDSM and emotional growth."],
+        "Currentoffer": ["No current offer"],
+        "No_of_Likes": 2500,
+        "No_of_Disikes": 75,
+        "previousoffer": "Spring Sale 15%",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5],
+        "Image": "https://example.com/nana-to-kaoru-cover.jpg",
+        "Releasedate": "2008-04-20T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 65,
+        "Characters": [
+          {
+            "Name": "Nana Chigusa",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/nana.jpg"
+          },
+          {
+            "Name": "Kaoru Sugimura",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/kaoru.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Sora",
+            "Rating": 4,
+            "Review": "Explores unusual themes with care.",
+            "Overallexperience": "Good"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Awakening",
+            "No_ofuser_buy": "1100",
+            "No_ofuser_refunded": "10",
+            "Info_about_volume": "The start of their unique relationship.",
+            "No_ofchapters": 13,
+            "No_ofpages": 170,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/nana-to-kaoru-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Manga",
+    "Genre": "Hentai",
+    "Type": [
+      {
+        "Title": "Kiss x Sis",
+        "Author": "Bow Ditama",
+        "Anime": "Kiss x Sis OVA",
+        "Artist": "Bow Ditama",
+        "Animeurl": "https://media.kitsu.app/manga/poster_images/6532/original.jpg",
+        "Language": "Japanese",
+        "Genres": ["Hentai", "Comedy", "Romance"],
+        "Publishers": ["Kodansha"],
+        "Publishinghouses": ["Young Magazine"],
+        "Originalvalue": 950,
+        "previousvalue": 1000,
+        "Size": [21, 14, 2],
+        "Marketprice": [975],
+        "Aboutmanga": ["A comedy about step-sibling romance."],
+        "Currentoffer": ["5% off on volumes 1-4"],
+        "No_of_Likes": 2300,
+        "No_of_Disikes": 85,
+        "previousoffer": "10% Summer Discount",
+        "Status": "Ongoing",
+        "Agegroup": 18,
+        "Status_age_wise": "Adult",
+        "versions": "black&white",
+        "Volumes": [1, 2, 3, 4, 5, 6],
+        "Image": "https://example.com/kissxsis-cover.jpg",
+        "Releasedate": "2005-10-18T00:00:00.000Z",
+        "Instock": true,
+        "Instockno": 60,
+        "Characters": [
+          {
+            "Name": "Keita Suminoe",
+            "Penname": "",
+            "Role": "Protagonist",
+            "Imageurl": "https://example.com/keita.jpg"
+          },
+          {
+            "Name": "Ako Suminoe",
+            "Penname": "",
+            "Role": "Love-Interest",
+            "Imageurl": "https://example.com/ako.jpg"
+          }
+        ],
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "Yuki",
+            "Rating": 3,
+            "Review": "Funny but a bit repetitive.",
+            "Overallexperience": "Average"
+          }
+        ],
+        "Volume": [
+          {
+            "Currentvolume_no": "1",
+            "Currentvolume_name": "Step-sibling Life",
+            "No_ofuser_buy": "1200",
+            "No_ofuser_refunded": "15",
+            "Info_about_volume": "Introduction to the complicated relationships.",
+            "No_ofchapters": 14,
+            "No_ofpages": 180,
+            "Modifiedvolume_name": "None",
+            "Modifiedvolume_info": "",
+            "Modifiedvolume_no_of_pages": 0
+          }
+        ],
+        "NextMangaVolume": [
+          { "Nexturls": "https://example.com/kissxsis-vol2" }
+        ],
+        "PreviousMangaVolume": [],
+        "Comparepopularity": [
+            {
+            "Currentvolume": "Vol 1",
+            "Current_volumeLikes": 1050,
+            "Current_volumeDislikes": 50,
+            "Total_Current_volumerating_no": 1100,
+            "Previousvolume": "Vol 0",
+            "PreviousvolumeLikes": 0,
+            "PreviousvolumeDislikes": 0,
+            "Total_Previous_volumerating_no": 0
+          }
+        ]
+      }
+    ]
+  }
+]

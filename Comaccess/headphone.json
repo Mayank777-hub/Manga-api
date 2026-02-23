@@ -1,0 +1,602 @@
+[
+     {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Naruto Nine-Tails Mode Headphones",
+        "Brand": "AnimeTech",
+        "Model": "NT-H01",
+        "Compatibility": ["PC", "PS5", "Mobile", "Switch"],
+        "Image": "ninetails-headphones-main.jpg",
+        "ProductGallery": ["ninetails-headphones-1.jpg", "ninetails-headphones-2.jpg", "ninetails-headphones-3.jpg"],
+        "Color": ["Orange", "Black"],
+        "Material": "Metal Frame, Memory Foam",
+        "Connectivity": "3.5mm, USB-C, Wireless",
+        "Features": ["Chakra Mode RGB", "7.1 Surround Sound", "Noise Cancelling", "Retractable Mic"],
+        "Size": ["Adjustable Headband"],
+        "Weight": 0.320,
+        "Originalvalue": 149.99,
+        "previousvalue": 169.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "12% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "AnimeTech Audio",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 75,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 11,
+        "Description": "Naruto Nine-Tails Chakra Mode inspired gaming headphones with vibrant orange lighting and premium audio",
+        "Releasedate": "2023-11-01T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NarutoFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user41", "user42"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Believe it! The sound quality is amazing and design is perfect",
+            "ReviewProfileImage": "reviewer21.jpg",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "NT-H01",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "NT-H00",
+            "PreviousModelLikes": 223,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-11-01T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "One Piece Bounty Poster Headphones",
+        "Brand": "PirateTech",
+        "Model": "BP-H02",
+        "Compatibility": ["PC", "Mobile", "Tablet"],
+        "Image": "bounty-headphones-main.jpg",
+        "ProductGallery": ["bounty-headphones-1.jpg", "bounty-headphones-2.jpg", "bounty-headphones-3.jpg"],
+        "Color": ["Yellow", "Black"],
+        "Material": "Plastic, Protein Leather",
+        "Connectivity": "Bluetooth 5.2, 3.5mm",
+        "Features": ["Wanted Poster Design", "Foldable", "30hr Battery", "Built-in Mic"],
+        "Size": ["Adjustable"],
+        "Weight": 0.280,
+        "Originalvalue": 99.99,
+        "previousvalue": 119.99,
+        "Marketprice": 79.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "17% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "PirateTech Audio",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 120,
+        "No_of_Likes": 189,
+        "No_of_Disikes": 8,
+        "Description": "One Piece Wanted Poster themed wireless headphones with foldable design and long battery life",
+        "Releasedate": "2023-10-15T00:00:00Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKing",
+            "ReviewerLike": 38,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user43", "user44"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "King of the headphones! Great for music and calls",
+            "ReviewProfileImage": "reviewer22.jpg",
+            "date": "2023-10-20T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "BP-H02",
+            "CurrentModelLikes": 189,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "BP-H01",
+            "PreviousModelLikes": 156,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-10-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Demon Slayer Hashira Training Headphones",
+        "Brand": "HashiraTech",
+        "Model": "HT-H03",
+        "Compatibility": ["PC", "PS5", "Xbox"],
+        "Image": "hashira-headphones-main.jpg",
+        "ProductGallery": ["hashira-headphones-1.jpg", "hashira-headphones-2.jpg", "hashira-headphones-3.jpg"],
+        "Color": ["Multi-color", "Black"],
+        "Material": "Aluminum Frame, Velour Earpads",
+        "Connectivity": "USB, 3.5mm, Wireless",
+        "Features": ["Hashira Symbol RGB", "Noise Isolation", "50mm Drivers", "Breathing Training Mode"],
+        "Size": ["Over-ear"],
+        "Weight": 0.350,
+        "Originalvalue": 179.99,
+        "previousvalue": 199.99,
+        "Marketprice": 143.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "10% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HashiraTech Gaming",
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 60,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 9,
+        "Description": "Demon Slayer Hashira themed premium headphones with individual Hashira symbols and immersive audio",
+        "Releasedate": "2023-09-20T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HashiraFan",
+            "ReviewerLike": 48,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user45", "user46"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Total concentration! The audio quality is incredible",
+            "ReviewProfileImage": "reviewer23.jpg",
+            "date": "2023-09-25T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HT-H03",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "HT-H02",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-09-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might Speaker Headphones",
+        "Brand": "HeroTech",
+        "Model": "AM-H04",
+        "Compatibility": ["PC", "PS5", "Mobile"],
+        "Image": "allmight-headphones-main.jpg",
+        "ProductGallery": ["allmight-headphones-1.jpg", "allmight-headphones-2.jpg", "allmight-headphones-3.jpg"],
+        "Color": ["Yellow", "Blue"],
+        "Material": "Plastic, Fabric Earpads",
+        "Connectivity": "Wireless, 3.5mm Jack",
+        "Features": ["Plus Ultra Mode", "Voice Amplification", "40mm Drivers", "Detachable Mic"],
+        "Size": ["Over-ear"],
+        "Weight": 0.310,
+        "Originalvalue": 129.99,
+        "previousvalue": 149.99,
+        "Marketprice": 103.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HeroTech Audio",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 95,
+        "No_of_Likes": 245,
+        "No_of_Disikes": 10,
+        "Description": "All Might inspired headphones with Plus Ultra voice amplification feature and vibrant color scheme",
+        "Releasedate": "2023-08-15T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HeroFan",
+            "ReviewerLike": 52,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user47", "user48"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Plus Ultra sound quality! The voice feature is amazing",
+            "ReviewProfileImage": "reviewer24.jpg",
+            "date": "2023-08-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "AM-H04",
+            "CurrentModelLikes": 245,
+            "CurrentModelDislikes": 10,
+            "PreviousModel": "AM-H03",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-08-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Attack on Titan Scout Regiment Headset",
+        "Brand": "ScoutTech",
+        "Model": "SR-H05",
+        "Compatibility": ["PC", "PS5", "Xbox Series X"],
+        "Image": "scout-headphones-main.jpg",
+        "ProductGallery": ["scout-headphones-1.jpg", "scout-headphones-2.jpg", "scout-headphones-3.jpg"],
+        "Color": ["Brown", "White"],
+        "Material": "Leather, Metal Frame",
+        "Connectivity": "USB, 3.5mm, Wireless",
+        "Features": ["Wings of Freedom LED", "7.1 Surround", "Noise Cancelling", "Boom Mic"],
+        "Size": ["Over-ear", "Adjustable"],
+        "Weight": 0.380,
+        "Originalvalue": 159.99,
+        "previousvalue": 179.99,
+        "Marketprice": 127.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "11% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "ScoutTech Gaming",
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 70,
+        "No_of_Likes": 223,
+        "No_of_Disikes": 12,
+        "Description": "Survey Corps themed premium gaming headset with military-grade build and immersive audio",
+        "Releasedate": "2023-07-10T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ScoutFan",
+            "ReviewerLike": 47,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user49", "user50"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Dedicate your hearts! Built like military equipment, sounds amazing",
+            "ReviewProfileImage": "reviewer25.jpg",
+            "date": "2023-07-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SR-H05",
+            "CurrentModelLikes": 223,
+            "CurrentModelDislikes": 12,
+            "PreviousModel": "SR-H04",
+            "PreviousModelLikes": 189,
+            "PreviousModelDislikes": 10,
+            "CurrentModelDate": "2023-07-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Cursed Energy Noise Cancelling",
+        "Brand": "SorcererTech",
+        "Model": "CE-H06",
+        "Compatibility": ["PC", "Mobile", "Tablet"],
+        "Image": "cursed-headphones-main.jpg",
+        "ProductGallery": ["cursed-headphones-1.jpg", "cursed-headphones-2.jpg", "cursed-headphones-3.jpg"],
+        "Color": ["Purple", "Black"],
+        "Material": "Plastic, Memory Foam",
+        "Connectivity": "Bluetooth 5.3, 3.5mm",
+        "Features": ["Cursed Energy LED", "Active Noise Cancelling", "30hr Battery", "Touch Controls"],
+        "Size": ["Over-ear"],
+        "Weight": 0.290,
+        "Originalvalue": 139.99,
+        "previousvalue": 159.99,
+        "Marketprice": 111.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SorcererTech Audio",
+        "CountryOfOrigin": "South Korea",
+        "Instock": true,
+        "Instockno": 85,
+        "No_of_Likes": 278,
+        "No_of_Disikes": 9,
+        "Description": "Jujutsu Kaisen themed wireless headphones with cursed energy lighting and premium noise cancellation",
+        "Releasedate": "2023-06-12T00:00:00Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GojoSimp",
+            "ReviewerLike": 61,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user51", "user52"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The strongest headphones! Noise cancellation is incredible",
+            "ReviewProfileImage": "reviewer26.jpg",
+            "date": "2023-06-18T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "CE-H06",
+            "CurrentModelLikes": 278,
+            "CurrentModelDislikes": 9,
+            "PreviousModel": "CE-H05",
+            "PreviousModelLikes": 234,
+            "PreviousModelDislikes": 7,
+            "CurrentModelDate": "2023-06-12T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Hybrid Transformation Headset",
+        "Brand": "DevilTech",
+        "Model": "HT-H07",
+        "Compatibility": ["PC", "PS5"],
+        "Image": "chainsaw-headphones-main.jpg",
+        "ProductGallery": ["chainsaw-headphones-1.jpg", "chainsaw-headphones-2.jpg", "chainsaw-headphones-3.jpg"],
+        "Color": ["Red", "Silver"],
+        "Material": "Metal, Leather",
+        "Connectivity": "USB, 3.5mm",
+        "Features": ["Chainsaw Blade Design", "RGB Blood Effects", "50mm Drivers", "Retractable Mic"],
+        "Size": ["Over-ear"],
+        "Weight": 0.410,
+        "Originalvalue": 169.99,
+        "previousvalue": 189.99,
+        "Marketprice": 135.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "11% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "DevilTech Gaming",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 55,
+        "No_of_Likes": 201,
+        "No_of_Disikes": 14,
+        "Description": "Chainsaw Man inspired gaming headset with aggressive chainsaw blade design and blood red lighting",
+        "Releasedate": "2023-05-20T00:00:00Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DenjiFan",
+            "ReviewerLike": 42,
+            "ReviewerDisLike": 6,
+            "ReviewerLikeby": ["user53", "user54"],
+            "ReviewerDisLikeby": [],
+            "Rating": 4,
+            "Review": "Bloody awesome design! Comfortable for long sessions",
+            "ReviewProfileImage": "reviewer27.jpg",
+            "date": "2023-05-25T00:00:00Z",
+            "Overallexperience": "Very Good"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "HT-H07",
+            "CurrentModelLikes": 201,
+            "CurrentModelDislikes": 14,
+            "PreviousModel": "HT-H06",
+            "PreviousModelLikes": 167,
+            "PreviousModelDislikes": 11,
+            "CurrentModelDate": "2023-05-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Spy x Family Forger Family Earbuds",
+        "Brand": "WakuTech",
+        "Model": "FF-H08",
+        "Compatibility": ["Mobile", "Tablet", "Laptop"],
+        "Image": "forger-earbuds-main.jpg",
+        "ProductGallery": ["forger-earbuds-1.jpg", "forger-earbuds-2.jpg", "forger-earbuds-3.jpg"],
+        "Color": ["Pink", "Black", "Brown"],
+        "Material": "Plastic, Silicone Tips",
+        "Connectivity": "Bluetooth 5.0",
+        "Features": ["Family Portrait Case", "Noise Isolation", "20hr Battery", "Wireless Charging"],
+        "Size": ["Multiple Ear Tips"],
+        "Weight": 0.045,
+        "Originalvalue": 79.99,
+        "previousvalue": 99.99,
+        "Marketprice": 63.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "20% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "WakuTech Audio",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 180,
+        "No_of_Likes": 312,
+        "No_of_Disikes": 6,
+        "Description": "Spy x Family themed true wireless earbuds with custom family portrait charging case",
+        "Releasedate": "2023-04-15T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaLover",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user55", "user56"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Waku waku! The family case is adorable, sound is great",
+            "ReviewProfileImage": "reviewer28.jpg",
+            "date": "2023-04-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "FF-H08",
+            "CurrentModelLikes": 312,
+            "CurrentModelDislikes": 6,
+            "PreviousModel": "FF-H07",
+            "PreviousModelLikes": 278,
+            "PreviousModelDislikes": 4,
+            "CurrentModelDate": "2023-04-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Bleach Soul Society Over-Ear Headphones",
+        "Brand": "SoulTech",
+        "Model": "SS-H09",
+        "Compatibility": ["PC", "PS5", "Mobile"],
+        "Image": "soul-headphones-main.jpg",
+        "ProductGallery": ["soul-headphones-1.jpg", "soul-headphones-2.jpg", "soul-headphones-3.jpg"],
+        "Color": ["Black", "White"],
+        "Material": "Leather, Metal",
+        "Connectivity": "3.5mm, USB-C",
+        "Features": ["Soul Society Design", "Hi-Res Audio", "Foldable", "Carrying Case"],
+        "Size": ["Over-ear"],
+        "Weight": 0.320,
+        "Originalvalue": 149.99,
+        "previousvalue": 169.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "12% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "SoulTech Audio",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 80,
+        "No_of_Likes": 234,
+        "No_of_Disikes": 11,
+        "Description": "Bleach Soul Society inspired premium headphones with high-resolution audio and elegant design",
+        "Releasedate": "2023-03-10T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "IchigoFan",
+            "ReviewerLike": 48,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user57", "user58"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Bankai! The audio quality is soul-crushingly good",
+            "ReviewProfileImage": "reviewer29.jpg",
+            "date": "2023-03-15T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SS-H09",
+            "CurrentModelLikes": 234,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "SS-H08",
+            "PreviousModelLikes": 201,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-03-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Headphones",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Super Saiyan Wireless Headset",
+        "Brand": "SaiyanTech",
+        "Model": "SS-H10",
+        "Compatibility": ["PC", "Mobile", "Tablet"],
+        "Image": "saiyan-headphones-main.jpg",
+        "ProductGallery": ["saiyan-headphones-1.jpg", "saiyan-headphones-2.jpg", "saiyan-headphones-3.jpg"],
+        "Color": ["Yellow", "Blue"],
+        "Material": "Plastic, Fabric",
+        "Connectivity": "Bluetooth 5.1, 3.5mm",
+        "Features": ["Super Saiyan Glow", "25hr Battery", "Built-in Mic", "Aura Effect LED"],
+        "Size": ["On-ear"],
+        "Weight": 0.220,
+        "Originalvalue": 109.99,
+        "previousvalue": 129.99,
+        "Marketprice": 87.99,
+        "Currentoffer": ["20% off"],
+        "previousoffer": "15% off",
+        "Warranty": "1 Year",
+        "Manufacturer": "SaiyanTech Audio",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 110,
+        "No_of_Likes": 267,
+        "No_of_Disikes": 10,
+        "Description": "Dragon Ball Z Super Saiyan themed wireless headphones with glowing aura effects and vibrant colors",
+        "Releasedate": "2023-02-08T00:00:00Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GokuFan",
+            "ReviewerLike": 56,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user59", "user60"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Power level over 9000! The yellow glow is amazing",
+            "ReviewProfileImage": "reviewer30.jpg",
+            "date": "2023-02-12T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SS-H10",
+            "CurrentModelLikes": 267,
+            "CurrentModelDislikes": 10,
+            "PreviousModel": "SS-H09",
+            "PreviousModelLikes": 223,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-02-08T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+]

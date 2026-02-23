@@ -1,0 +1,610 @@
+[
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Gojo Satoru Bluetooth Speaker",
+        "Brand": "AniSound",
+        "Model": "AS-GOJOBT",
+        "Compatibility": ["Bluetooth 5.0", "Aux Input", "USB-C"],
+        "Image": "https://example.com/images/gojo_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/gojo_sp1.jpg",
+          "https://example.com/gallery/gojo_sp2.jpg"
+        ],
+        "Color": ["White", "Blue Accents"],
+        "Material": "ABS Plastic, Fabric Mesh",
+        "Connectivity": "Bluetooth 5.0, 3.5mm AUX, USB-C Charging",
+        "Features": ["20W RMS", "RGB Infinity Eye Lighting", "Voice Prompts (Gojo Voice)", "IPX4 Water Resistant", "15hr Battery"],
+        "Size": ["18cm x 18cm x 25cm"],
+        "Weight": 1.8,
+        "Originalvalue": 129.99,
+        "previousvalue": 149.99,
+        "Marketprice": 119.99,
+        "Currentoffer": ["Free Domain Expansion Wallpaper"],
+        "previousoffer": "Early Bird Discount",
+        "Warranty": "1 Year",
+        "Manufacturer": "AniSound Electronics",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 1245,
+        "No_of_Disikes": 23,
+        "Description": "Officially licensed Jujutsu Kaisen speaker featuring Gojo Satoru's Six Eyes design with pulsating blue RGB lighting. Includes special voice prompts recorded by the Japanese voice actor.",
+        "Releasedate": "2024-03-15T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SatoruFan99",
+            "ReviewerLike": 45,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user1", "user2", "user3"],
+            "ReviewerDisLikeby": ["critic1"],
+            "Rating": 5,
+            "Review": "The Infinity lighting effect is amazing! Sound quality is surprisingly good for an anime merch product.",
+            "ReviewProfileImage": "default.png",
+            "date": "2024-04-10T14:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": [
+              {
+                "ReplyName": "AniSound Support",
+                "ReplyProfileImage": "support.png",
+                "ReplyLike": 12,
+                "ReplyDisLike": 0,
+                "ReplyLikeby": ["user4", "user5"],
+                "ReplyDisLikeby": [],
+                "Reply": "Thank you for your review! We're glad you're enjoying the special Gojo voice features.",
+                "date": "2024-04-11T09:15:00.000Z",
+                "editedAt": null
+              }
+            ]
+          },
+          {
+            "ReviewerName": "AudioCritic",
+            "ReviewerLike": 18,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user6", "user7"],
+            "ReviewerDisLikeby": ["audiophile1", "audiophile2"],
+            "Rating": 3,
+            "Review": "Design is 10/10 but bass could be better. Worth it for collectors, not for audiophiles.",
+            "ReviewProfileImage": "critic.png",
+            "date": "2024-03-25T11:20:00.000Z",
+            "editedAt": "2024-03-26T10:15:00.000Z",
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "AS-GOJOBT",
+            "CurrentModelLikes": 1245,
+            "CurrentModelDislikes": 23,
+            "PreviousModel": "AS-SUKUNA2023",
+            "PreviousModelLikes": 987,
+            "PreviousModelDislikes": 45,
+            "CurrentModelDate": "2024-03-15T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Demon Slayer Nezuko Kamado Wooden Bluetooth Speaker",
+        "Brand": "ZenSound",
+        "Model": "ZS-NZKWOOD",
+        "Compatibility": ["Bluetooth", "Aux", "TF Card"],
+        "Image": "https://example.com/images/nezuko_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/nezuko_sp1.jpg",
+          "https://example.com/gallery/nezuko_sp2.jpg"
+        ],
+        "Color": ["Pink Wood Finish", "Bamboo Green"],
+        "Material": "Solid Bamboo Wood, Fabric",
+        "Connectivity": "Bluetooth 5.0, 3.5mm Jack, TF Card Slot",
+        "Features": ["15W Output", "Natural Wood Acoustics", "Nezuko's Box Design", "LED Breathing Effects", "20hr Battery"],
+        "Size": ["20cm x 15cm x 20cm"],
+        "Weight": 2.1,
+        "Originalvalue": 159.99,
+        "previousvalue": 179.99,
+        "Marketprice": 149.99,
+        "Currentoffer": ["Free Bamboo Carry Case"],
+        "previousoffer": "Pre-order Bonus",
+        "Warranty": "2 Years",
+        "Manufacturer": "ZenSound Artisans",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 42,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 12,
+        "Description": "Handcrafted bamboo speaker designed like Nezuko's travel box. Features traditional Japanese woodworking with modern audio technology and subtle pink LED lighting.",
+        "Releasedate": "2024-05-20T00:00:00.000Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "WoodWorkerAni",
+            "ReviewerLike": 67,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user8", "user9", "user10"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "The craftsmanship is incredible! Each speaker is slightly unique. Sound has warm, natural tones perfect for traditional Japanese music.",
+            "ReviewProfileImage": "wood.png",
+            "date": "2024-06-01T16:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Lamps",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Attack on Titan Colossal Titan LED Speaker Lamp",
+        "Brand": "TitanTech",
+        "Model": "TT-COLOSSALSPK",
+        "Compatibility": ["Bluetooth", "Smart Home", "Aux"],
+        "Image": "https://example.com/images/colossal_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/titan_sp1.jpg"
+        ],
+        "Color": ["Steam White", "Red Glow"],
+        "Material": "Resin, LED Strips, Metal",
+        "Connectivity": "Bluetooth 5.2, Wi-Fi, 3.5mm",
+        "Features": ["50W Total", "RGB Steam Effects", "Smart App Control", "Alexa/Google Home", "Touch Controls"],
+        "Size": ["40cm Tall"],
+        "Weight": 4.5,
+        "Originalvalue": 229.99,
+        "previousvalue": 249.99,
+        "Marketprice": 209.99,
+        "Currentoffer": ["Free Survey Corps Badge"],
+        "previousoffer": "Bundle with AOT Album",
+        "Warranty": "1 Year",
+        "Manufacturer": "TitanTech Studios",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 31,
+        "No_of_Likes": 1567,
+        "No_of_Disikes": 34,
+        "Description": "Dramatic speaker lamp featuring the Colossal Titan emerging from Wall Maria. Steam effects sync with music beats, with customizable RGB lighting.",
+        "Releasedate": "2024-02-10T00:00:00.000Z",
+        "Ratings": 4.5,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "WallRoseDefender",
+            "ReviewerLike": 89,
+            "ReviewerDisLike": 8,
+            "ReviewerLikeby": ["user11", "user12"],
+            "ReviewerDisLikeby": ["user13"],
+            "Rating": 4,
+            "Review": "Impressive centerpiece for my gaming room. The steam effect is cooler than expected. Bass could be stronger for the size though.",
+            "ReviewProfileImage": "rose.png",
+            "date": "2024-03-01T20:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "TT-COLOSSALSPK",
+            "CurrentModelLikes": 1567,
+            "CurrentModelDislikes": 34,
+            "PreviousModel": "TT-ARMORED2023",
+            "PreviousModelLikes": 1102,
+            "PreviousModelDislikes": 67,
+            "CurrentModelDate": "2024-02-10T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "One Piece Going Merry Desktop Speakers",
+        "Brand": "GrandLine Audio",
+        "Model": "GL-MERRYPAIR",
+        "Compatibility": ["PC", "Laptop", "Aux Devices"],
+        "Image": "https://example.com/images/merry_speakers.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/merry_sp1.jpg",
+          "https://example.com/gallery/merry_sp2.jpg"
+        ],
+        "Color": ["Ship Brown", "White Sails"],
+        "Material": "Resin, Wood Composite",
+        "Connectivity": "3.5mm Stereo, USB Power",
+        "Features": ["2.0 Stereo System", "Wooden Hull Design", "LED Porthole Lights", "Volume Knob Wheel", "Built-in Amp"],
+        "Size": ["12cm (each speaker)"],
+        "Weight": 0.8,
+        "Originalvalue": 89.99,
+        "previousvalue": 99.99,
+        "Marketprice": 79.99,
+        "Currentoffer": ["Free Jolly Roger Stickers"],
+        "previousoffer": "None",
+        "Warranty": "1 Year",
+        "Manufacturer": "GrandLine Audio",
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 743,
+        "No_of_Disikes": 9,
+        "Description": "Cute desktop speaker pair shaped like the Going Merry. Left speaker has Luffy's chair, right has navigator's wheel. Perfect for anime workspace setup.",
+        "Releasedate": "2024-01-05T00:00:00.000Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Water-Bottles",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "My Hero Academia All Might Water Bottle Speaker",
+        "Brand": "HeroGear",
+        "Model": "HG-ALLMIGHTBT",
+        "Compatibility": ["Bluetooth", "Phones"],
+        "Image": "https://example.com/images/allmight_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/allmight_sp1.jpg"
+        ],
+        "Color": ["Plus Ultra Blue", "Silver"],
+        "Material": "Stainless Steel, Silicone",
+        "Connectivity": "Bluetooth 5.1, NFC Pairing",
+        "Features": ["Waterproof IP67", "12hr Playtime", "Actual Water Bottle", "Voice Prompts", "Shock Resistant"],
+        "Size": ["750ml Capacity"],
+        "Weight": 0.6,
+        "Originalvalue": 69.99,
+        "previousvalue": 79.99,
+        "Marketprice": 64.99,
+        "Currentoffer": ["Free Hero Academy Decal"],
+        "previousoffer": "Back-to-School Sale",
+        "Warranty": "6 Months",
+        "Manufacturer": "HeroGear Inc.",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 234,
+        "No_of_Likes": 892,
+        "No_of_Disikes": 18,
+        "Description": "Dual-function product: insulated water bottle with built-in Bluetooth speaker. Perfect for gym or outdoor activities. Features All Might's costume colors and 'SMASH' button.",
+        "Releasedate": "2024-04-30T00:00:00.000Z",
+        "Ratings": 4.3,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "DekuFan42",
+            "ReviewerLike": 34,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user14"],
+            "ReviewerDisLikeby": ["user15"],
+            "Rating": 4,
+            "Review": "Great for the beach! Waterproof feature actually works. Sound is decent for the size. PLUS ULTRA!",
+            "ReviewProfileImage": "deku.png",
+            "date": "2024-05-15T13:20:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Spy x Family Anya Forger Portable Speaker",
+        "Brand": "WakuWaku Audio",
+        "Model": "WW-ANYASPK",
+        "Compatibility": ["Bluetooth", "Phones"],
+        "Image": "https://example.com/images/anya_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/anya_sp1.jpg",
+          "https://example.com/gallery/anya_sp2.jpg"
+        ],
+        "Color": ["Pink", "White Hair"],
+        "Material": "Silicone, Plastic",
+        "Connectivity": "Bluetooth 5.0, Micro USB",
+        "Features": ["10hr Battery", "Anya Giggle Sound Effects", "Soft Touch Material", "Keychain Loop", "Peanut Button"],
+        "Size": ["8cm Tall"],
+        "Weight": 0.3,
+        "Originalvalue": 39.99,
+        "previousvalue": 49.99,
+        "Marketprice": 34.99,
+        "Currentoffer": ["Buy 2 Get 10% Off"],
+        "previousoffer": "Launch Discount",
+        "Warranty": "6 Months",
+        "Manufacturer": "WakuWaku Audio",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 421,
+        "No_of_Likes": 1567,
+        "No_of_Disikes": 15,
+        "Description": "Adorable Anya-shaped portable speaker with her iconic expressions. Press her hair buns for volume control. Includes 5 different Anya laugh sound effects.",
+        "Releasedate": "2024-07-22T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "AnyaSimp",
+            "ReviewerLike": 156,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user16", "user17", "user18"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "HEH! This is perfect! So cute and actually sounds good. The giggles make my day. Waku waku!",
+            "ReviewProfileImage": "anyaface.png",
+            "date": "2024-08-01T09:45:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Awesome",
+            "Replies": [
+              {
+                "ReplyName": "WakuWaku Support",
+                "ReplyProfileImage": "support2.png",
+                "ReplyLike": 45,
+                "ReplyDisLike": 0,
+                "ReplyLikeby": ["user19", "user20"],
+                "ReplyDisLikeby": [],
+                "Reply": "Thank you for the waku waku review! We're happy Anya brings you joy!",
+                "date": "2024-08-02T11:30:00.000Z",
+                "editedAt": null
+              }
+            ]
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "WW-ANYASPK",
+            "CurrentModelLikes": 1567,
+            "CurrentModelDislikes": 15,
+            "PreviousModel": "WW-BOND2023",
+            "PreviousModelLikes": 843,
+            "PreviousModelDislikes": 22,
+            "CurrentModelDate": "2024-07-22T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Mouse-pad",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Naruto Rasengan LED Gaming Speaker Mat",
+        "Brand": "NinjaAudio",
+        "Model": "NA-RASENGANMAT",
+        "Compatibility": ["PC", "Consoles", "USB"],
+        "Image": "https://example.com/images/rasengan_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/rasengan_sp1.jpg"
+        ],
+        "Color": ["Blue Spiral", "Black"],
+        "Material": "Rubber Base, LED Panel, Cloth Top",
+        "Connectivity": "USB, 3.5mm, Bluetooth Optional",
+        "Features": ["Extended Mousepad", "RGB Spiral Lighting", "2 Built-in Speakers", "Non-slip Base", "Spill Resistant"],
+        "Size": ["80cm x 30cm"],
+        "Weight": 1.2,
+        "Originalvalue": 74.99,
+        "previousvalue": 89.99,
+        "Marketprice": 69.99,
+        "Currentoffer": ["Free Naruto Headband"],
+        "previousoffer": "Black Friday Sale",
+        "Warranty": "1 Year",
+        "Manufacturer": "NinjaAudio Tech",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 87,
+        "No_of_Likes": 654,
+        "No_of_Disikes": 28,
+        "Description": "Combination gaming mousepad and speaker system with glowing Rasengan design. Speakers positioned at opposite ends for stereo separation. Perfect for compact setups.",
+        "Releasedate": "2024-06-10T00:00:00.000Z",
+        "Ratings": 4.2,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HokageDreamer",
+            "ReviewerLike": 23,
+            "ReviewerDisLike": 7,
+            "ReviewerLikeby": ["user21"],
+            "ReviewerDisLikeby": ["user22", "user23"],
+            "Rating": 3,
+            "Review": "Cool concept but sound quality is just okay. Mousepad surface is good though. Wish it had Shadow Clone surround sound!",
+            "ReviewProfileImage": "hokage.png",
+            "date": "2024-07-05T15:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Mixed",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Spirit Bomb Surround Sound System",
+        "Brand": "KameHouse Audio",
+        "Model": "KH-SPIRITBOMB5.1",
+        "Compatibility": ["Home Theater", "Gaming", "TV"],
+        "Image": "https://example.com/images/spiritbomb_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/spiritbomb_sp1.jpg",
+          "https://example.com/gallery/spiritbomb_sp2.jpg"
+        ],
+        "Color": ["Energy Blue", "Gold"],
+        "Material": "MDF Wood, Metal Grille",
+        "Connectivity": "Optical, HDMI ARC, Bluetooth",
+        "Features": ["5.1 Channel", "300W Total", "LED Energy Effects", "Wireless Rear Speakers", "Voice Prompts (Goku)"],
+        "Size": ["Subwoofer: 35cm"],
+        "Weight": 15.8,
+        "Originalvalue": 399.99,
+        "previousvalue": 449.99,
+        "Marketprice": 379.99,
+        "Currentoffer": ["Free Dragon Radar Remote"],
+        "previousoffer": "Holiday Bundle",
+        "Warranty": "2 Years",
+        "Manufacturer": "KameHouse Audio Systems",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 23,
+        "No_of_Likes": 1987,
+        "No_of_Disikes": 42,
+        "Description": "Complete home theater system with Spirit Bomb-themed subwoofer centerpiece. Satellite speakers designed like Dragon Balls. Energy orb glows brighter with bass hits.",
+        "Releasedate": "2023-11-20T00:00:00.000Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "SSJ3Audiophile",
+            "ReviewerLike": 123,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user24", "user25"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "OVER 9000!!! Seriously though, this system pumps out power. The Spirit Bomb lighting during intense scenes is epic. True collector's item.",
+            "ReviewProfileImage": "ssj3.png",
+            "date": "2023-12-05T21:10:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Excellent",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "KH-SPIRITBOMB5.1",
+            "CurrentModelLikes": 1987,
+            "CurrentModelDislikes": 42,
+            "PreviousModel": "KH-KAMEHAMEHA2022",
+            "PreviousModelLikes": 1543,
+            "PreviousModelDislikes": 89,
+            "CurrentModelDate": "2023-11-20T00:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Lamps",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro Night Light Speaker",
+        "Brand": "GhibliHome",
+        "Model": "GH-TOTORONIGHT",
+        "Compatibility": ["Bedside", "Nursery", "USB"],
+        "Image": "https://example.com/images/totoro_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/totoro_sp1.jpg"
+        ],
+        "Color": ["Gray", "White Belly"],
+        "Material": "Ceramic, LED, Fabric",
+        "Connectivity": "Bluetooth, USB, Aux",
+        "Features": ["Warm Night Light", "Lullaby Mode", "Timer Function", "Touch Controls", "So-Totoro Design"],
+        "Size": ["25cm Tall"],
+        "Weight": 1.5,
+        "Originalvalue": 79.99,
+        "previousvalue": 89.99,
+        "Marketprice": 74.99,
+        "Currentoffer": ["Free Catbus Keychain"],
+        "previousoffer": "Mother's Day Special",
+        "Warranty": "1 Year",
+        "Manufacturer": "GhibliHome Decor",
+        "CountryOfOrigin": "Japan",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 2345,
+        "No_of_Disikes": 18,
+        "Description": "Gentle night light speaker featuring Totoro holding his umbrella. Plays Ghibli soundtracks and nature sounds. Perfect for children's rooms or relaxing evenings.",
+        "Releasedate": "2023-09-15T00:00:00.000Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "GhibliMom",
+            "ReviewerLike": 267,
+            "ReviewerDisLike": 1,
+            "ReviewerLikeby": ["user26", "user27"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "My daughter loves this! The lullabies help her sleep and the light isn't too bright. Beautiful craftsmanship.",
+            "ReviewProfileImage": "mom.png",
+            "date": "2023-10-05T08:30:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Outstanding",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  },
+  {
+    "ItemType": "Anime-Figures",
+    "comItemType": "Speakers",
+    "Type": [
+      {
+        "Title": "Chainsaw Man Pochita Mini Speaker Keychain",
+        "Brand": "DevilGear",
+        "Model": "DG-POCHITAMINI",
+        "Compatibility": ["Phones", "Keychains"],
+        "Image": "https://example.com/images/pochita_speaker.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/pochita_sp1.jpg"
+        ],
+        "Color": ["Orange", "Chainsaw Silver"],
+        "Material": "Rubber, Metal Chains",
+        "Connectivity": "Bluetooth 5.0, Micro USB",
+        "Features": ["8hr Battery", "Chainsaw Rev Sound", "Carabiner Clip", "Voice Prompts", "Durable Construction"],
+        "Size": ["7cm Long"],
+        "Weight": 0.2,
+        "Originalvalue": 29.99,
+        "previousvalue": 34.99,
+        "Marketprice": 27.99,
+        "Currentoffer": ["Free Devil Hunter Sticker"],
+        "previousoffer": "Launch Promotion",
+        "Warranty": "3 Months",
+        "Manufacturer": "DevilGear Accessories",
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 567,
+        "No_of_Likes": 1876,
+        "No_of_Disikes": 45,
+        "Description": "Tiny but mighty Pochita speaker that clips to bags or keys. Makes chainsaw revving sounds when turned on. Surprisingly loud for its size.",
+        "Releasedate": "2024-08-30T00:00:00.000Z",
+        "Ratings": 4.4,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ChainsawFanatic",
+            "ReviewerLike": 78,
+            "ReviewerDisLike": 12,
+            "ReviewerLikeby": ["user28"],
+            "ReviewerDisLikeby": ["user29", "user30"],
+            "Rating": 4,
+            "Review": "So cool! The chainsaw sound wakes up my whole office. Battery life could be better but love the design.",
+            "ReviewProfileImage": "chainsaw.png",
+            "date": "2024-09-10T12:15:00.000Z",
+            "editedAt": null,
+            "Overallexperience": "Very Good",
+            "Replies": []
+          }
+        ],
+        "Comparepopularity": []
+      }
+    ]
+  }
+]

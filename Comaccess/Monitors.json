@@ -1,0 +1,781 @@
+ [
+ {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Naruto Six Paths Sage Mode Gaming Monitor",
+        "Brand": "AnimeTech",
+        "Model": "SP-M01",
+        "Compatibility": ["PC", "PS5", "Xbox Series X"],
+        "Image": "sixpaths-monitor-main.jpg",
+        "ProductGallery": ["sixpaths-monitor-1.jpg", "sixpaths-monitor-2.jpg", "sixpaths-monitor-3.jpg"],
+        "Color": ["Orange", "Black", "Gold"],
+        "Material": "Plastic, Metal Stand",
+        "Connectivity": "HDMI 2.1, DisplayPort, USB-C",
+        "Features": ["144Hz Refresh Rate", "1ms Response", "HDR400", "Rinnegan RGB"],
+        "Size": ["27 inch", "32 inch"],
+        "Weight": 5.800,
+        "Originalvalue": 349.99,
+        "previousvalue": 399.99,
+        "Marketprice": 279.99,
+        "Currentoffer": ["20% off", "Amazon Prime Exclusive"],
+        "previousoffer": "13% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "AnimeTech Displays",
+        "CountryOfOrigin": "South Korea",
+        "Instock": true,
+        "Instockno": 85,
+        "No_of_Likes": 456,
+        "No_of_Disikes": 15,
+        "Description": "Premium Naruto Six Paths Sage Mode themed gaming monitor with Rinnegan-inspired RGB lighting. Amazon Prime Exclusive with special pricing. Features 144Hz refresh rate and official Studio Pierrot licensing.",
+        "Releasedate": "2023-11-01T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "NarutoFan",
+            "ReviewerLike": 89,
+            "ReviewerDisLike": 4,
+            "ReviewerLikeby": ["user147", "user148"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Believe it! This monitor is absolutely incredible! The Six Paths design is stunning and the 144Hz makes gaming buttery smooth. Amazon Prime delivery was lightning fast and setup was easy!",
+            "ReviewProfileImage": "reviewer71.jpg",
+            "date": "2023-11-05T00:00:00Z",
+            "Overallexperience": "Outstanding",
+            "Replies": [
+              {
+                "ReplyName": "AnimeTech Support",
+                "ReplyProfileImage": "support4.jpg",
+                "ReplyLike": 23,
+                "ReplyDisLike": 0,
+                "ReplyLikeby": ["user149", "user150"],
+                "ReplyDisLikeby": [],
+                "Reply": "Thank you for your amazing review! The Rinnegan RGB effects are indeed inspired by Naruto's ultimate transformation. We're glad Amazon Prime delivered the Six Paths experience perfectly!",
+                "date": "2023-11-06T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SP-M01",
+            "CurrentModelLikes": 456,
+            "CurrentModelDislikes": 15,
+            "PreviousModel": "SP-M00",
+            "PreviousModelLikes": 389,
+            "PreviousModelDislikes": 12,
+            "CurrentModelDate": "2023-11-01T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "One Piece Gear Fourth Monitor",
+        "Brand": "PirateTech",
+        "Model": "G4-M02",
+        "Compatibility": ["PC", "Gaming Consoles"],
+        "Image": "gear4-monitor-main.jpg",
+        "ProductGallery": ["gear4-monitor-1.jpg", "gear4-monitor-2.jpg", "gear4-monitor-3.jpg"],
+        "Color": ["Red", "Black"],
+        "Material": "Plastic, Metal Base",
+        "Connectivity": "HDMI 2.0, DisplayPort",
+        "Features": ["120Hz Refresh Rate", "Boundman Theme", "AMD FreeSync", "Haki Effect RGB"],
+        "Size": ["24 inch", "27 inch"],
+        "Weight": 4.200,
+        "Originalvalue": 279.99,
+        "previousvalue": 329.99,
+        "Marketprice": 223.99,
+        "Currentoffer": ["20% off", "Flipkart Big Billion Days"],
+        "previousoffer": "15% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "PirateTech Displays",
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 120,
+        "No_of_Likes": 389,
+        "No_of_Disikes": 11,
+        "Description": "One Piece Gear Fourth: Boundman themed gaming monitor with Haki-inspired red lighting effects. Flipkart Big Billion Days special offer. Features 120Hz refresh rate and official Toei Animation licensing.",
+        "Releasedate": "2023-10-15T00:00:00Z",
+        "Ratings": 4.6,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "PirateKing",
+            "ReviewerLike": 78,
+            "ReviewerDisLike": 3,
+            "ReviewerLikeby": ["user151", "user152"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Gear Fourth activated! This monitor is a beast! The Boundman red theme looks amazing and the 120Hz is perfect for gaming. Got it during Flipkart Big Billion Days - amazing deal!",
+            "ReviewProfileImage": "reviewer72.jpg",
+            "date": "2023-10-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "G4-M02",
+            "CurrentModelLikes": 389,
+            "CurrentModelDislikes": 11,
+            "PreviousModel": "G4-M01",
+            "PreviousModelLikes": 334,
+            "PreviousModelDislikes": 8,
+            "CurrentModelDate": "2023-10-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Demon Slayer Sun Breathing 4K Monitor",
+        "Brand": "HashiraTech",
+        "Model": "SB-M03",
+        "Compatibility": ["PC", "PS5", "Mac"],
+        "Image": "sunbreathing-monitor-main.jpg",
+        "ProductGallery": ["sunbreathing-monitor-1.jpg", "sunbreathing-monitor-2.jpg", "sunbreathing-monitor-3.jpg"],
+        "Color": ["Orange", "Black", "Gold"],
+        "Material": "Aluminum, Plastic",
+        "Connectivity": "HDMI 2.1, USB-C, DisplayPort",
+        "Features": ["4K UHD", "HDR600", "Sun Breathing RGB", "144Hz"],
+        "Size": ["32 inch"],
+        "Weight": 7.200,
+        "Originalvalue": 599.99,
+        "previousvalue": 699.99,
+        "Marketprice": 479.99,
+        "Currentoffer": ["20% off", "Crunchyroll Premium Exclusive"],
+        "previousoffer": "14% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "HashiraTech Displays",
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 65,
+        "No_of_Likes": 523,
+        "No_of_Disikes": 8,
+        "Description": "Premium Demon Slayer Sun Breathing themed 4K gaming monitor with stunning HDR600 performance. Crunchyroll Premium member exclusive with special pricing. Features official Ufotable studio licensing and breathtaking visuals.",
+        "Releasedate": "2023-09-20T00:00:00Z",
+        "Ratings": 4.9,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "TanjiroFan",
+            "ReviewerLike": 112,
+            "ReviewerDisLike": 2,
+            "ReviewerLikeby": ["user153", "user154"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Total concentration! This monitor is absolutely breathtaking! The 4K HDR makes Demon Slayer episodes look like masterpieces and the Sun Breathing RGB is gorgeous. Crunchyroll Premium exclusive was worth every penny!",
+            "ReviewProfileImage": "reviewer73.jpg",
+            "date": "2023-09-25T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "SB-M03",
+            "CurrentModelLikes": 523,
+            "CurrentModelDislikes": 8,
+            "PreviousModel": "SB-M02",
+            "PreviousModelLikes": 456,
+            "PreviousModelDislikes": 6,
+            "CurrentModelDate": "2023-09-20T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "My Hero Academia Ultra HD Monitor",
+        "Brand": "HeroTech",
+        "Model": "UH-M04",
+        "Compatibility": ["PC", "Xbox", "Workstations"],
+        "Image": "ultra-monitor-main.jpg",
+        "ProductGallery": ["ultra-monitor-1.jpg", "ultra-monitor-2.jpg", "ultra-monitor-3.jpg"],
+        "Color": ["Blue", "Yellow", "Silver"],
+        "Material": "Metal Frame, Plastic",
+        "Connectivity": "HDMI 2.0, DisplayPort, VGA",
+        "Features": ["2K QHD", "100Hz", "Plus Ultra Design", "AMD FreeSync"],
+        "Size": ["27 inch", "32 inch"],
+        "Weight": 5.500,
+        "Originalvalue": 329.99,
+        "previousvalue": 379.99,
+        "Marketprice": 263.99,
+        "Currentoffer": ["20% off", "Amazon Prime Day Deal"],
+        "previousoffer": "13% off",
+        "Warranty": "2 Years",
+        "Manufacturer": "HeroTech Displays",
+        "CountryOfOrigin": "USA",
+        "Instock": true,
+        "Instockno": 95,
+        "No_of_Likes": 445,
+        "No_of_Disikes": 12,
+        "Description": "My Hero Academia Plus Ultra themed 2K gaming monitor with vibrant hero academy colors. Amazon Prime Day special deal with limited time pricing. Features official Bones studio licensing and smooth 100Hz performance.",
+        "Releasedate": "2023-08-15T00:00:00Z",
+        "Ratings": 4.7,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "HeroFan",
+            "ReviewerLike": 89,
+            "ReviewerDisLike": 5,
+            "ReviewerLikeby": ["user155", "user156"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Plus Ultra display quality! The 2K resolution is crystal clear and the Plus Ultra theme looks amazing. Got this during Amazon Prime Day - incredible value for money!",
+            "ReviewProfileImage": "reviewer74.jpg",
+            "date": "2023-08-20T00:00:00Z",
+            "Overallexperience": "Excellent"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "UH-M04",
+            "CurrentModelLikes": 445,
+            "CurrentModelDislikes": 12,
+            "PreviousModel": "UH-M03",
+            "PreviousModelLikes": 389,
+            "PreviousModelDislikes": 9,
+            "CurrentModelDate": "2023-08-15T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Attack on Titan Final Season Monitor",
+        "Brand": "ScoutTech",
+        "Model": "FS-M05",
+        "Compatibility": ["PC", "PS5", "Streaming"],
+        "Image": "finalseason-monitor-main.jpg",
+        "ProductGallery": ["finalseason-monitor-1.jpg", "finalseason-monitor-2.jpg", "finalseason-monitor-3.jpg"],
+        "Color": ["Dark Gray", "Red", "Black"],
+        "Material": "Metal, Plastic",
+        "Connectivity": "HDMI 2.1, DisplayPort 1.4",
+        "Features": ["240Hz Refresh Rate", "1ms GTG", "Rumbling Theme", "G-Sync Compatible"],
+        "Size": ["27 inch"],
+        "Weight": 6.800,
+        "Originalvalue": 499.99,
+        "previousvalue": 599.99,
+        "Marketprice": 399.99,
+        "Currentoffer": ["20% off", "Google Shopping Editor's Choice"],
+        "previousoffer": "17% off",
+        "Warranty": "3 Years",
+        "Manufacturer": "ScoutTech Displays",
+        "CountryOfOrigin": "Germany",
+        "Instock": true,
+        "Instockno": 75,
+        "No_of_Likes": 512,
+        "No_of_Disikes": 14,
+        "Description": "Attack on Titan Final Season themed high-performance gaming monitor with Rumbling-inspired design. Google Shopping Editor's Choice for esports gaming. Features 240Hz refresh rate and official MAPPA studio licensing.",
+        "Releasedate": "2023-07-10T00:00:00Z",
+        "Ratings": 4.8,
+        "Reviewers_detail": [
+          {
+            "ReviewerName": "ErenFan",
+            "ReviewerLike": 102,
+            "ReviewerDisLike": 6,
+            "ReviewerLikeby": ["user157", "user158"],
+            "ReviewerDisLikeby": [],
+            "Rating": 5,
+            "Review": "Tatakae! This monitor is a beast! The 240Hz is buttery smooth for competitive gaming and the Rumbling theme is perfectly executed. Google Shopping recommended this and it exceeded all expectations!",
+            "ReviewProfileImage": "reviewer75.jpg",
+            "date": "2023-07-15T00:00:00Z",
+            "Overallexperience": "Outstanding"
+          }
+        ],
+        "Comparepopularity": [
+          {
+            "CurrentModel": "FS-M05",
+            "CurrentModelLikes": 512,
+            "CurrentModelDislikes": 14,
+            "PreviousModel": "FS-M04",
+            "PreviousModelLikes": 445,
+            "PreviousModelDislikes": 11,
+            "CurrentModelDate": "2023-07-10T00:00:00Z"
+          }
+        ]
+      }
+    ]
+    },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Demon Slayer Kimetsu no Yaiba Gaming Monitor 27-inch 144Hz",
+        "Brand": "G-STORY",
+        "Model": "GS-DS27FHD",
+        "Compatibility": ["PC", "PlayStation 5", "Xbox Series X", "Nintendo Switch"],
+        "Image": "https://example.com/images/demon_slayer_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/ds_mon1.jpg",
+          "https://example.com/gallery/ds_mon2.jpg"
+        ],
+        "Color": ["Black with Red Hashira Pattern"],
+        "Material": "IPS Panel, Plastic Frame",
+        "Connectivity": "HDMI 2.0, DisplayPort 1.2, USB 3.0",
+        "Features": ["144Hz Refresh Rate", "1ms Response", "AMD FreeSync", "Demon Slayer-themed OSD", "RGB Backlighting"],
+        "Size": ["27-inch"],
+        "Weight": 5.2,
+        "Originalvalue": 329.99,
+        "previousvalue": 349.99,
+        "Marketprice": 299.99,
+        "Currentoffer": ["Free Demon Slayer Wallpaper Pack"],
+        "previousoffer": "None",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "G-STORY Electronics",
+          "Country": "China",
+          "Address": "Shenzhen, China",
+          "ContactEmail": "support@gstory.com",
+          "ContactPhone": "+86-755-12345678",
+          "Website": "https://gstory.com",
+          "Warranty": "2 Year Limited Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 78,
+        "No_of_Likes": 876,
+        "No_of_Disikes": 12,
+        "Description": "Officially licensed Demon Slayer gaming monitor featuring Tanjiro and Nezuko artwork on the back, custom boot screen with anime sound effects, and character-themed display modes.",
+        "Releasedate": "2024-03-15T00:00:00.000Z",
+        "Ratings": 4.5
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Jujutsu Kaisen Special Edition 32-inch 4K Monitor",
+        "Brand": "ViewSonic",
+        "Model": "XG320U-JJK",
+        "Compatibility": ["Windows", "macOS", "PlayStation 5", "Xbox Series X"],
+        "Image": "https://example.com/images/jujutsu_kaisen_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/jjk_mon1.jpg",
+          "https://example.com/gallery/jjk_mon2.jpg"
+        ],
+        "Color": ["Purple Cursed Energy Theme", "Black"],
+        "Material": "IPS Panel, Metal Stand",
+        "Connectivity": "HDMI 2.1, DisplayPort 1.4, USB-C with 90W PD",
+        "Features": ["4K UHD", "144Hz", "HDR600", "G-Sync Compatible", "Domain Expansion Effect Lighting"],
+        "Size": ["32-inch"],
+        "Weight": 8.7,
+        "Originalvalue": 899.99,
+        "previousvalue": 949.99,
+        "Marketprice": 849.99,
+        "Currentoffer": ["Bundle with JJK Mousepad"],
+        "previousoffer": "Free Shipping",
+        "Warranty": "3 Years",
+        "Manufacturer": {
+          "Name": "ViewSonic Corporation",
+          "Country": "USA",
+          "Address": "381 Brea Canyon Road, Walnut, CA 91789",
+          "ContactEmail": "support@viewsonic.com",
+          "ContactPhone": "+1-800-888-8583",
+          "Website": "https://www.viewsonic.com",
+          "Warranty": "3-Year Limited Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 34,
+        "No_of_Likes": 1243,
+        "No_of_Disikes": 21,
+        "Description": "Limited edition Jujutsu Kaisen monitor featuring Gojo Satoru's Six Eyes pattern on the back, cursed technique-themed color profiles, and exclusive wallpapers.",
+        "Releasedate": "2024-09-01T00:00:00.000Z",
+        "Ratings": 4.7
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "One Piece Straw Hat Crew 24-inch Portable Monitor",
+        "Brand": "ASUS ZenScreen",
+        "Model": "MB16AHP-OP",
+        "Compatibility": ["Laptop", "Smartphone", "Nintendo Switch", "Steam Deck"],
+        "Image": "https://example.com/images/one_piece_portable.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/op_portable1.jpg"
+        ],
+        "Color": ["Sunny Ship Yellow", "Straw Hat Red"],
+        "Material": "IPS Panel, Protective Folio Case",
+        "Connectivity": "USB-C, Mini HDMI",
+        "Features": ["1080p Portable", "60Hz", "Built-in Battery", "Auto-Rotate", "Jolly Roger Stand Design"],
+        "Size": ["15.6-inch"],
+        "Weight": 0.9,
+        "Originalvalue": 279.99,
+        "previousvalue": 299.99,
+        "Marketprice": 259.99,
+        "Currentoffer": ["Free One Piece Screen Cleaner"],
+        "previousoffer": "None",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "ASUS",
+          "Country": "Taiwan",
+          "Address": "No. 15, Li-Te Rd., Beitou Dist., Taipei 112, Taiwan",
+          "ContactEmail": "support@asus.com",
+          "ContactPhone": "+886-2-2894-3447",
+          "Website": "https://www.asus.com",
+          "Warranty": "1 Year Global Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 156,
+        "No_of_Likes": 645,
+        "No_of_Disikes": 8,
+        "Description": "Portable monitor featuring the Straw Hat Pirates artwork, with a folio case that transforms into a stand shaped like the Thousand Sunny's helm.",
+        "Releasedate": "2024-05-20T00:00:00.000Z",
+        "Ratings": 4.4
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Attack on Titan Curved Gaming Monitor 34-inch UltraWide",
+        "Brand": "MSI",
+        "Model": "OPTIX MAG342CQR-AOT",
+        "Compatibility": ["PC", "Mac", "Gaming Consoles"],
+        "Image": "https://example.com/images/aot_ultrawide.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/aot_uw1.jpg",
+          "https://example.com/gallery/aot_uw2.jpg"
+        ],
+        "Color": ["Survey Corps Green", "White Wings"],
+        "Material": "VA Panel, Curved Design",
+        "Connectivity": "HDMI 2.0, DisplayPort 1.4, USB 3.2",
+        "Features": ["3440x1440 UltraWide", "144Hz", "1ms", "AMD FreeSync", "3D Maneuver Gear Inspired Stand"],
+        "Size": ["34-inch Curved"],
+        "Weight": 9.2,
+        "Originalvalue": 549.99,
+        "previousvalue": 599.99,
+        "Marketprice": 499.99,
+        "Currentoffer": ["$50 Instant Rebate"],
+        "previousoffer": "Free AOT Artbook",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "Micro-Star International (MSI)",
+          "Country": "Taiwan",
+          "Address": "No. 69, Lide St., Zhonghe Dist., New Taipei City 235, Taiwan",
+          "ContactEmail": "service@msi.com",
+          "ContactPhone": "+886-2-3234-5599",
+          "Website": "https://www.msi.com",
+          "Warranty": "2-Year Limited Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": true,
+        "Instockno": 42,
+        "No_of_Likes": 987,
+        "No_of_Disikes": 15,
+        "Description": "UltraWide curved monitor with Attack on Titan theme, featuring Survey Corps emblem on the back, Colossal Titan red lighting effects, and wall Maria-inspired design elements.",
+        "Releasedate": "2024-07-10T00:00:00.000Z",
+        "Ratings": 4.6
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "My Hero Academia Pro Hero 27-inch 240Hz Esports Monitor",
+        "Brand": "BenQ ZOWIE",
+        "Model": "XL2746K-MHA",
+        "Compatibility": ["PC Gaming", "Tournament Use"],
+        "Image": "https://example.com/images/mha_esports.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/mha_mon1.jpg",
+          "https://example.com/gallery/mha_mon2.jpg"
+        ],
+        "Color": ["Plus Ultra Orange", "Hero Blue"],
+        "Material": "TN Panel, Adjustable Stand",
+        "Connectivity": "HDMI 2.0, DisplayPort 1.4, USB Hub",
+        "Features": ["240Hz", "DyAc+ Technology", "Black eQualizer", "Custom Hero Academy Stand", "Tournament Mode"],
+        "Size": ["27-inch"],
+        "Weight": 7.8,
+        "Originalvalue": 599.99,
+        "previousvalue": 649.99,
+        "Marketprice": 569.99,
+        "Currentoffer": ["Free My Hero Academia Keychain"],
+        "previousoffer": "None",
+        "Warranty": "2 Years",
+        "Manufacturer": {
+          "Name": "BenQ Corporation",
+          "Country": "Taiwan",
+          "Address": "No. 157, Shan-Ying Rd., Gueishan District, Taoyuan City 333, Taiwan",
+          "ContactEmail": "support@benq.com",
+          "ContactPhone": "+886-3-359-8800",
+          "Website": "https://www.benq.com",
+          "Warranty": "2-Year Limited Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Taiwan",
+        "Instock": false,
+        "Instockno": 0,
+        "No_of_Likes": 754,
+        "No_of_Disikes": 18,
+        "Description": "Esports-focused monitor with My Hero Academia design, featuring All Might's color scheme, UA High School logos, and special "Plus Ultra" display mode for competitive gaming.",
+        "Releasedate": "2024-01-30T00:00:00.000Z",
+        "Ratings": 4.3
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Naruto Shippuden 28-inch 4K HDR Art Monitor",
+        "Brand": "Dell",
+        "Model": "UP2818Q-NARUTO",
+        "Compatibility": ["Creative Workstations", "Gaming"],
+        "Image": "https://example.com/images/naruto_art_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/naruto_art1.jpg"
+        ],
+        "Color": ["Hidden Leaf Green", "Orange Accents"],
+        "Material": "IPS Panel, Aluminum Frame",
+        "Connectivity": "HDMI 2.0, DisplayPort 1.4, USB-C with 90W PD",
+        "Features": ["4K HDR", "100% sRGB", "CalMAN Verified", "Rasengan Spiral Stand Design", "Shadow Clone Multi-Input"],
+        "Size": ["28-inch"],
+        "Weight": 6.5,
+        "Originalvalue": 799.99,
+        "previousvalue": 849.99,
+        "Marketprice": 749.99,
+        "Currentoffer": ["Free Color Calibration"],
+        "previousoffer": "Bundle with Drawing Tablet",
+        "Warranty": "3 Years",
+        "Manufacturer": {
+          "Name": "Dell Technologies",
+          "Country": "USA",
+          "Address": "One Dell Way, Round Rock, Texas 78682",
+          "ContactEmail": "support@dell.com",
+          "ContactPhone": "+1-800-999-3355",
+          "Website": "https://www.dell.com",
+          "Warranty": "3-Year Premium Panel Exchange",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 23,
+        "No_of_Likes": 1102,
+        "No_of_Disikes": 25,
+        "Description": "Professional art monitor with Naruto theme, featuring Sharingan-inspired power indicator, Akatsuki cloud pattern on the back, and special ninja tool display presets.",
+        "Releasedate": "2024-08-15T00:00:00.000Z",
+        "Ratings": 4.8
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Spy x Family Forger Family 24-inch Office Monitor",
+        "Brand": "HP",
+        "Model": "M24fw-SPX",
+        "Compatibility": ["Home Office", "Study"],
+        "Image": "https://example.com/images/spy_family_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/spy_fam1.jpg",
+          "https://example.com/gallery/spy_fam2.jpg"
+        ],
+        "Color": ["Elegant White", "Pink Accents"],
+        "Material": "IPS Panel, Thin Bezel",
+        "Connectivity": "HDMI, VGA, USB-C",
+        "Features": ["Eye Safe Certified", "Tilt Adjustment", "Bond the Dog Stand Design", "Family Portrait Screen Saver"],
+        "Size": ["23.8-inch"],
+        "Weight": 3.1,
+        "Originalvalue": 189.99,
+        "previousvalue": 209.99,
+        "Marketprice": 179.99,
+        "Currentoffer": ["Free Anya Sticker Pack"],
+        "previousoffer": "None",
+        "Warranty": "1 Year",
+        "Manufacturer": {
+          "Name": "HP Inc.",
+          "Country": "USA",
+          "Address": "1501 Page Mill Road, Palo Alto, CA 94304",
+          "ContactEmail": "support@hp.com",
+          "ContactPhone": "+1-650-857-1501",
+          "Website": "https://www.hp.com",
+          "Warranty": "1-Year Limited Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 189,
+        "No_of_Likes": 832,
+        "No_of_Disikes": 9,
+        "Description": "Family-friendly monitor with Spy x Family theme, featuring Anya's favorite penguin design elements, Loid's spy toolkit cable management, and Yor's assassin-inspired thin bezels.",
+        "Releasedate": "2024-04-05T00:00:00.000Z",
+        "Ratings": 4.7
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Dragon Ball Z Super Saiyan 32-inch Gaming Monitor",
+        "Brand": "AOC",
+        "Model": "CQ32G2E-DBZ",
+        "Compatibility": ["Gaming PC", "Consoles"],
+        "Image": "https://example.com/images/dbz_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/dbz_mon1.jpg"
+        ],
+        "Color": ["Super Saiyan Gold", "Energy Blue"],
+        "Material": "VA Panel, Curved",
+        "Connectivity": "HDMI 2.0, DisplayPort 1.4",
+        "Features": ["1500R Curved", "165Hz", "1ms MPRT", "FreeSync Premium", "Kamehameha Wave Lighting"],
+        "Size": ["31.5-inch Curved"],
+        "Weight": 8.4,
+        "Originalvalue": 349.99,
+        "previousvalue": 399.99,
+        "Marketprice": 329.99,
+        "Currentoffer": ["Free DBZ Mousepad"],
+        "previousoffer": "10% Off",
+        "Warranty": "3 Years",
+        "Manufacturer": {
+          "Name": "AOC International",
+          "Country": "Taiwan",
+          "Address": "No. 6, Ruei-Hua 1st Road, Hsinchu Industrial Park, HuKou, Hsinchu 303, Taiwan",
+          "ContactEmail": "support@aoc.com",
+          "ContactPhone": "+886-3-598-3939",
+          "Website": "https://www.aoc.com",
+          "Warranty": "3-Year Advanced Replacement",
+          "Certified": true
+        },
+        "CountryOfOrigin": "China",
+        "Instock": true,
+        "Instockno": 67,
+        "No_of_Likes": 1456,
+        "No_of_Disikes": 32,
+        "Description": "Dragon Ball Z themed curved gaming monitor with Super Saiyan transformation lighting effects, Dragon Ball power level display in OSD, and character-specific color profiles.",
+        "Releasedate": "2024-06-22T00:00:00.000Z",
+        "Ratings": 4.6
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Studio Ghibli Totoro 27-inch Art Monitor",
+        "Brand": "EIZO",
+        "Model": "CG270X-GHIBLI",
+        "Compatibility": ["Professional Art", "Animation Work"],
+        "Image": "https://example.com/images/ghibli_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/ghibli1.jpg",
+          "https://example.com/gallery/ghibli2.jpg"
+        ],
+        "Color": ["Forest Green", "Totoro Gray"],
+        "Material": "IPS Panel, Professional Grade",
+        "Connectivity": "DisplayPort, HDMI, DVI",
+        "Features": ["ColorEdge Technology", "Hardware Calibration", "Totoro-shaped Stand", "Ghibli Museum Art Mode"],
+        "Size": ["27-inch"],
+        "Weight": 9.8,
+        "Originalvalue": 1499.99,
+        "previousvalue": 1599.99,
+        "Marketprice": 1399.99,
+        "Currentoffer": ["Free Color Calibration Sensor"],
+        "previousoffer": "Free Shipping",
+        "Warranty": "5 Years",
+        "Manufacturer": {
+          "Name": "EIZO Corporation",
+          "Country": "Japan",
+          "Address": "153 Shimokashiwano-machi, Hakusan, Ishikawa 924-8566 Japan",
+          "ContactEmail": "support@eizo.com",
+          "ContactPhone": "+81-76-277-6792",
+          "Website": "https://www.eizo.com",
+          "Warranty": "5-Year Panel Warranty",
+          "Certified": true
+        },
+        "CountryOfOrigin": "Japan",
+        "Instock": true,
+        "Instockno": 12,
+        "No_of_Likes": 923,
+        "No_of_Disikes": 7,
+        "Description": "Premium color-accurate monitor with Studio Ghibli collaboration, featuring Totoro stand design, My Neighbor Totoro forest pattern on back, and special animation work presets.",
+        "Releasedate": "2024-11-10T00:00:00.000Z",
+        "Ratings": 4.9
+      }
+    ]
+  },
+  {
+    "ItemType": "Computer-games",
+    "comItemType": "Monitors",
+    "Type": [
+      {
+        "Title": "Chainsaw Man 27-inch 360Hz Esports Monitor",
+        "Brand": "Alienware",
+        "Model": "AW2724HF-CSM",
+        "Compatibility": ["Extreme Gaming", "Tournaments"],
+        "Image": "https://example.com/images/chainsaw_man_monitor.jpg",
+        "ProductGallery": [
+          "https://example.com/gallery/csm1.jpg",
+          "https://example.com/gallery/csm2.jpg"
+        ],
+        "Color": ["Blood Red", "Chainsaw Silver"],
+        "Material": "Fast IPS, AlienFX Lighting",
+        "Connectivity": "HDMI 2.1, DisplayPort 1.4, USB 3.2",
+        "Features": ["360Hz Refresh Rate", "0.5ms GTG", "NVIDIA G-SYNC", "Chainsaw Rev Lighting Effects", "Devil Hunter Crosshair"],
+        "Size": ["27-inch"],
+        "Weight": 7.2,
+        "Originalvalue": 899.99,
+        "previousvalue": 999.99,
+        "Marketprice": 849.99,
+        "Currentoffer": ["Limited Edition Denji Figure"],
+        "previousoffer": "Early Bird Discount",
+        "Warranty": "3 Years",
+        "Manufacturer": {
+          "Name": "Dell Technologies (Alienware)",
+          "Country": "USA",
+          "Address": "One Dell Way, Round Rock, Texas 78682",
+          "ContactEmail": "alienware_support@dell.com",
+          "ContactPhone": "+1-800-457-3355",
+          "Website": "https://www.alienware.com",
+          "Warranty": "3-Year Premium Support",
+          "Certified": true
+        },
+        "CountryOfOrigin": "USA",
+        "Instock": false,
+        "Instockno": 5,
+        "No_of_Likes": 1876,
+        "No_of_Disikes": 45,
+        "Description": "Extreme esports monitor with Chainsaw Man theme, featuring Pochita stand design, devil contract lighting patterns, and special blood splatter screen cleaner.",
+        "Releasedate": "2024-10-31T00:00:00.000Z",
+        "Ratings": 4.7
+      }
+    ]
+  }
+  ]
